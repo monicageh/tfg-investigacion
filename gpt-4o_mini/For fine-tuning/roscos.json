@@ -1,0 +1,2057 @@
+[
+    {
+        "_id": {
+            "$oid": "1"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "AHORRO",
+                    "AHORROS"
+                ],
+                "definition": "Empieza por la A: Dinero guardado para un uso futuro"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BIENVENIDA"
+                ],
+                "definition": "Empieza por la B: Recibimiento cortés que se hace a alguien"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CENSOR",
+                    "CENSORA"
+                ],
+                "definition": "Empieza por la C: Funcionario que revisa obras y publicaciones y propone, si es necesario, que se modifiquen o se prohíban"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DEBUTAR"
+                ],
+                "definition": "Empieza por la D: Presentarse una compañía teatral o un artista por primera vez ante el público"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ESTOFADO"
+                ],
+                "definition": "Empieza por la E: Guiso consistente en un alimento condimentado en crudo que se cuece a fuego lento en un recipiente bien tapado"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FLOBOTS"
+                ],
+                "definition": "Empieza por la F: Nombre del grupo de música que publicó el álbum 'Fight with Tools'"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GASEOSA"
+                ],
+                "definition": "Empieza por la G: Bebida refrescante, efervescente y sin alcohol"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HEREDITARIO",
+                    "HEREDITARIA"
+                ],
+                "definition": "Empieza por la H: Se dice de la costumbre o de la cualidad que pasa de padres a hijos"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "INFERIORIDAD"
+                ],
+                "definition": "Empieza por la I: Desventaja en lo que concierne al rango o fuerza"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JUEGO"
+                ],
+                "definition": "Empieza por la J: En tenis y otros deportes, cada una de las partes en que se divide un set"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LUMA"
+                ],
+                "definition": "Empieza por la L: Árbol de Chile, de madera dura, pesada y resistente, que da un fruto llamado 'caucháu'"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MOMIA"
+                ],
+                "definition": "Empieza por la M: Cadáver que, de manera natural o artificial, se deseca con el paso del tiempo sin entrar en putrefacción"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NAMIBIO",
+                    "NAMIBIANO",
+                    "NAMIBIA",
+                    "NAMIBIANA"
+                ],
+                "definition": "Empieza por la N: Natural del país africano con capital en Windhoek"
+            },
+            {
+                "letter": "Ñ",
+                "correctWords": [
+                    "REBAÑO"
+                ],
+                "definition": "Contiene la Ñ: Grupo de reses, particularmente lanares, que se crían juntas"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "ONTOLOGIA"
+                ],
+                "definition": "Empieza por la O: Parte de la metafísica que trata del ser en general"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PIROTECNICO",
+                    "PIROTECNICA"
+                ],
+                "definition": "Empieza por la P: Perteneciente o relativo a la pirotecnia"
+            },
+            {
+                "letter": "Q",
+                "correctWords": [
+                    "ESQUILERO"
+                ],
+                "definition": "Contiene la Q: Red en forma de saco con un aro de madera, que se emplea para pescar camarones"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RECLUSION"
+                ],
+                "definition": "Empieza por la R: Encierro o prisión voluntaria o forzada"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "UDOMETRO"
+                ],
+                "definition": "Empieza por la U: Aparato que sirve para medir la cantidad de lluvia que cae en un lugar y tiempo dados"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VASCONEZ"
+                ],
+                "definition": "Empieza por la V: Apellido de la escultura autora de 'Las tahitianas', obra ubicada en el parque Bicentenario de Quito"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZINC"
+                ],
+                "definition": "Empieza por la Z: Elemento químico metálico, de símbolo ZN"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "2"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ASTA"
+                ],
+                "definition": "Empieza por la A: Cuerno de algunos animales, como el toro o el ciervo"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BELICO",
+                    "BELICA"
+                ],
+                "definition": "Empieza por la B: Perteneciente o relativo a la guerra"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CEGUERA",
+                    "CEGUEDAD"
+                ],
+                "definition": "Empieza por la C: Total privación del sentido de la vista"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DISTRIBUCION"
+                ],
+                "definition": "Empieza por la D: Comercialización y reparto de un producto desde su salida de producción hasta que llega al vendedor"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ESPEJO"
+                ],
+                "definition": "Empieza por la E: Superficie brillante que refleja las imágenes"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GERMEN"
+                ],
+                "definition": "Empieza por la G: Microorganismo que puede causar o propagar enfermedades"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HERENCIA",
+                    "HEREDAD"
+                ],
+                "definition": "Empieza por la H: Conjunto de bienes que se reciben tras el fallecimiento de su poseedor, por disposición testamentaria o legal"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "IRASCIBLE",
+                    "IRACUNDO",
+                    "IRACUNDA"
+                ],
+                "definition": "Empieza por la I: Irritable, propenso a la ira"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JUGLAR"
+                ],
+                "definition": "Empieza por la J: En la Edad Media, persona que iba de lugar en lugar y recitaba, cantaba o bailaba ante el pueblo o ante reyes"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LANDEIRA"
+                ],
+                "definition": "Empieza por la L: Apellido del pintor autor de la obra Retrato del arzobispo Juan de Sanclemente y Torquemada, de 1769"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MACEDONIA"
+                ],
+                "definition": "Empieza por la M: Ensalada de frutas"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NAVARRO",
+                    "NAVARRA"
+                ],
+                "definition": "Empieza por la N: Natural de la comunidad autónoma con capital en Pamplona"
+            },
+            {
+                "letter": "Ñ",
+                "correctWords": [
+                    "CABAÑA"
+                ],
+                "definition": "Contiene la Ñ: Construcción rústica pequeña, de materiales pobres, destinada a refugio o vivienda"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OSOBUCO",
+                    "OSSOBUCO"
+                ],
+                "definition": "Empieza por la O: Estofado de carne de vacuno, cortada del jarrete, con el hueso y su caña incluidos"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PLACARTE"
+                ],
+                "definition": "Empieza por la P: Cartel o edicto que se fijaba en las esquinas para conocimiento de la gente"
+            },
+            {
+                "letter": "Q",
+                "correctWords": [
+                    "ANTIQUISIMO",
+                    "ANTIQUISIMA"
+                ],
+                "definition": "Contiene la Q: Adjetivo superlativo de antiguo"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RESPETO"
+                ],
+                "definition": "Empieza por la R: Actitud de la persona que guarda las consideraciones debidas a las personas o las cosas"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SLOGAN"
+                ],
+                "definition": "Empieza por la S: Título de la película de 1969, dirigida por Pierre Grimblat y protagonizada por Serge Gainsbourg y Jane Birkin"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TUPE"
+                ],
+                "definition": "Empieza por la T: Mechón de pelo que se lleva levantado sobre la frente"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "UNICO",
+                    "UNICA",
+                    "UNIGENITO",
+                    "UNIGENITA"
+                ],
+                "definition": "Empieza por la U: Se dice del hijo que carece de hermanos"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VENDER"
+                ],
+                "definition": "Empieza por la V: Traspasar a alguien por el precio convenido la propiedad de lo que se posee"
+            },
+            {
+                "letter": "X",
+                "correctWords": [
+                    "EXPERIENCIA"
+                ],
+                "definition": "Contiene la X: Práctica prolongada que proporciona conocimiento o habilidad para hacer algo"
+            },
+            {
+                "letter": "Y",
+                "correctWords": [
+                    "CONVOY"
+                ],
+                "definition": "Contiene la Y: Escolta o guardia que se destina para llevar con seguridad y resguardo algo por mar o por tierra"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZOTE",
+                    "ZOQUETE",
+                    "ZOPENCO",
+                    "ZOPENCA"
+                ],
+                "definition": "Empieza por la Z: Ignorante, torpe y muy tardo en aprender"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "4"
+        },
+        "words": [
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BOTA"
+                ],
+                "definition": "Empieza por la B: Cuero pequeño destinado especialmente a contener vino"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CAPSULA"
+                ],
+                "definition": "Empieza por la C: Cuero pequeño destinado especialmente a contener vino"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DOLMEN"
+                ],
+                "definition": "Empieza por la D: Monumento prehistórico formado por una piedra horizontal sostenida por otras verticales"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EMBOSCADA",
+                    "EMBOSCADURA"
+                ],
+                "definition": "Empieza por la E: Operación de guerra que consiste en ocultar una tropa en un lugar para atacar a otra por sorpresa"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FECIAL"
+                ],
+                "definition": "Empieza por la F: Entre los romanos, sacerdote que declaraba la guerra y concertaba la paz"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GRADA"
+                ],
+                "definition": "Empieza por la G: En un teatro, estadio, plaza de toros o edificación semejante, escalón corrido que sirve de asiento"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HOLGURA"
+                ],
+                "definition": "Empieza por la H: Anchura sobrada"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "INUNDACION"
+                ],
+                "definition": "Empieza por la I: Acción y efecto de cubrir el agua un lugar determinado o un territorio"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JASPE"
+                ],
+                "definition": "Empieza por la J: Mármol veteado"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LETRERO"
+                ],
+                "definition": "Empieza por la L: Escrito con alguna indicación colocado en cualquier sitio; como el de los nombres de calles o de tiendas"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MINTAKA"
+                ],
+                "definition": "Empieza por la M: Nombre de la estrella que forma parte del cinturón de Orión, junto a las estrellas Alnitak y Alnilam"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NEOLOGISMO"
+                ],
+                "definition": "Empieza por la N: Palabra o expresión recién introducida en una lengua"
+            },
+            {
+                "letter": "Ñ",
+                "correctWords": [
+                    "CAÑON"
+                ],
+                "definition": "Contiene la Ñ: Paso estrecho o garganta profunda entre dos montañas, por donde suelen correr los ríos"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "ORUJO"
+                ],
+                "definition": "Empieza por la O: Aguardiente que se elabora a partir de la destilación del hollejo de la uva"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PROTIO"
+                ],
+                "definition": "Empieza por la P: Isótopo natural del hidrógeno, de número másico 1"
+            },
+            {
+                "letter": "Q",
+                "correctWords": [
+                    "PIQUETA"
+                ],
+                "definition": "Contiene la Q: Utensilio puntiagudo que se clava en la tierra y sirve para enganchar los vientos de la tienda de campaña"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RAREZA"
+                ],
+                "definition": "Empieza por la R: Acción característica de la persona extravagante"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SEDIENTO",
+                    "SEDIENTA",
+                    "SECO",
+                    "SECA",
+                    "SEDIENTE"
+                ],
+                "definition": "Empieza por la S: Que tiene sed"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TROUP"
+                ],
+                "definition": "Empieza por la T: Apellido del arquitecto que diseñó la estación de ferrocarril de la ciudad neozelandesa de Dunedin"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "UNGULADO",
+                    "UNGULADA"
+                ],
+                "definition": "Empieza por la U: Se dice del mamífero que tiene las extremidades terminadas en casco o pezuña, como el caballo o el toro"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VESTIR",
+                    "VESTIRSE"
+                ],
+                "definition": "Empieza por la V: Cubrir o adornar el cuerpo con ropa"
+            },
+            {
+                "letter": "X",
+                "correctWords": [
+                    "EXTREMEÑO",
+                    "EXTREMEÑA"
+                ],
+                "definition": "Contiene la X: Natural de la comunidad autónoma con capital en Mérida"
+            },
+            {
+                "letter": "Y",
+                "correctWords": [
+                    "PLAY"
+                ],
+                "definition": "Contiene la Y: Voz inglesa que designa la tecla de un aparato que se pulsa para iniciar la reproducción de un vídeo"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZARINA"
+                ],
+                "definition": "Empieza por la Z: Emperatriz de Rusia"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "5"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "AFTERSUN"
+                ],
+                "definition": "Empieza por la A: Voz inglesa que designa la crema que se utiliza para hidratar la piel después de tomar el sol"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BAILAR"
+                ],
+                "definition": "Empieza por la B: Mover el cuerpo y los miembros con ritmo, siguiendo el compás de una música"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CIRCULO"
+                ],
+                "definition": "Empieza por la C: Área o superficie plana contenida dentro de una circunferencia"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DERMIS"
+                ],
+                "definition": "Empieza por la D: Capa inferior y más gruesa de la piel"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EMPLEADO",
+                    "EMPLEADA"
+                ],
+                "definition": "Empieza por la E: Persona que desempeña un trabajo a cambio de un sueldo"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FOSFORILAR"
+                ],
+                "definition": "Empieza por la F: En química, introducir ácido fosfórico en una molécula"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GRAMATICA"
+                ],
+                "definition": "Empieza por la G: Parte de la lingüística que estudia los elementos de una lengua, así como la forma en que estos se combinan"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HALLAZGO",
+                    "HALLADA"
+                ],
+                "definition": "Empieza por la H: Cosa encontrada"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "INFLAMACION"
+                ],
+                "definition": "Empieza por la I: Alteración patológica en una parte del organismo que produce calor, enrojecimiento, hinchazón y dolor"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JUGARON",
+                    "JUGARON"
+                ],
+                "definition": "Empieza por la J: Tercera persona del plural del pretérito perfecto simple de indicativo del verbo jugar"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LADERA"
+                ],
+                "definition": "Empieza por la L: Parte inclinada de un monte o de otra altura del terreno"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MIROBALANO",
+                    "MIROBALANOS",
+                    "MIROBOLANO",
+                    "MIRABOLANOS"
+                ],
+                "definition": "Empieza por la M: Árbol de la India, también llamado “belérico”, cuyos frutos se usan en medicina y tintorería"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NACAR",
+                    "NACARA",
+                    "NACRE"
+                ],
+                "definition": "Empieza por la N: Sustancia blanca y dura, que reviste el interior de algunas conchas de moluscos, como la madreperla"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BAÑADOR"
+                ],
+                "definition": "Empieza por la B: Prenda, generalmente de una pieza, usada para bañarse en playas o piscinas"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OCIO",
+                    "OCIOSIDAD"
+                ],
+                "definition": "Empieza por la O: Situación de la persona que disfruta de su tiempo libre"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PITSUWAN"
+                ],
+                "definition": "Empieza por la P: Apellido del político secretario general de la Asociación de Naciones del Sudeste Asiático de 2008 a 2012"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BOQUETE",
+                    "RESQUICIO"
+                ],
+                "definition": "Empieza por la B: Entrada estrecha de un lugar"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "REPETIR"
+                ],
+                "definition": "Empieza por la R: En una comida, volver a servirse de un plato que ya se ha tomado"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SONADO",
+                    "SONADA"
+                ],
+                "definition": "Empieza por la S: Que es muy nombrado, conocido o famoso"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TALENTO",
+                    "TECNICA"
+                ],
+                "definition": "Empieza por la T: Habilidad o aptitud para una cosa determinada"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "UNDECAGONO",
+                    "UNDECAGONO"
+                ],
+                "definition": "Empieza por la U: Polígono de once lados"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VIBORA"
+                ],
+                "definition": "Empieza por la V: Serpiente venenosa de cabeza triangular y aplastada, y dos dientes huecos en la mandíbula superior"
+            },
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ASFIXIA",
+                    "ASFIXIA"
+                ],
+                "definition": "Empieza por la A: Suspensión o dificultad en la respiración"
+            },
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ACARAY",
+                    "ACARAYA"
+                ],
+                "definition": "Empieza por la A: Río de Paraguay que desemboca en el río Paraná en la localidad de Ciudad del Este, en la frontera con Brasil"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZAPADOR",
+                    "ZAPADORA"
+                ],
+                "definition": "Empieza por la Z: Soldado de un cuerpo destinado a los trabajos de excavación"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "6"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ARTICULO"
+                ],
+                "definition": "Empieza por la A: Escrito que se publica en un periódico o revista y en el que se reflexiona sobre un tema determinado"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BUTANO"
+                ],
+                "definition": "Empieza por la B: Hidrocarburo gaseoso derivado del petróleo que, envasado a presión, tiene usos domésticos como combustible"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CLAMOR"
+                ],
+                "definition": "Empieza por la C: Grito vehemente de una multitud"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DONATIVO",
+                    "DONACION"
+                ],
+                "definition": "Empieza por la D: Dádiva o regalo, especialmente con fines benéficos o humanitarios"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ESCANDALIZAR"
+                ],
+                "definition": "Empieza por la E: Causar escándalo"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FERIA"
+                ],
+                "definition": "Empieza por la F: Mercado de mayor importancia que el común, en paraje público y días señalados"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GUANARE"
+                ],
+                "definition": "Empieza por la G: Ciudad de Venezuela que es capital del estado de Portuguesa"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HABITAT",
+                    "HABITACION"
+                ],
+                "definition": "Empieza por la H: Entorno geográfico adecuado para la vida de una especie animal o vegetal"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "INTERCAMBIADOR"
+                ],
+                "definition": "Empieza por la I: Estación en que los viajeros pueden cambiar de un medio de transporte a otro"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JURISCONSULTO",
+                    "JURISCONSULTA",
+                    "JURISTA"
+                ],
+                "definition": "Empieza por la J: Persona dedicada al estudio, interpretación y aplicación del derecho"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LANDRETH"
+                ],
+                "definition": "Empieza por la L: Apellido del guitarrista que publicó el álbum 'Bound by the Blues'"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "METRALLA"
+                ],
+                "definition": "Empieza por la M: Munición menuda con que se cargan los proyectiles de explosión"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NEMOTECNIA"
+                ],
+                "definition": "Empieza por la N: Procedimiento de asociación mental para facilitar el recuerdo de algo"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VICUÑA"
+                ],
+                "definition": "Empieza por la V: Mamífero rumiante salvaje, parecido a la llama, de pelaje largo y muy fino, que vive en manadas en los Andes"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "ORZUELO"
+                ],
+                "definition": "Empieza por la O: Grano que se forma en el borde de un párpado"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PESIMISTA"
+                ],
+                "definition": "Empieza por la P: Se dice de la persona que tiende a ver y juzgar las cosas por el lado más desfavorable"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EQUINOCCIO"
+                ],
+                "definition": "Empieza por la E: Momento del año en que el Sol se halla sobre el ecuador, y el día y la noche tienen la misma duración"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "REMUGAR",
+                    "RUMIAR"
+                ],
+                "definition": "Empieza por la R: Masticar un animal por segunda vez el alimento que ha tragado previamente"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SUFETE"
+                ],
+                "definition": "Empieza por la S: Magistrado supremo de Cartago y de otras repúblicas fenicias"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TEJANO",
+                    "TEJANOS"
+                ],
+                "definition": "Empieza por la T: Pantalón vaquero"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "URBE"
+                ],
+                "definition": "Empieza por la U: Ciudad, especialmente la muy populosa"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VERSATILIDAD"
+                ],
+                "definition": "Empieza por la V: Cualidad de la persona que es capaz de adaptarse con facilidad y rapidez a diversas funciones"
+            },
+            {
+                "letter": "A",
+                "correctWords": [
+                    "APROXIMACION"
+                ],
+                "definition": "Empieza por la A: Resultado cercano al exacto que se obtiene en una medición o cálculo cuando no se puede precisar absolutamente"
+            },
+            {
+                "letter": "Y",
+                "correctWords": [
+                    "YUYU"
+                ],
+                "definition": "Empieza por la Y: Coloquialmente, miedo, aprensión"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZOILO"
+                ],
+                "definition": "Empieza por la Z: Crítico vanidoso que censura maliciosamente las obras ajenas"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "7"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ABANDONO",
+                    "ABANDONAMIENTO"
+                ],
+                "definition": "Empieza por la A: Acción y efecto de dejar solo algo o a alguien alejándose de ello o dejando de cuidarlo"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BLASFEMIA"
+                ],
+                "definition": "Empieza por la B: Palabra o expresión injuriosas contra alguien o algo sagrado"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CRUZAR"
+                ],
+                "definition": "Empieza por la C: Colocar las piernas montando una sobre la otra cuando se está sentado"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DIALECTO"
+                ],
+                "definition": "Empieza por la D: Variedad de un idioma que no alcanza la categoría social de lengua"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ERDMAN,PAUL"
+                ],
+                "definition": "Empieza por la E: Apellido del escritor autor de la novela Los últimos días de América"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FRANJAFAJA"
+                ],
+                "definition": "Empieza por la F: Fragmento largo y estrecho de una cosa"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GENDARME"
+                ],
+                "definition": "Empieza por la G: Agente de policía de Francia, destinado a mantener el orden y la seguridad pública"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HORMIGON"
+                ],
+                "definition": "Empieza por la H: Mezcla de piedras menudas y mortero de cal o cemento y arena, empleada para la construcción"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "INAUGURAR"
+                ],
+                "definition": "Empieza por la I: Celebrar el estreno de una obra, de un edificio o de un monumento"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JARAL"
+                ],
+                "definition": "Empieza por la J: Sitio poblado de jaras"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LAMAR"
+                ],
+                "definition": "Empieza por la L: Ciudad de Estados Unidos, situada en el estado de Misuri, en la que nació Harry S. Truman"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MANDATO",
+                    "MANDO"
+                ],
+                "definition": "Empieza por la M: Orden o precepto que el superior da a los súbditos"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NICK",
+                    "NICKNAME"
+                ],
+                "definition": "Empieza por la N: Voz inglesa que designa el sobrenombre empleado por un usuario de Internet para identificarse en un servicio"
+            },
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ARAÑA"
+                ],
+                "definition": "Empieza por la A: Arácnido con cuatro pares de patas y abdomen abultado, que segrega un hilo de seda con el que caza a sus presa"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OUZO"
+                ],
+                "definition": "Empieza por la O: Licor anisado de mucha graduación alcohólica, de origen griego"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PROTOCOLO"
+                ],
+                "definition": "Empieza por la P: Conjunto de reglas establecidas por norma o por costumbre para ceremonias y actos oficiales o solemnes"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LIQUEN"
+                ],
+                "definition": "Empieza por la L: Organismo resultante de la simbiosis de hongos con algas unicelulares, que crece en sitios húmedos"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RECTOR",
+                    "RECTORA"
+                ],
+                "definition": "Empieza por la R: Persona que dirige una universidad"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SACAPUNTAS"
+                ],
+                "definition": "Empieza por la S: Instrumento para afilar los lápices"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TAMBARA"
+                ],
+                "definition": "Empieza por la T: Caña o tutor que se pone a una planta para que no se tuerza"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "ULTRATUMBA"
+                ],
+                "definition": "Empieza por la U: Ámbito más allá de la muerte"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VITAMINICO",
+                    "VITAMINICA"
+                ],
+                "definition": "Empieza por la V: Perteneciente o relativo a las vitaminas"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "COXIS",
+                    "COCCIX"
+                ],
+                "definition": "Empieza por la C: Hueso propio de los vertebrados que carecen de cola, que está formado por la unión de las última vértebras"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GRAMMY"
+                ],
+                "definition": "Empieza por la G: Nombre del premio anual que la Academia de la Grabación de EEUU otorga a lo mejor de la industria musical"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZANCADILLEAR"
+                ],
+                "definition": "Empieza por la Z: Poner la zancadilla a alguien"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "8"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ASPA",
+                    "ASPAS"
+                ],
+                "definition": "Empieza por la A: Armazón con forma de X que, en los molinos de viento, sostiene las telas en que hace presión el viento"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BUFETE",
+                    "BUFET"
+                ],
+                "definition": "Empieza por la B: Estudio o despacho de un abogado"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CORTE"
+                ],
+                "definition": "Empieza por la C: Interrupción en una emisión radiofónica o televisiva para la publicidad"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DIPLOMA"
+                ],
+                "definition": "Empieza por la D: Documento que expide un centro educativo y que acredita un título o un grado académico"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ENTRANTE",
+                    "ENTRANTES",
+                    "ENTREMES",
+                    "ENTREMESES",
+                    "ENTRADA"
+                ],
+                "definition": "Empieza por la E: Plato que se toma al principio de una comida"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FAMINE"
+                ],
+                "definition": "Empieza por la F: Título de la película de 1967, dirigida por Jack Gold, que trata sobre el estado de Bihar"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GANZUA"
+                ],
+                "definition": "Empieza por la G: Alambre o varilla doblada por un extremo, que se utiliza para abrir cerraduras"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HAMBRIENTO",
+                    "HAMBRIENTA"
+                ],
+                "definition": "Empieza por la H: Que tiene muchas ganas de comer"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "IMPARCIALIDAD"
+                ],
+                "definition": "Empieza por la I: Falta de designio anticipado en favor o en contra de alguien, que permite proceder con rectitud"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JADEAR"
+                ],
+                "definition": "Empieza por la J: Respirar anhelosamente por efecto de algún trabajo o ejercicio impetuoso"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LATIFUNDIO"
+                ],
+                "definition": "Empieza por la L: Finca rústica de gran extensión"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MITIN"
+                ],
+                "definition": "Empieza por la M: Reunión pública en que uno o varios oradores pronuncian discursos de carácter político"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NOCHIZO"
+                ],
+                "definition": "Empieza por la N: Avellano silvestre"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ENDIÑAR"
+                ],
+                "definition": "Empieza por la E: Coloquialmente, hacer que alguien acepte o cargue con algo, generalmente molesto o perjudicial"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OBJETO"
+                ],
+                "definition": "Empieza por la O: Materia o asunto de que se ocupa una ciencia o estudio"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PACHARAN"
+                ],
+                "definition": "Empieza por la P: Licor originario de Navarra que se obtiene por maceración de endrinas en anís"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FLEQUILLO"
+                ],
+                "definition": "Empieza por la F: Mechón de pelo que cae sobre la frente"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RUTA",
+                    "RECORRIDO",
+                    "RUMBO"
+                ],
+                "definition": "Empieza por la R: Camino establecido o previsto para una expedición o viaje"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SISTILO",
+                    "SISTILA"
+                ],
+                "definition": "Empieza por la S: Se dice del monumento clásico adornado con columnatas cuyos espacios entre columnas son de cuatro módulos"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TIGRIS"
+                ],
+                "definition": "Empieza por la T: Río de Asia que, junto al Éufrates, definía los límites de la antigua región de Mesopotamia"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "UF"
+                ],
+                "definition": "Empieza por la U: Interjección usada para denotar cansancio, fastidio o sofocación"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VENTRESCA",
+                    "VENTRECHA"
+                ],
+                "definition": "Empieza por la V: Vientre de los pescados"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EXTRAMUROS"
+                ],
+                "definition": "Empieza por la E: Adverbio que significa fuera del recinto de una ciudad o población"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EYTH"
+                ],
+                "definition": "Empieza por la E: Apellido del ingeniero que fundó la Sociedad Agrícola Alemana en 1885"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZASCANDILEAR",
+                    "ZANGANEAR"
+                ],
+                "definition": "Empieza por la Z: Ir de un lado para otro perdiendo el tiempo"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "9"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ASTRONOMIA",
+                    "ASTROLOGIA"
+                ],
+                "definition": "Empieza por la A: Ciencia que trata de los astros, de su movimiento y de las leyes que lo rigen"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BENEMERITA"
+                ],
+                "definition": "Empieza por la B: Guardia Civil española"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CUNA"
+                ],
+                "definition": "Empieza por la C: Cama para bebés, con bordes altos o barandillas laterales, a veces dispuesta para poderla mecer"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DESCENDENCIA"
+                ],
+                "definition": "Empieza por la D: Conjunto de descendientes de una persona o animal"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ESCRITORIO"
+                ],
+                "definition": "Empieza por la E: Mesa de despacho"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FINAL",
+                    "FIN"
+                ],
+                "definition": "Empieza por la F: Término y remate de algo"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GORGORITO",
+                    "GORGORITA",
+                    "GORGORITOS",
+                    "GORGORITAS"
+                ],
+                "definition": "Empieza por la G: Quiebro que se hace con la voz en la garganta, especialmente al cantar"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HAKEN"
+                ],
+                "definition": "Empieza por la H: Apellido del matemático que, en 1976, resolvió, junto a Kenneth Appel, el teorema de los cuatro colores"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "IGLU"
+                ],
+                "definition": "Empieza por la I: Vivienda semiesférica, hecha con bloques de hielo, que los esquimales construyen en invierno"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JARDINERO",
+                    "JARDINERA"
+                ],
+                "definition": "Empieza por la J: Persona que por oficio cuida y cultiva un jardín"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LOGOTIPO",
+                    "LOGO"
+                ],
+                "definition": "Empieza por la L: Símbolo gráfico que sirve de emblema de una empresa o entidad, de una marca o de un producto"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MOVIENTE"
+                ],
+                "definition": "Empieza por la M: Se dice del territorio o del Estado que antiguamente rendía vasallaje a otro"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NOTICIA",
+                    "NOVEDAD",
+                    "NUEVA"
+                ],
+                "definition": "Empieza por la N: Información sobre algo que se considera interesante divulgar"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CABAÑEROS"
+                ],
+                "definition": "Empieza por la C: Parque nacional de España, situado en los montes de Toledo, en la comunidad autónoma de Castilla-La Mancha"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OJIVA"
+                ],
+                "definition": "Empieza por la O: Parte delantera de un proyectil"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PATA"
+                ],
+                "definition": "Empieza por la P: Pie de un mueble"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CUAQUERO",
+                    "CUAQUERA"
+                ],
+                "definition": "Empieza por la C: Individuo de una doctrina religiosa fundada en el siglo 17 por George Fox, conocida como Sociedad de los Amigo"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "REDONDO"
+                ],
+                "definition": "Empieza por la R: Pieza de carne de res, que se corta de forma casi cilíndrica, de la parte inmediata a la contratapa"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SERVICIO"
+                ],
+                "definition": "Empieza por la S: En tenis y otros deportes semejantes, saque"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TETRAEDRO"
+                ],
+                "definition": "Empieza por la T: Cuerpo geométrico limitado por cuatro caras que son triángulos"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "ULTRAMONTANO",
+                    "ULTRAMONTANA"
+                ],
+                "definition": "Empieza por la U: Que está más allá o de la otra parte de los montes"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VETERANIA"
+                ],
+                "definition": "Empieza por la V: Cualidad de la persona que ha desempeñado durante mucho tiempo una profesión o tiene experiencia en una activi"
+            },
+            {
+                "letter": "X",
+                "correctWords": [
+                    "FLEXION"
+                ],
+                "definition": "Contiene la X: Acción y efecto de doblar el cuerpo o algún miembro"
+            },
+            {
+                "letter": "Y",
+                "correctWords": [
+                    "BAYAMESA"
+                ],
+                "definition": "Contiene la Y: Título de la obra de teatro de Abel González Melo, de 2019, que trata sobre la poetisa María Luisa Milanés"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZURCIR"
+                ],
+                "definition": "Empieza por la Z: Coser la rotura de una tela, juntando los pedazos con puntadas o pasos ordenados"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "10"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ALUD",
+                    "AVALANCHA"
+                ],
+                "definition": "Empieza por la A: Gran masa de nieve que se derrumba de los montes con violencia y estrépito"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BRUNCH"
+                ],
+                "definition": "Empieza por la B: Voz inglesa de comida de media mañana que se toma para sustituir al desayuno y la comida de mediodía"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CELIBATO"
+                ],
+                "definition": "Empieza por la C: Soltería, especialmente la de quien ha hecho voto de castidad"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DERROTAR"
+                ],
+                "definition": "Empieza por la D: Vencer a un enemigo o a un rival"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ESCARZO"
+                ],
+                "definition": "Empieza por la E: Trozo de árbol o de madera podrido o carcomido"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FIANZA"
+                ],
+                "definition": "Empieza por la F: Cantidad de dinero o bien material que se entrega como garantía del cumplimiento de una obligación"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GARRAPATA"
+                ],
+                "definition": "Empieza por la G: Ácaro diminuto, de forma ovalada, que se agarra al cuerpo de ciertos mamíferos para chuparles la sangre"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HIPOCONDRIA"
+                ],
+                "definition": "Empieza por la H: Preocupación obsesiva por la propia salud, particularmente por contraer enfermedades"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "IRLANDA"
+                ],
+                "definition": "Empieza por la I: País europeo con capital en Dublín"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JUNIO"
+                ],
+                "definition": "Empieza por la J: Sexto mes del año"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LILIOM"
+                ],
+                "definition": "Empieza por la L: película de 1934, dirigida por Fritz Lang, que adapta una obra de teatro del mismo título de Ferenc Molnár"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MIGA",
+                    "MOLLEDO",
+                    "MOLLA"
+                ],
+                "definition": "Empieza por la M: Parte interior y más blanda del pan, rodeada y cubierta por la corteza"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NUDO"
+                ],
+                "definition": "Empieza por la N: Lazo que se estrecha y cierra de modo que, con dificultad, se pueda soltar por sí solo"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GRUÑIR"
+                ],
+                "definition": "Empieza por la G: Emitir su voz propia el cerdo"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "ORDINARIO",
+                    "ORDINARIA"
+                ],
+                "definition": "Empieza por la O: correo despachado por los medios y en los plazos habituales, a diferencia del aéreo o del urgente"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PATENTE"
+                ],
+                "definition": "Empieza por la P: Documento en que oficialmente se le reconoce a alguien una invención y los derechos que de ella se derivan"
+            },
+            {
+                "letter": "Y",
+                "correctWords": [
+                    "YANQUI"
+                ],
+                "definition": "Empieza por la Y: Coloquialmente, estadounidense"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RAMACCIOTI"
+                ],
+                "definition": "Empieza por la R: Apellido del escultor autor de la estatua del Cristo Redentor situada en la localidad argentina de La Cumbre"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SEGUNDO",
+                    "SEGUNDA"
+                ],
+                "definition": "Empieza por la S: Que ocupa en una serie el lugar número dos"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TAPIZ"
+                ],
+                "definition": "Empieza por la T: Tela gruesa colgada de la pared con dibujos de figuras y escenas realizados combinando hilos de colores"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "URBE"
+                ],
+                "definition": "Empieza por la U: Ciudad, especialmente la muy populosa"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VISCOSO",
+                    "VISCOSA"
+                ],
+                "definition": "Empieza por la V: Pegajoso, glutinoso"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EXPEDIR"
+                ],
+                "definition": "Empieza por la E: Extender un documento o una orden, o ponerlos por escrito y en la forma adecuada"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "COBAYA"
+                ],
+                "definition": "Empieza por la C: Persona sobre la que se realiza algún experimento médico o biológico"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZONIFICACION"
+                ],
+                "definition": "Empieza por la Z: Acción y efecto de dividir un terreno en zonas"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "11"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ALIENTO"
+                ],
+                "definition": "Empieza por la A: Aire que se expulsa al respirar"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BOMBA"
+                ],
+                "definition": "Empieza por la B: Máquina o artefacto para impulsar agua u otro líquido en una dirección determinada"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CUADRICEPS"
+                ],
+                "definition": "Empieza por la C: Músculo situado en la parte anterior del muslo, que interviene en la extensión de la pierna"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DON",
+                    "DESTREZA"
+                ],
+                "definition": "Empieza por la D: Cualidad especial o habilidad para hacer algo"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ETICA"
+                ],
+                "definition": "Empieza por la E: Parte de la filosofía que trata del bien y el mal en los actos humanos"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FLIEDNER"
+                ],
+                "definition": "Empieza por la F: Apellido del clérigo que, en 1836, fundó una pionera escuela de enfermería en Alemania"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GRAFITI",
+                    "GRAFITO"
+                ],
+                "definition": "Empieza por la G: Inscripción o dibujo callejero, generalmente anónimo"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HURTAR"
+                ],
+                "definition": "Empieza por la H: Tomar o retener bienes ajenos contra la voluntad de su dueño, sin hacer uso de la intimidación ni de la fuerza"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "INFILTRACION"
+                ],
+                "definition": "Empieza por la I: Inyección que se pone en una zona del cuerpo afectada por una dolencia"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JUGUETERIA"
+                ],
+                "definition": "Empieza por la J: Tienda donde se venden juguetes"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LLAVE"
+                ],
+                "definition": "Empieza por la L: En algunos tipos de lucha, como el judo, movimiento para inmovilizar o derribar al contrario"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MISTER"
+                ],
+                "definition": "Empieza por la M: Ganador en un concurso de belleza masculina"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NEPOTISMO"
+                ],
+                "definition": "Empieza por la N: Preferencia hacia familiares y amigos a la hora de otorgar un empleo o cargo públicos"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RISUEÑO",
+                    "RISUEÑA"
+                ],
+                "definition": "Empieza por la R: Se dice de la persona que ríe con facilidad o tiene carácter alegre"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OTOSCOPIO"
+                ],
+                "definition": "Empieza por la O: Instrumento para explorar el oído"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PLEITA"
+                ],
+                "definition": "Empieza por la P: Faja o tira de esparto, pita o palma, que cosida con otras sirve para hacer objetos, como sombreros y capazos"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PAQUETE"
+                ],
+                "definition": "Empieza por la P: Persona que va sentada detrás del conductor en una motocicleta"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RATICIDA"
+                ],
+                "definition": "Empieza por la R: Sustancia que se emplea para eliminar ratas y ratones"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SVETAMBARA"
+                ],
+                "definition": "Empieza por la S: Nombre de la rama del jainismo, una de las dos principales de esta religión y cuyos monjes visten de blanco"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TERUEL"
+                ],
+                "definition": "Empieza por la T: Provincia española a la que pertenecen los municipios de Alcañiz y Alba"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "URBANISMO"
+                ],
+                "definition": "Empieza por la U: Conjunto de conocimientos relacionados con la planificación y desarrollo de las ciudades"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VINO"
+                ],
+                "definition": "Empieza por la V: Bebida alcohólica que se hace del zumo de las uvas exprimido y fermentado naturalmente"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EXPRESION"
+                ],
+                "definition": "Empieza por la E: Manifestación de los afectos y de las emociones por medio de la gesticulación"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HOY"
+                ],
+                "definition": "Empieza por la H: En este día, en el día presente"
+            },
+            {
+                "letter": "Z",
+                "correctWords": [
+                    "ZAPATERO"
+                ],
+                "definition": "Empieza por la Z: Mueble destinado a guardar el calzado"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    },
+    {
+        "_id": {
+            "$oid": "12"
+        },
+        "words": [
+            {
+                "letter": "A",
+                "correctWords": [
+                    "ALUMINIO"
+                ],
+                "definition": "Empieza por la A: Elemento químico metálico, de color similar al de la plata y símbolo AL"
+            },
+            {
+                "letter": "B",
+                "correctWords": [
+                    "BARRICADA"
+                ],
+                "definition": "Empieza por la B: Amontonamiento de toda clase de cosas, que se hace para resguardarse tras él en una lucha"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "CABEZADA"
+                ],
+                "definition": "Empieza por la C: Coloquialmente, sueño corto y ligero"
+            },
+            {
+                "letter": "D",
+                "correctWords": [
+                    "DESCENSO"
+                ],
+                "definition": "Empieza por la D: Modalidad de esquí alpino con una bajada en velocidad por un recorrido que pasa por una serie de puertas"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "ESTURION"
+                ],
+                "definition": "Empieza por la E: Pez marino de gran tamaño, que remonta los ríos para desovar y con cuyas huevas se prepara el caviar"
+            },
+            {
+                "letter": "F",
+                "correctWords": [
+                    "FAHRENKAMP"
+                ],
+                "definition": "Empieza por la F: Apellido del arquitecto que diseñó la Villa Wenhold, en la ciudad alemana de Bremen"
+            },
+            {
+                "letter": "G",
+                "correctWords": [
+                    "GALEOTE"
+                ],
+                "definition": "Empieza por la G: Hombre que remaba forzado en las galeras"
+            },
+            {
+                "letter": "H",
+                "correctWords": [
+                    "HOLGADO",
+                    "HOLGADA"
+                ],
+                "definition": "Empieza por la H: Ancho y sobrado para lo que ha de contener"
+            },
+            {
+                "letter": "I",
+                "correctWords": [
+                    "IMPUNTUALIDAD"
+                ],
+                "definition": "Empieza por la I: Falta de cuidado y diligencia en llegar a un lugar o partir de él a la hora convenida"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JARRON"
+                ],
+                "definition": "Empieza por la J: Vaso, por lo general de porcelana, artísticamente labrado, para adornar consolas y chimeneas"
+            },
+            {
+                "letter": "L",
+                "correctWords": [
+                    "LIMITAR"
+                ],
+                "definition": "Empieza por la L: Lindar dos territorios o dos terrenos"
+            },
+            {
+                "letter": "M",
+                "correctWords": [
+                    "MAULERIA"
+                ],
+                "definition": "Empieza por la M: Puesto en que se venden retazos de diferentes telas"
+            },
+            {
+                "letter": "N",
+                "correctWords": [
+                    "NUPCIAL"
+                ],
+                "definition": "Empieza por la N: Perteneciente o relativo a las bodas"
+            },
+            {
+                "letter": "C",
+                "correctWords": [
+                    "COMPAÑIA"
+                ],
+                "definition": "Empieza por la C: Agrupación de actores o bailarines unidos para representar espectáculos escénicos"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OJO"
+                ],
+                "definition": "Empieza por la O: Órgano de la vista en el ser humano y en los animales"
+            },
+            {
+                "letter": "P",
+                "correctWords": [
+                    "PENDON"
+                ],
+                "definition": "Empieza por la P: Estandarte de las iglesias y cofradías rematado en dos puntas, que se lleva en las procesiones"
+            },
+            {
+                "letter": "J",
+                "correctWords": [
+                    "JEQUE"
+                ],
+                "definition": "Empieza por la J: Entre los musulmanes y otros pueblos orientales, superior que gobierna y manda un territorio"
+            },
+            {
+                "letter": "R",
+                "correctWords": [
+                    "RECAUDAR"
+                ],
+                "definition": "Empieza por la R: Cobrar o percibir cantidades de dinero por cualquier concepto, como cuotas, donativos o contribuciones"
+            },
+            {
+                "letter": "S",
+                "correctWords": [
+                    "SUCUMBIOS"
+                ],
+                "definition": "Empieza por la S: Provincia de Ecuador con capital en la ciudad de Nueva Loja"
+            },
+            {
+                "letter": "T",
+                "correctWords": [
+                    "TALLA"
+                ],
+                "definition": "Empieza por la T: Medida convencional usada en la fabricación y venta de prendas de vestir"
+            },
+            {
+                "letter": "U",
+                "correctWords": [
+                    "UBICAR",
+                    "UBICARSE"
+                ],
+                "definition": "Empieza por la U: Estar situado en determinado espacio o lugar"
+            },
+            {
+                "letter": "V",
+                "correctWords": [
+                    "VERANILLO"
+                ],
+                "definition": "Empieza por la V: Tiempo breve en que, en España, suele hacer calor durante el otoño"
+            },
+            {
+                "letter": "O",
+                "correctWords": [
+                    "OXITOCINA"
+                ],
+                "definition": "Empieza por la O: Hormona que estimula la contracción del útero durante el parto y la secreción de leche en la glándula mamaria"
+            },
+            {
+                "letter": "E",
+                "correctWords": [
+                    "EPOPEYA"
+                ],
+                "definition": "Empieza por la E: Poema en que se refieren hechos heroicos, históricos o legendarios"
+            }
+        ],
+        "_class": "upm.etsit.pasapalabra.model.Rosco"
+    }
+]

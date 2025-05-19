@@ -1,0 +1,566 @@
+[
+    {
+        "id": "1",
+        "pregunta": "Empieza por la N: Se refiere a la accion de negar o contradecir algo",
+        "respuesta_correcta": "NEGAR",
+        "respuesta_chatgpt": "NEGAR"
+    },
+    {
+        "id": "3",
+        "pregunta": "Empieza por la M: Accion de reducir a la minima expresion",
+        "respuesta_correcta": "MINIMIZAR",
+        "respuesta_chatgpt": "MINIMIZAR"
+    },
+    {
+        "id": "7",
+        "pregunta": "Empieza por la C: Accion de hacer crecer algo, generalmente plantas",
+        "respuesta_correcta": "CULTIVAR",
+        "respuesta_chatgpt": "CULTIVAR"
+    },
+    {
+        "id": "8",
+        "pregunta": "Empieza por la E: Accion de hacer que algo sea mas claro o comprensible",
+        "respuesta_correcta": "EXPLICAR",
+        "respuesta_chatgpt": "EXPLICAR"
+    },
+    {
+        "id": "11",
+        "pregunta": "Empieza por la A: Accion de registrar o escribir algo",
+        "respuesta_correcta": "ANOTAR",
+        "respuesta_chatgpt": "ANOTAR"
+    },
+    {
+        "id": "12",
+        "pregunta": "Empieza por la B: Accion de saltar o moverse con gran agilidad",
+        "respuesta_correcta": "BRINCAR",
+        "respuesta_chatgpt": "BRINCAR"
+    },
+    {
+        "id": "13",
+        "pregunta": "Empieza por la M: Accion de contemplar con atencion",
+        "respuesta_correcta": "MIRAR",
+        "respuesta_chatgpt": "MIRAR"
+    },
+    {
+        "id": "14",
+        "pregunta": "Empieza por la C: Accion de entender o captar algo con claridad",
+        "respuesta_correcta": "COMPRENDER",
+        "respuesta_chatgpt": "COMPRENDER"
+    },
+    {
+        "id": "16",
+        "pregunta": "Empieza por la I: Accion de preguntar para obtener informacion",
+        "respuesta_correcta": "INTERROGAR",
+        "respuesta_chatgpt": "INTERROGAR"
+    },
+    {
+        "id": "22",
+        "pregunta": "Empieza por la C: Accion de cortar o rasgar algo con filo",
+        "respuesta_correcta": "CORTAR",
+        "respuesta_chatgpt": "CORTAR"
+    },
+    {
+        "id": "24",
+        "pregunta": "Empieza por la A: Accion de colocar algo en orden o posicion correcta",
+        "respuesta_correcta": "ALINEAR",
+        "respuesta_chatgpt": "ALINEAR"
+    },
+    {
+        "id": "25",
+        "pregunta": "Empieza por la M: Estar relacionado con la mente o el pensamiento",
+        "respuesta_correcta": "MENTAL",
+        "respuesta_chatgpt": "MENTAL"
+    },
+    {
+        "id": "26",
+        "pregunta": "Empieza por la C: Relacionado con el saber o la ciencia",
+        "respuesta_correcta": "CIENTIFICO",
+        "respuesta_chatgpt": "CIENTIFICO"
+    },
+    {
+        "id": "27",
+        "pregunta": "Empieza por la S: Relacionado con la vida de las personas",
+        "respuesta_correcta": "SOCIAL",
+        "respuesta_chatgpt": "SOCIAL"
+    },
+    {
+        "id": "31",
+        "pregunta": "Empieza por la A: Relacionado con la accion de guardar algo",
+        "respuesta_correcta": "ALMACENAR",
+        "respuesta_chatgpt": "ALMACENAR"
+    },
+    {
+        "id": "32",
+        "pregunta": "Empieza por la H: Relacionado con el estudio de la historia",
+        "respuesta_correcta": "HISTORICO",
+        "respuesta_chatgpt": "HISTORICO"
+    },
+    {
+        "id": "33",
+        "pregunta": "Empieza por la I: Relacionado con el proceso de influir en algo",
+        "respuesta_correcta": "INFLUENCIAL",
+        "respuesta_chatgpt": "INFLUENCIAL"
+    },
+    {
+        "id": "34",
+        "pregunta": "Empieza por la J: Relacionado con la justicia o la ley",
+        "respuesta_correcta": "JURIDICO",
+        "respuesta_chatgpt": "JURIDICO"
+    },
+    {
+        "id": "36",
+        "pregunta": "Empieza por la L: Relacionado con la luz o la iluminacion",
+        "respuesta_correcta": "LUMINOSO",
+        "respuesta_chatgpt": "LUMINOSO"
+    },
+    {
+        "id": "37",
+        "pregunta": "Empieza por la M: Relacionado con la musica o el sonido",
+        "respuesta_correcta": "MUSICAL",
+        "respuesta_chatgpt": "MUSICAL"
+    },
+    {
+        "id": "38",
+        "pregunta": "Empieza por la N: Relacionado con la naturaleza o los seres vivos",
+        "respuesta_correcta": "NATURAL",
+        "respuesta_chatgpt": "NATURAL"
+    },
+    {
+        "id": "42",
+        "pregunta": "Empieza por la R: Relacionado con la accion de reparar o restaurar",
+        "respuesta_correcta": "REPARADOR",
+        "respuesta_chatgpt": "REPARADOR"
+    },
+    {
+        "id": "44",
+        "pregunta": "Empieza por la T: Relacionado con la accion de transformar algo",
+        "respuesta_correcta": "TRANSFORMADOR",
+        "respuesta_chatgpt": "TRANSFORMADOR"
+    },
+    {
+        "id": "45",
+        "pregunta": "Empieza por la U: Relacionado con la accion de unir algo",
+        "respuesta_correcta": "UNIFICADO",
+        "respuesta_chatgpt": "UNIFICADO"
+    },
+    {
+        "id": "46",
+        "pregunta": "Empieza por la V: Relacionado con la accion de ver o mirar",
+        "respuesta_correcta": "VISUAL",
+        "respuesta_chatgpt": "VISUAL"
+    },
+    {
+        "id": "53",
+        "pregunta": "Empieza por la M: Persona que tiene la habilidad de enseñar o instruir",
+        "respuesta_correcta": "MAESTRO",
+        "respuesta_chatgpt": "MAESTRO"
+    },
+    {
+        "id": "54",
+        "pregunta": "Empieza por la L: Persona que esta en una posicion de liderazgo o mando",
+        "respuesta_correcta": "LIDER",
+        "respuesta_chatgpt": "LIDER"
+    },
+    {
+        "id": "55",
+        "pregunta": "Empieza por la M: Persona que estudia o practica la medicina",
+        "respuesta_correcta": "MEDICO",
+        "respuesta_chatgpt": "MEDICO"
+    },
+    {
+        "id": "56",
+        "pregunta": "Empieza por la E: Persona encargada de supervisar las finanzas o el dinero",
+        "respuesta_correcta": "ECONOMISTA",
+        "respuesta_chatgpt": "ECONOMISTA"
+    },
+    {
+        "id": "57",
+        "pregunta": "Empieza por la A: Persona que hace o produce trabajos artisticos o creativos",
+        "respuesta_correcta": "ARTISTA",
+        "respuesta_chatgpt": "ARTISTA"
+    },
+    {
+        "id": "58",
+        "pregunta": "Empieza por la C: Persona que se dedica al comercio de productos o mercancias",
+        "respuesta_correcta": "COMERCIANTE",
+        "respuesta_chatgpt": "COMERCIANTE"
+    },
+    {
+        "id": "59",
+        "pregunta": "Empieza por la J: Persona encargada de juzgar o evaluar situaciones legales",
+        "respuesta_correcta": "JUEZ",
+        "respuesta_chatgpt": "JUEZ"
+    },
+    {
+        "id": "60",
+        "pregunta": "Empieza por la E: Persona especializada en la organizacion de eventos",
+        "respuesta_correcta": "EVENTOLOGO",
+        "respuesta_chatgpt": "EVENTOLOGO"
+    },
+    {
+        "id": "61",
+        "pregunta": "Empieza por la C: Persona que se encarga de la construccion de edificaciones",
+        "respuesta_correcta": "CONSTRUCTOR",
+        "respuesta_chatgpt": "CONSTRUCTOR"
+    },
+    {
+        "id": "64",
+        "pregunta": "Empieza por la B: Persona que se dedica al estudio y analisis de las ciencias naturales",
+        "respuesta_correcta": "BIOLOGO",
+        "respuesta_chatgpt": "BIOLOGO"
+    },
+    {
+        "id": "65",
+        "pregunta": "Empieza por la E: Persona que se dedica a la enseñanza de la practica del deporte",
+        "respuesta_correcta": "ENTRENADOR",
+        "respuesta_chatgpt": "ENTRENADOR"
+    },
+    {
+        "id": "66",
+        "pregunta": "Empieza por la S: Persona encargada de la organizacion de la sociedad",
+        "respuesta_correcta": "SOCIOLOGO",
+        "respuesta_chatgpt": "SOCIOLOGO"
+    },
+    {
+        "id": "67",
+        "pregunta": "Empieza por la A: Persona que se dedica a estudiar la jurisprudencia y las leyes",
+        "respuesta_correcta": "ABOGADO",
+        "respuesta_chatgpt": "ABOGADO"
+    },
+    {
+        "id": "68",
+        "pregunta": "Empieza por la P: Persona que se especializa en la creacion de software o programas informaticos",
+        "respuesta_correcta": "PROGRAMADOR",
+        "respuesta_chatgpt": "PROGRAMADOR"
+    },
+    {
+        "id": "69",
+        "pregunta": "Empieza por la C: Persona que se dedica a la planificacion y estrategia de empresas",
+        "respuesta_correcta": "CONSULTOR",
+        "respuesta_chatgpt": "CONSULTOR"
+    },
+    {
+        "id": "74",
+        "pregunta": "Empieza por la D: Representacion grafica de una informacion",
+        "respuesta_correcta": "DIAGRAMA",
+        "respuesta_chatgpt": "DIAGRAMA"
+    },
+    {
+        "id": "79",
+        "pregunta": "Empieza por la A: Algo que causa sorpresa o admiracion",
+        "respuesta_correcta": "ASOMBRO",
+        "respuesta_chatgpt": "ASOMBRO"
+    },
+    {
+        "id": "82",
+        "pregunta": "Empieza por la S: Lo que se siente o se percibe",
+        "respuesta_correcta": "SENSACION",
+        "respuesta_chatgpt": "SENSACION"
+    },
+    {
+        "id": "84",
+        "pregunta": "Empieza por la R: Lo que se puede tocar o percibir con los sentidos",
+        "respuesta_correcta": "REALIDAD",
+        "respuesta_chatgpt": "REALIDAD"
+    },
+    {
+        "id": "87",
+        "pregunta": "Empieza por la I: Accion de cambiar algo por otra cosa",
+        "respuesta_correcta": "INTERCAMBIO",
+        "respuesta_chatgpt": "INTERCAMBIO"
+    },
+    {
+        "id": "89",
+        "pregunta": "Empieza por la C: Relacion o vinculo entre varias partes",
+        "respuesta_correcta": "CONEXION",
+        "respuesta_chatgpt": "CONEXION"
+    },
+    {
+        "id": "93",
+        "pregunta": "Empieza por la S: Cualidad de estar aislado o sin compañia",
+        "respuesta_correcta": "SOLEDAD",
+        "respuesta_chatgpt": "SOLEDAD"
+    },
+    {
+        "id": "98",
+        "pregunta": "Empieza por la V: Accion de observar algo con atencion",
+        "respuesta_correcta": "VIGILAR",
+        "respuesta_chatgpt": "VIGILAR"
+    },
+    {
+        "id": "99",
+        "pregunta": "Empieza por la E: Accion de procurar o intentar hacer algo",
+        "respuesta_correcta": "ESFORZARSE",
+        "respuesta_chatgpt": "ESFORZARSE"
+    },
+    {
+        "id": "100",
+        "pregunta": "Empieza por la R: Estado de estar en un lugar muy lejano",
+        "respuesta_correcta": "REMOTO",
+        "respuesta_chatgpt": "REMOTO"
+    },
+    {
+        "id": "102",
+        "pregunta": "Empieza por la B: Estudio de los seres vivos",
+        "respuesta_correcta": "BIOLOGIA",
+        "respuesta_chatgpt": "BIOLOGIA"
+    },
+    {
+        "id": "104",
+        "pregunta": "Empieza por la I: Algo que es completamente nuevo",
+        "respuesta_correcta": "INEDITO",
+        "respuesta_chatgpt": "INEDITO"
+    },
+    {
+        "id": "106",
+        "pregunta": "Empieza por la D: Accion de separar algo en partes",
+        "respuesta_correcta": "DIVIDIR",
+        "respuesta_chatgpt": "DIVIDIR"
+    },
+    {
+        "id": "107",
+        "pregunta": "Empieza por la D: Especificacion o detalle de un asunto",
+        "respuesta_correcta": "DETALLE",
+        "respuesta_chatgpt": "DETALLE"
+    },
+    {
+        "id": "109",
+        "pregunta": "Empieza por la C: Concepto o idea que se utiliza para entender una situacion",
+        "respuesta_correcta": "CATEGORIA",
+        "respuesta_chatgpt": "CATEGORIA"
+    },
+    {
+        "id": "110",
+        "pregunta": "Empieza por la E: Acto de proporcionar algo a alguien",
+        "respuesta_correcta": "ENTREGA",
+        "respuesta_chatgpt": "ENTREGA"
+    },
+    {
+        "id": "112",
+        "pregunta": "Empieza por la V: Lo que se produce cuando se dice algo en voz alta",
+        "respuesta_correcta": "VOZ",
+        "respuesta_chatgpt": "VOZ"
+    },
+    {
+        "id": "114",
+        "pregunta": "Empieza por la S: Definicion o interpretacion de un concepto",
+        "respuesta_correcta": "SIGNIFICADO",
+        "respuesta_chatgpt": "SIGNIFICADO"
+    },
+    {
+        "id": "119",
+        "pregunta": "Empieza por la R: Conjunto de normas que guian una actividad",
+        "respuesta_correcta": "REGLAMENTO",
+        "respuesta_chatgpt": "REGLAMENTO"
+    },
+    {
+        "id": "126",
+        "pregunta": "Empieza por la C: Accion de modificar el aspecto de algo",
+        "respuesta_correcta": "CAMBIO",
+        "respuesta_chatgpt": "CAMBIO"
+    },
+    {
+        "id": "131",
+        "pregunta": "Empieza por la E: Resultado de una accion o decision especifica",
+        "respuesta_correcta": "EFECTO",
+        "respuesta_chatgpt": "EFECTO"
+    },
+    {
+        "id": "137",
+        "pregunta": "Empieza por la I: Persona que realiza una investigacion cientifica",
+        "respuesta_correcta": "INVESTIGADOR",
+        "respuesta_chatgpt": "INVESTIGADOR"
+    },
+    {
+        "id": "140",
+        "pregunta": "Empieza por la I: Aquello que no es capaz de producir efectos",
+        "respuesta_correcta": "INEFICAZ",
+        "respuesta_chatgpt": "INEFICAZ"
+    },
+    {
+        "id": "141",
+        "pregunta": "Empieza por la R: Accion de escribir o redactar un texto",
+        "respuesta_correcta": "REDACCIONAR",
+        "respuesta_chatgpt": "REDACCION"
+    },
+    {
+        "id": "144",
+        "pregunta": "Empieza por la V: Accion de medir o evaluar el valor de algo",
+        "respuesta_correcta": "VALORAR",
+        "respuesta_chatgpt": "VALORAR"
+    },
+    {
+        "id": "150",
+        "pregunta": "Empieza por la Q: Accion de permanecer en un lugar o estado sin cambiar",
+        "respuesta_correcta": "QUEDAR",
+        "respuesta_chatgpt": "QUEDAR"
+    },
+    {
+        "id": "151",
+        "pregunta": "Empieza por la E: Accion de realizar un cambio de manera gradual",
+        "respuesta_correcta": "EVOLUCIONAR",
+        "respuesta_chatgpt": "EVOLUCIONAR"
+    },
+    {
+        "id": "161",
+        "pregunta": "Empieza por la P: Cualidad de ser evidente o notorio",
+        "respuesta_correcta": "PATENTE",
+        "respuesta_chatgpt": "PATENTE"
+    },
+    {
+        "id": "167",
+        "pregunta": "Empieza por la E: Lo que se hace para lograr algo importante",
+        "respuesta_correcta": "ESFUERZO",
+        "respuesta_chatgpt": "ESFUERZO"
+    },
+    {
+        "id": "171",
+        "pregunta": "Empieza por la D: Hecho de estar desordenado o fuera de lugar",
+        "respuesta_correcta": "DESORDEN",
+        "respuesta_chatgpt": "DESORDEN"
+    },
+    {
+        "id": "174",
+        "pregunta": "Empieza por la P: Accion de dividir algo en partes iguales",
+        "respuesta_correcta": "PARTICIONAR",
+        "respuesta_chatgpt": "PARTICION"
+    },
+    {
+        "id": "177",
+        "pregunta": "Empieza por la O: Accion de eliminar lo innecesario",
+        "respuesta_correcta": "OPTIMIZAR",
+        "respuesta_chatgpt": "OPTIMIZAR"
+    },
+    {
+        "id": "178",
+        "pregunta": "Empieza por la E: Lo que se da como prueba de algo",
+        "respuesta_correcta": "EVIDENCIA",
+        "respuesta_chatgpt": "EVIDENCIA"
+    },
+    {
+        "id": "179",
+        "pregunta": "Empieza por la D: Accion de mover algo o alguien a otro lugar",
+        "respuesta_correcta": "DESPLAZAR",
+        "respuesta_chatgpt": "DESPLAZAR"
+    },
+    {
+        "id": "182",
+        "pregunta": "Empieza por la R: Accion de corregir o mejorar un error",
+        "respuesta_correcta": "RECTIFICAR",
+        "respuesta_chatgpt": "RECTIFICAR"
+    },
+    {
+        "id": "189",
+        "pregunta": "Empieza por la D: Accion de no dar importancia a algo",
+        "respuesta_correcta": "DESDENAR",
+        "respuesta_chatgpt": "DESDEN"
+    },
+    {
+        "id": "198",
+        "pregunta": "Empieza por la J: Accion de observar un hecho de manera critica",
+        "respuesta_correcta": "JUZGAR",
+        "respuesta_chatgpt": "JUZGAR"
+    },
+    {
+        "id": "199",
+        "pregunta": "Empieza por la R: Lo que es importante para lograr un resultado",
+        "respuesta_correcta": "RELEVANTE",
+        "respuesta_chatgpt": "RELEVANTE"
+    },
+    {
+        "id": "201",
+        "pregunta": "Empieza por la V: Lo que es util o conveniente",
+        "respuesta_correcta": "VENTAJOSO",
+        "respuesta_chatgpt": "VENTAJOSO"
+    },
+    {
+        "id": "206",
+        "pregunta": "Empieza por la R: Accion de eliminar lo que sobra",
+        "respuesta_correcta": "RESTAURAR",
+        "respuesta_chatgpt": "RESTAURAR"
+    },
+    {
+        "id": "210",
+        "pregunta": "Empieza por la D: Accion de sentir placer o satisfaccion",
+        "respuesta_correcta": "DISFRUTAR",
+        "respuesta_chatgpt": "DISFRUTAR"
+    },
+    {
+        "id": "214",
+        "pregunta": "Empieza por la C: Accion de llegar a una conclusion logica",
+        "respuesta_correcta": "CONCLUIR",
+        "respuesta_chatgpt": "CONCLUIR"
+    },
+    {
+        "id": "216",
+        "pregunta": "Empieza por la U: Lo que se obtiene como beneficio o ganancia",
+        "respuesta_correcta": "UTILIDAD",
+        "respuesta_chatgpt": "UTILIDAD"
+    },
+    {
+        "id": "217",
+        "pregunta": "Empieza por la T: Accion de entrar en una nueva etapa",
+        "respuesta_correcta": "TRANSICIONAR",
+        "respuesta_chatgpt": "TRANSICION"
+    },
+    {
+        "id": "219",
+        "pregunta": "Empieza por la S: Lo que se obtiene por un medio indirecto",
+        "respuesta_correcta": "SUBPRODUCTO",
+        "respuesta_chatgpt": "SUBPRODUCTO"
+    },
+    {
+        "id": "223",
+        "pregunta": "Empieza por la F: Accion de hacer que algo sea mas accesible o sencillo",
+        "respuesta_correcta": "FACILITAR",
+        "respuesta_chatgpt": "FACILITAR"
+    },
+    {
+        "id": "225",
+        "pregunta": "Empieza por la D: Accion de permitir que algo ocurra",
+        "respuesta_correcta": "DEJAR",
+        "respuesta_chatgpt": "DEJAR"
+    },
+    {
+        "id": "226",
+        "pregunta": "Empieza por la R: Accion de distribuir algo entre varias personas",
+        "respuesta_correcta": "REPARTIR",
+        "respuesta_chatgpt": "REPARTIR"
+    },
+    {
+        "id": "239",
+        "pregunta": "Empieza por la S: Accion de sentir o experimentar una emocion",
+        "respuesta_correcta": "SENTIR",
+        "respuesta_chatgpt": "SENTIR"
+    },
+    {
+        "id": "241",
+        "pregunta": "Empieza por la E: Accion de hacer que algo sea mas interesante",
+        "respuesta_correcta": "ENTRETENER",
+        "respuesta_chatgpt": "ENTRETENER"
+    },
+    {
+        "id": "245",
+        "pregunta": "Empieza por la V: Accion de viajar por aire de manera regular",
+        "respuesta_correcta": "VOLAR",
+        "respuesta_chatgpt": "VOLAR"
+    },
+    {
+        "id": "247",
+        "pregunta": "Empieza por la I: Accion de crear una imagen visual o mental de algo",
+        "respuesta_correcta": "IMAGINAR",
+        "respuesta_chatgpt": "IMAGINAR"
+    },
+    {
+        "id": "249",
+        "pregunta": "Empieza por la D: Accion de descansar o reposar de manera profunda",
+        "respuesta_correcta": "DORMIR",
+        "respuesta_chatgpt": "DORMIR"
+    },
+    {
+        "id": "250",
+        "pregunta": "Empieza por la M: Accion de expresar un sentimiento o estado emocional de forma clara",
+        "respuesta_correcta": "MANIFESTAR",
+        "respuesta_chatgpt": "MANIFESTAR"
+    }
+]
