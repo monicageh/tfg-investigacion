@@ -1,0 +1,912 @@
+EMPIEZA POR A: Dinero guardado para un uso futuro
+AHORRO
+AHORROS
+Ahorro
+EMPIEZA POR B: Recibimiento cortés que se hace a alguien
+BIENVENIDA
+Bienvenida
+EMPIEZA POR C: Funcionario que revisa obras y publicaciones y propone, si es necesario, que se modifiquen o se prohíban
+CENSOR
+CENSORA
+Censor
+EMPIEZA POR D: Presentarse una compañía teatral o un artista por primera vez ante el público
+DEBUTAR
+Debutar
+EMPIEZA POR E: Guiso consistente en un alimento condimentado en crudo que se cuece a fuego lento en un recipiente bien tapado
+ESTOFADO
+Estofado
+EMPIEZA POR F: Nombre del grupo de música que publicó el álbum 'Fight with Tools'
+FLOBOTS
+Pasapalabra
+EMPIEZA POR G: Bebida refrescante, efervescente y sin alcohol
+GASEOSA
+Gaseosa
+EMPIEZA POR H: Se dice de la costumbre o de la cualidad que pasa de padres a hijos
+HEREDITARIO
+HEREDITARIA
+Pasapalabra
+EMPIEZA POR I: Desventaja en lo que concierne al rango o fuerza
+INFERIORIDAD
+Inferioridad
+EMPIEZA POR J: En tenis y otros deportes, cada una de las partes en que se divide un set
+JUEGO
+Juego
+EMPIEZA POR L: Árbol de Chile, de madera dura, pesada y resistente, que da un fruto llamado 'caucháu'
+LUMA
+Pasapalabra
+EMPIEZA POR M: Cadáver que, de manera natural o artificial, se deseca con el paso del tiempo sin entrar en putrefacción
+MOMIA
+Momia
+EMPIEZA POR N: Natural del país africano con capital en Windhoek
+NAMIBIO,NAMIBIANO,NAMIBIA,NAMIBIANA
+Namibio
+CONTIENE LA Ñ: Grupo de reses, particularmente lanares, que se crían juntas
+REBAÑO
+Rebaño
+EMPIEZA POR O: Parte de la metafísica que trata del ser en general
+ONTOLOGIA
+Ontologia
+EMPIEZA POR P: Perteneciente o relativo a la pirotecnia
+PIROTECNICO
+PIROTECNICA
+Pasapalabra
+CONTIENE LA Q: Red en forma de saco con un aro de madera, que se emplea para pescar camarones
+ESQUILERO
+Esquilero
+EMPIEZA POR R: Encierro o prisión voluntaria o forzada
+RECLUSION
+Reclusion
+EMPIEZA POR S:Voz inglesa que designa la motocicleta ligera, con cuadro abierto y una plataforma donde colocar los pies
+SCOOTER
+Scooter
+EMPIEZA POR T:Falta o insuficiencia de luz en un sitio
+TINIEBLA,TINIEBLAS
+Tiniebla
+EMPIEZA POR U: Aparato que sirve para medir la cantidad de lluvia que cae en un lugar y tiempo dados
+UDOMETRO
+Udometro
+EMPIEZA POR V: Apellido de la escultura autora de 'Las tahitianas', obra ubicada en el parque Bicentenario de Quito
+VASCONEZ
+Pasapalabra
+CONTIENE LA X:Ser una cosa real y verdadera
+EXISTIR
+Existir
+CONTIENE LA Y:Virus informático capaz de alojarse en un ordenador para captar información y transmitirla a usuarios ajenos
+TROYANO
+Troyano
+EMPIEZA POR Z: Elemento químico metálico, de símbolo ZN
+ZINC
+Zinc
+EMPIEZA POR A: Cuerno de algunos animales, como el toro o el ciervo
+ASTA
+Asta
+EMPIEZA POR B: Perteneciente o relativo a la guerra
+BELICO,BELICA
+Belico
+EMPIEZA POR C: Total privación del sentido de la vista
+CEGUERA
+CEGUEDAD
+Ceguera
+EMPIEZA POR D: Comercialización y reparto de un producto desde su salida de producción hasta que llega al vendedor
+DISTRIBUCION
+Distribucion
+EMPIEZA POR E: Superficie brillante que refleja las imágenes
+ESPEJO
+Espejo
+EMPIEZA POR F:Podar un árbol muy cerca de la parte en que termina el tronco y empiezan las ramas
+FRADAR
+FRAILEAR
+Frazar
+EMPIEZA POR G: Microorganismo que puede causar o propagar enfermedades
+GERMEN
+Germen
+EMPIEZA POR H: Conjunto de bienes que se reciben tras el fallecimiento de su poseedor, por disposición testamentaria o legal
+HERENCIA
+HEREDAD
+Herencia
+EMPIEZA POR I: Irritable, propenso a la ira
+IRASCIBLE
+IRACUNDO
+IRACUNDA
+Irascible
+EMPIEZA POR J: En la Edad Media, persona que iba de lugar en lugar y recitaba, cantaba o bailaba ante el pueblo o ante reyes
+JUGLAR
+Juglar
+EMPIEZA POR L: Apellido del pintor autor de la obra Retrato del arzobispo Juan de Sanclemente y Torquemada, de 1769
+LANDEIRA
+Pasapalabra
+EMPIEZA POR M: Ensalada de frutas
+MACEDONIA
+Macedonia
+EMPIEZA POR N: Natural de la comunidad autónoma con capital en Pamplona
+NAVARRO
+NAVARRA
+Navarro
+CONTIENE LA Ñ: Construcción rústica pequeña, de materiales pobres, destinada a refugio o vivienda
+CABAÑA
+Cabaña
+EMPIEZA POR O: Estofado de carne de vacuno, cortada del jarrete, con el hueso y su caña incluidos
+OSOBUCO
+OSSOBUCO
+Osobuco
+EMPIEZA POR P: Cartel o edicto que se fijaba en las esquinas para conocimiento de la gente
+PLACARTE
+Placarte
+CONTIENE LA Q: Adjetivo superlativo de antiguo
+ANTIQUISIMO
+ANTIQUISIMA
+Pasaoalabra
+EMPIEZA POR R: Actitud de la persona que guarda las consideraciones debidas a las personas o las cosas
+RESPETO
+Respeto
+EMPIEZA POR S: Título de la película de 1969, dirigida por Pierre Grimblat y protagonizada por Serge Gainsbourg y Jane Birkin
+SLOGAN
+Pasapalabra
+EMPIEZA POR T: Mechón de pelo que se lleva levantado sobre la frente
+TUPE
+Tupe
+EMPIEZA POR U: Se dice del hijo que carece de hermanos
+UNICO
+UNICA
+UNIGENITO
+UNIGENITA
+Unico
+EMPIEZA POR V: Traspasar a alguien por el precio convenido la propiedad de lo que se posee
+VENDER
+Vender
+CONTIENE LA X: Práctica prolongada que proporciona conocimiento o habilidad para hacer algo
+EXPERIENCIA
+Experiencia
+CONTIENE LA Y: Escolta o guardia que se destina para llevar con seguridad y resguardo algo por mar o por tierra
+CONVOY
+Convoy
+EMPIEZA POR Z: Ignorante, torpe y muy tardo en aprender
+ZOTE
+ZOQUETE
+ZOPENCO
+ZOPENCA
+Zote
+EMPIEZA POR A:Cada una de las bolas que se hacen de carne picada, y que se comen guisadas o fritas
+ALBONDIGA
+ALMONDIGA
+Albondiga
+EMPIEZA POR B: Cuero pequeño destinado especialmente a contener vino
+BOTA
+Bota
+EMPIEZA POR C: Cuero pequeño destinado especialmente a contener vino
+CAPSULA
+Capsula
+EMPIEZA POR D: Monumento prehistórico formado por una piedra horizontal sostenida por otras verticales
+DOLMEN
+Dolmen
+EMPIEZA POR E: Operación de guerra que consiste en ocultar una tropa en un lugar para atacar a otra por sorpresa
+EMBOSCADA
+EMBOSCADURA
+Emboscada
+EMPIEZA POR F: Entre los romanos, sacerdote que declaraba la guerra y concertaba la paz
+FECIAL
+Flamen
+EMPIEZA POR G: En un teatro, estadio, plaza de toros o edificación semejante, escalón corrido que sirve de asiento
+GRADA
+Grada
+EMPIEZA POR H: Anchura sobrada
+HOLGURA
+Holgura
+EMPIEZA POR I: Acción y efecto de cubrir el agua un lugar determinado o un territorio
+INUNDACION
+Inundacion
+EMPIEZA POR J: Mármol veteado
+JASPE
+Jaspe
+EMPIEZA POR L: Escrito con alguna indicación colocado en cualquier sitio; como el de los nombres de calles o de tiendas
+LETRERO
+Letrero
+EMPIEZA POR M: Nombre de la estrella que forma parte del cinturón de Orión, junto a las estrellas Alnitak y Alnilam
+MINTAKA
+Pasapalabra
+EMPIEZA POR N: Palabra o expresión recién introducida en una lengua
+NEOLOGISMO
+Neologismo
+CONTIENE LA Ñ: Paso estrecho o garganta profunda entre dos montañas, por donde suelen correr los ríos
+CAÑON
+Cañon
+EMPIEZA POR O: Aguardiente que se elabora a partir de la destilación del hollejo de la uva
+ORUJO
+Orujo
+EMPIEZA POR P: Isótopo natural del hidrógeno, de número másico 1
+PROTIO
+Protio
+CONTIENE LA Q: Utensilio puntiagudo que se clava en la tierra y sirve para enganchar los vientos de la tienda de campaña
+PIQUETA
+Piqueta
+EMPIEZA POR R: Acción característica de la persona extravagante
+RAREZA
+Rareza
+EMPIEZA POR S: Que tiene sed
+SEDIENTO
+SEDIENTA
+SECO
+SECA
+SEDIENTE
+Sediento
+EMPIEZA POR T: Apellido del arquitecto que diseñó la estación de ferrocarril de la ciudad neozelandesa de Dunedin
+TROUP
+Pasapalabra
+EMPIEZA POR U: Se dice del mamífero que tiene las extremidades terminadas en casco o pezuña, como el caballo o el toro
+UNGULADO
+UNGULADA
+Ungulado
+EMPIEZA POR V: Cubrir o adornar el cuerpo con ropa
+VESTIR
+VESTIRSE
+Vestir
+CONTIENE LA X: Natural de la comunidad autónoma con capital en Mérida
+EXTREMEÑO
+EXTREMEÑA
+Extremeño
+CONTIENE LA Y: Voz inglesa que designa la tecla de un aparato que se pulsa para iniciar la reproducción de un vídeo
+PLAY
+Play
+EMPIEZA POR Z: Emperatriz de Rusia
+ZARINA
+Zarina
+EMPIEZA POR A: Voz inglesa que designa la crema que se utiliza para hidratar la piel después de tomar el sol
+AFTERSUN
+Aftersun
+EMPIEZA POR B: Mover el cuerpo y los miembros con ritmo, siguiendo el compás de una música
+BAILAR
+Bailar
+EMPIEZA POR C: Área o superficie plana contenida dentro de una circunferencia
+CIRCULO
+Circulo
+EMPIEZA POR D: Capa inferior y más gruesa de la piel
+DERMIS
+Dermis
+EMPIEZA POR E: Persona que desempeña un trabajo a cambio de un sueldo
+EMPLEADO
+EMPLEADA
+Empleado
+EMPIEZA POR F: En química, introducir ácido fosfórico en una molécula
+FOSFORILAR
+Fosforilar
+EMPIEZA POR G: Parte de la lingüística que estudia los elementos de una lengua, así como la forma en que estos se combinan
+GRAMATICA
+Gramatica
+EMPIEZA POR H: Cosa encontrada
+HALLAZGO
+HALLADA
+Hallada
+EMPIEZA POR I: Alteración patológica en una parte del organismo que produce calor, enrojecimiento, hinchazón y dolor
+INFLAMACION
+Inflamacion
+EMPIEZA POR J: Tercera persona del plural del pretérito perfecto simple de indicativo del verbo jugar
+JUGARON
+JUGARON
+EMPIEZA POR L: Parte inclinada de un monte o de otra altura del terreno
+LADERA
+Ladera
+EMPIEZA POR M: Árbol de la India, también llamado “belérico”, cuyos frutos se usan en medicina y tintorería
+MIROBALANO
+MIROBALANOS
+MIROBOLANO
+MIRABOLANOS
+Mudar
+EMPIEZA POR N: Sustancia blanca y dura, que reviste el interior de algunas conchas de moluscos, como la madreperla
+NACAR
+NACARA
+NACRE
+Nacar
+CONTIENE LA Ñ: Prenda, generalmente de una pieza, usada para bañarse en playas o piscinas
+BAÑADOR
+Bañador
+EMPIEZA POR O: Situación de la persona que disfruta de su tiempo libre
+OCIO
+OCIOSIDAD
+Ocio
+EMPIEZA POR P: Apellido del político secretario general de la Asociación de Naciones del Sudeste Asiático de 2008 a 2012
+PITSUWAN
+Pasapalabra
+CONTIENE LA Q: Entrada estrecha de un lugar
+BOQUETE
+RESQUICIO
+Boquete 
+EMPIEZA POR R: En una comida, volver a servirse de un plato que ya se ha tomado
+REPETIR
+Repetir
+EMPIEZA POR S: Que es muy nombrado, conocido o famoso
+SONADO
+SONADA
+Pasapalabra
+EMPIEZA POR T: Habilidad o aptitud para una cosa determinada
+TALENTO
+TECNICA
+Tecnica
+EMPIEZA POR U: Polígono de once lados
+UNDECAGONO
+UNDECAGONO
+EMPIEZA POR V: Serpiente venenosa de cabeza triangular y aplastada, y dos dientes huecos en la mandíbula superior
+VIBORA
+Vibora
+CONTIENE LA X: Suspensión o dificultad en la respiración
+ASFIXIA
+ASFIXIA
+CONTIENE LA Y: Río de Paraguay que desemboca en el río Paraná en la localidad de Ciudad del Este, en la frontera con Brasil
+ACARAY
+ACARAYA
+Pasapalabra
+EMPIEZA POR Z: Soldado de un cuerpo destinado a los trabajos de excavación
+ZAPADOR
+ZAPADORA
+Zapado
+EMPIEZA POR A: Escrito que se publica en un periódico o revista y en el que se reflexiona sobre un tema determinado
+ARTICULO
+Articulo
+EMPIEZA POR B: Hidrocarburo gaseoso derivado del petróleo que, envasado a presión, tiene usos domésticos como combustible
+BUTANO
+Butano
+EMPIEZA POR C: Grito vehemente de una multitud
+CLAMOR
+Clamor
+EMPIEZA POR D: Dádiva o regalo, especialmente con fines benéficos o humanitarios
+DONATIVO
+DONACION
+Donativo
+EMPIEZA POR E: Causar escándalo
+ESCANDALIZAR
+Escandalizar
+EMPIEZA POR F: Mercado de mayor importancia que el común, en paraje público y días señalados
+FERIA
+Feria
+EMPIEZA POR G: Ciudad de Venezuela que es capital del estado de Portuguesa
+GUANARE
+Guanacaste
+EMPIEZA POR H: Entorno geográfico adecuado para la vida de una especie animal o vegetal
+HABITAT
+HABITACION
+Habitat
+EMPIEZA POR I: Estación en que los viajeros pueden cambiar de un medio de transporte a otro
+INTERCAMBIADOR
+Intercambiador
+EMPIEZA POR J: Persona dedicada al estudio, interpretación y aplicación del derecho
+JURISCONSULTO
+JURISCONSULTA
+JURISTA
+Jurista
+EMPIEZA POR L: Apellido del guitarrista que publicó el álbum 'Bound by the Blues'
+LANDRETH
+Pasapalabra
+EMPIEZA POR M: Munición menuda con que se cargan los proyectiles de explosión
+METRALLA
+Metralla
+EMPIEZA POR N: Procedimiento de asociación mental para facilitar el recuerdo de algo
+NEMOTECNIA
+Nemotecnia
+CONTIENE LA Ñ: Mamífero rumiante salvaje, parecido a la llama, de pelaje largo y muy fino, que vive en manadas en los Andes
+VICUÑA
+Vicuña
+EMPIEZA POR O: Grano que se forma en el borde de un párpado
+ORZUELO
+Orzuelo
+EMPIEZA POR P: Se dice de la persona que tiende a ver y juzgar las cosas por el lado más desfavorable
+PESIMISTA
+Pesimista
+CONTIENE LA Q: Momento del año en que el Sol se halla sobre el ecuador, y el día y la noche tienen la misma duración
+EQUINOCCIO
+Equinocio
+EMPIEZA POR R: Masticar un animal por segunda vez el alimento que ha tragado previamente
+REMUGAR
+RUMIAR
+Rumiar
+EMPIEZA POR S: Magistrado supremo de Cartago y de otras repúblicas fenicias
+SUFETE
+Sufete
+EMPIEZA POR T: Pantalón vaquero
+TEJANO
+TEJANOS
+Tejano
+EMPIEZA POR U: Ciudad, especialmente la muy populosa
+URBE
+Urbe
+EMPIEZA POR V: Cualidad de la persona que es capaz de adaptarse con facilidad y rapidez a diversas funciones
+VERSATILIDAD
+Versatilidad
+CONTIENE LA X: Resultado cercano al exacto que se obtiene en una medición o cálculo cuando no se puede precisar absolutamente
+APROXIMACION
+Aproximacion
+CONTIENE LA Y: Coloquialmente, miedo, aprensión
+YUYU
+Yuyu
+EMPIEZA POR Z: Crítico vanidoso que censura maliciosamente las obras ajenas
+ZOILO
+Zoilo
+EMPIEZA POR A: Acción y efecto de dejar solo algo o a alguien alejándose de ello o dejando de cuidarlo
+ABANDONO
+ABANDONAMIENTO
+Abandono
+EMPIEZA POR B: Palabra o expresión injuriosas contra alguien o algo sagrado
+BLASFEMIA
+Blasfemia
+EMPIEZA POR C: Colocar las piernas montando una sobre la otra cuando se está sentado
+CRUZAR
+Cruzar
+EMPIEZA POR D: Variedad de un idioma que no alcanza la categoría social de lengua
+DIALECTO
+Dialecto
+EMPIEZA POR E: Apellido del escritor autor de la novela Los últimos días de América
+ERDMAN,PAUL
+Llames
+EMPIEZA POR F: Fragmento largo y estrecho de una cosa
+FRANJAFAJA
+Franja
+EMPIEZA POR G: Agente de policía de Francia, destinado a mantener el orden y la seguridad pública
+GENDARME
+Gendarme
+EMPIEZA POR H: Mezcla de piedras menudas y mortero de cal o cemento y arena, empleada para la construcción
+HORMIGON
+Hormigon
+EMPIEZA POR I: Celebrar el estreno de una obra, de un edificio o de un monumento
+INAUGURAR
+Inaugurar
+EMPIEZA POR J: Sitio poblado de jaras
+JARAL
+Jaral
+EMPIEZA POR L: Ciudad de Estados Unidos, situada en el estado de Misuri, en la que nació Harry S. Truman
+LAMAR
+Pasapalabra 
+EMPIEZA POR M: Orden o precepto que el superior da a los súbditos
+MANDATO
+MANDO
+Mandato
+EMPIEZA POR N: Voz inglesa que designa el sobrenombre empleado por un usuario de Internet para identificarse en un servicio
+NICK
+NICKNAME
+Nick
+CONTIENE LA Ñ: Arácnido con cuatro pares de patas y abdomen abultado, que segrega un hilo de seda con el que caza a sus presa
+ARAÑA
+Araña
+EMPIEZA POR O: Licor anisado de mucha graduación alcohólica, de origen griego
+OUZO
+Ouzo
+EMPIEZA POR P: Conjunto de reglas establecidas por norma o por costumbre para ceremonias y actos oficiales o solemnes
+PROTOCOLO
+Protocolo
+CONTIENE LA Q: Organismo resultante de la simbiosis de hongos con algas unicelulares, que crece en sitios húmedos
+LIQUEN
+Liquen
+EMPIEZA POR R: Persona que dirige una universidad
+RECTOR
+RECTORA
+Rector
+EMPIEZA POR S: Instrumento para afilar los lápices
+SACAPUNTAS
+Sacapuntas
+EMPIEZA POR T: Caña o tutor que se pone a una planta para que no se tuerza
+TAMBARA
+Tambara
+EMPIEZA POR U: Ámbito más allá de la muerte
+ULTRATUMBA
+Ultratumba
+EMPIEZA POR V: Perteneciente o relativo a las vitaminas
+VITAMINICO
+VITAMINICA
+Vitamínico
+CONTIENE LA X: Hueso propio de los vertebrados que carecen de cola, que está formado por la unión de las última vértebras
+COXIS
+COCCIX
+Coxis
+CONTIENE LA Y: Nombre del premio anual que la Academia de la Grabación de EEUU otorga a lo mejor de la industria musical
+GRAMMY
+Grammy
+EMPIEZA POR Z: Poner la zancadilla a alguien
+ZANCADILLEAR
+Zancadillear
+EMPIEZA POR A: Armazón con forma de X que, en los molinos de viento, sostiene las telas en que hace presión el viento
+ASPA
+ASPAS
+Aspa
+EMPIEZA POR B: Estudio o despacho de un abogado
+BUFETE
+BUFET
+Bufete
+EMPIEZA POR C: Interrupción en una emisión radiofónica o televisiva para la publicidad
+CORTE
+Corte
+EMPIEZA POR D: Documento que expide un centro educativo y que acredita un título o un grado académico
+DIPLOMA
+Diploma
+EMPIEZA POR E: Plato que se toma al principio de una comida
+ENTRANTE
+ENTRANTES
+ENTREMES
+ENTREMESES
+ENTRADA
+Entrante
+EMPIEZA POR F: Título de la película de 1967, dirigida por Jack Gold, que trata sobre el estado de Bihar
+FAMINE
+Pasapalabra
+EMPIEZA POR G: Alambre o varilla doblada por un extremo, que se utiliza para abrir cerraduras
+GANZUA
+Ganzua
+EMPIEZA POR H: Que tiene muchas ganas de comer
+HAMBRIENTO
+HAMBRIENTA
+Hambriento
+EMPIEZA POR I: Falta de designio anticipado en favor o en contra de alguien, que permite proceder con rectitud
+IMPARCIALIDAD
+Imparcialidad
+EMPIEZA POR J: Respirar anhelosamente por efecto de algún trabajo o ejercicio impetuoso
+JADEAR
+Jadear
+EMPIEZA POR L: Finca rústica de gran extensión
+LATIFUNDIO
+Latifundio
+EMPIEZA POR M: Reunión pública en que uno o varios oradores pronuncian discursos de carácter político
+MITIN
+Mitin
+EMPIEZA POR N: Avellano silvestre
+NOCHIZO
+Nochizo
+CONTIENE LA Ñ: Coloquialmente, hacer que alguien acepte o cargue con algo, generalmente molesto o perjudicial
+ENDIÑAR
+Endiñar
+EMPIEZA POR O: Materia o asunto de que se ocupa una ciencia o estudio
+OBJETO
+Objeto
+EMPIEZA POR P: Licor originario de Navarra que se obtiene por maceración de endrinas en anís
+PACHARAN
+Pacharan
+CONTIENE LA Q: Mechón de pelo que cae sobre la frente
+FLEQUILLO
+Flequillo
+EMPIEZA POR R: Camino establecido o previsto para una expedición o viaje
+RUTA
+RECORRIDO
+RUMBO
+Ruta
+EMPIEZA POR S: Se dice del monumento clásico adornado con columnatas cuyos espacios entre columnas son de cuatro módulos
+SISTILO
+SISTILA
+Pasapalabra
+EMPIEZA POR T: Río de Asia que, junto al Éufrates, definía los límites de la antigua región de Mesopotamia
+TIGRIS
+Tigris
+EMPIEZA POR U: Interjección usada para denotar cansancio, fastidio o sofocación
+UF
+Uf
+EMPIEZA POR V: Vientre de los pescados
+VENTRESCA
+VENTRECHA
+Ventresca
+CONTIENE LA X: Adverbio que significa fuera del recinto de una ciudad o población
+EXTRAMUROS
+Extramuros
+CONTIENE LA Y: Apellido del ingeniero que fundó la Sociedad Agrícola Alemana en 1885
+EYTH
+Pasapalabra
+EMPIEZA POR Z: Ir de un lado para otro perdiendo el tiempo
+ZASCANDILEAR
+ZANGANEAR
+Zanganear
+EMPIEZA POR A: Ciencia que trata de los astros, de su movimiento y de las leyes que lo rigen
+ASTRONOMIA
+ASTROLOGIA
+Astronomia
+EMPIEZA POR B: Guardia Civil española
+BENEMERITA
+Benemerita
+EMPIEZA POR C: Cama para bebés, con bordes altos o barandillas laterales, a veces dispuesta para poderla mecer
+CUNA
+Cuna
+EMPIEZA POR D: Conjunto de descendientes de una persona o animal
+DESCENDENCIA
+Descendencia
+EMPIEZA POR E: Mesa de despacho
+ESCRITORIO
+Escritorio
+EMPIEZA POR F: Término y remate de algo
+FINAL
+FIN
+Fin
+EMPIEZA POR G: Quiebro que se hace con la voz en la garganta, especialmente al cantar
+GORGORITO
+GORGORITA
+GORGORITOS
+GORGORITAS
+Gorgorito
+EMPIEZA POR H: Apellido del matemático que, en 1976, resolvió, junto a Kenneth Appel, el teorema de los cuatro colores
+HAKEN
+Pasapalabra
+EMPIEZA POR I: Vivienda semiesférica, hecha con bloques de hielo, que los esquimales construyen en invierno
+IGLU
+Iglu
+EMPIEZA POR J: Persona que por oficio cuida y cultiva un jardín
+JARDINERO
+JARDINERA
+Jardinero
+EMPIEZA POR L: Símbolo gráfico que sirve de emblema de una empresa o entidad, de una marca o de un producto
+LOGOTIPO
+LOGO
+Logotipo
+EMPIEZA POR M: Se dice del territorio o del Estado que antiguamente rendía vasallaje a otro
+MOVIENTE
+Pasapalabra
+EMPIEZA POR N: Información sobre algo que se considera interesante divulgar
+NOTICIA
+NOVEDAD
+NUEVA
+Noticia
+CONTIENE LA Ñ: Parque nacional de España, situado en los montes de Toledo, en la comunidad autónoma de Castilla-La Mancha
+CABAÑEROS
+Cabañeros
+EMPIEZA POR O: Parte delantera de un proyectil
+OJIVA
+Ojiva
+EMPIEZA POR P: Pie de un mueble
+PATA
+Pata
+CONTIENE LA Q: Individuo de una doctrina religiosa fundada en el siglo 17 por George Fox, conocida como Sociedad de los Amigo
+CUAQUERO
+CUAQUERA
+Cuaquero
+EMPIEZA POR R: Pieza de carne de res, que se corta de forma casi cilíndrica, de la parte inmediata a la contratapa
+REDONDO
+Redondo
+EMPIEZA POR S: En tenis y otros deportes semejantes, saque
+SERVICIO
+Servicio
+EMPIEZA POR T: Cuerpo geométrico limitado por cuatro caras que son triángulos
+TETRAEDRO
+Tetraedro
+EMPIEZA POR U: Que está más allá o de la otra parte de los montes
+ULTRAMONTANO
+ULTRAMONTANA
+Ultramontano
+EMPIEZA POR V: Cualidad de la persona que ha desempeñado durante mucho tiempo una profesión o tiene experiencia en una activi
+VETERANIA
+Veterania
+CONTIENE LA X: Acción y efecto de doblar el cuerpo o algún miembro
+FLEXION
+Flexion
+CONTIENE LA Y: Título de la obra de teatro de Abel González Melo, de 2019, que trata sobre la poetisa María Luisa Milanés
+BAYAMESA
+Pasapalabra
+EMPIEZA POR Z: Coser la rotura de una tela, juntando los pedazos con puntadas o pasos ordenados
+ZURCIR
+Zurcir
+EMPIEZA POR A: Gran masa de nieve que se derrumba de los montes con violencia y estrépito
+ALUD
+AVALANCHA
+Avalancha
+EMPIEZA POR B: Voz inglesa de comida de media mañana que se toma para sustituir al desayuno y la comida de mediodía
+BRUNCH
+Brunch
+EMPIEZA POR C: Soltería, especialmente la de quien ha hecho voto de castidad
+CELIBATO
+Celibato
+EMPIEZA POR D: Vencer a un enemigo o a un rival
+DERROTAR
+Derrotar si
+EMPIEZA POR E: Trozo de árbol o de madera podrido o carcomido
+ESCARZO
+Pasapalabra
+EMPIEZA POR F: Cantidad de dinero o bien material que se entrega como garantía del cumplimiento de una obligación
+FIANZA
+Fianza
+EMPIEZA POR G: Ácaro diminuto, de forma ovalada, que se agarra al cuerpo de ciertos mamíferos para chuparles la sangre
+GARRAPATA
+Garrapata
+EMPIEZA POR H: Preocupación obsesiva por la propia salud, particularmente por contraer enfermedades
+HIPOCONDRIA
+Hipocondria
+EMPIEZA POR I: País europeo con capital en Dublín
+IRLANDA
+Irlanda
+EMPIEZA POR J: Sexto mes del año
+JUNIO
+Junio
+EMPIEZA POR L: película de 1934, dirigida por Fritz Lang, que adapta una obra de teatro del mismo título de Ferenc Molnár
+LILIOM
+Pasapalabra
+EMPIEZA POR M: Parte interior y más blanda del pan, rodeada y cubierta por la corteza
+MIGA
+MOLLEDO
+MOLLA
+Miga
+EMPIEZA POR N: Lazo que se estrecha y cierra de modo que, con dificultad, se pueda soltar por sí solo
+NUDO
+Nudo
+CONTIENE LA Ñ: Emitir su voz propia el cerdo
+GRUÑIR
+Gruñir
+EMPIEZA POR O: correo despachado por los medios y en los plazos habituales, a diferencia del aéreo o del urgente
+ORDINARIO
+ORDINARIA
+Ordinario
+EMPIEZA POR P: Documento en que oficialmente se le reconoce a alguien una invención y los derechos que de ella se derivan
+PATENTE
+Patente
+CONTIENE LA Q: Coloquialmente, estadounidense
+YANQUI
+Yanqui
+EMPIEZA POR R: Apellido del escultor autor de la estatua del Cristo Redentor situada en la localidad argentina de La Cumbre
+RAMACCIOTI
+Pasapalabra
+EMPIEZA POR S: Que ocupa en una serie el lugar número dos
+SEGUNDO
+SEGUNDA
+Segundo
+EMPIEZA POR T: Tela gruesa colgada de la pared con dibujos de figuras y escenas realizados combinando hilos de colores
+TAPIZ
+Tapiz
+EMPIEZA POR U: Ciudad, especialmente la muy populosa
+URBE
+Urbe
+EMPIEZA POR V: Pegajoso, glutinoso
+VISCOSO
+VISCOSA
+Viscoso
+CONTIENE LA X: Extender un documento o una orden, o ponerlos por escrito y en la forma adecuada
+EXPEDIR
+Expedir
+CONTIENE LA Y: Persona sobre la que se realiza algún experimento médico o biológico
+COBAYA
+Cobaya
+EMPIEZA POR Z: Acción y efecto de dividir un terreno en zonas
+ZONIFICACION
+Zonificacion
+EMPIEZA POR A: Aire que se expulsa al respirar
+ALIENTO
+Aliento
+EMPIEZA POR B: Máquina o artefacto para impulsar agua u otro líquido en una dirección determinada
+BOMBA
+Buche
+EMPIEZA POR C: Músculo situado en la parte anterior del muslo, que interviene en la extensión de la pierna
+CUADRICEPS
+Cuadriceps
+EMPIEZA POR D: Cualidad especial o habilidad para hacer algo
+DON
+DESTREZA
+Destreza
+EMPIEZA POR E: Parte de la filosofía que trata del bien y el mal en los actos humanos
+ETICA
+Etica
+EMPIEZA POR F: Apellido del clérigo que, en 1836, fundó una pionera escuela de enfermería en Alemania
+FLIEDNER
+Pasapalabra
+EMPIEZA POR G: Inscripción o dibujo callejero, generalmente anónimo
+GRAFITI
+GRAFITO
+Grafiti
+EMPIEZA POR H: Tomar o retener bienes ajenos contra la voluntad de su dueño, sin hacer uso de la intimidación ni de la fuerza
+HURTAR
+Hurtar
+EMPIEZA POR I: Inyección que se pone en una zona del cuerpo afectada por una dolencia
+INFILTRACION
+Infiltracion
+EMPIEZA POR J: Tienda donde se venden juguetes
+JUGUETERIA
+Jugueteria
+EMPIEZA POR L: En algunos tipos de lucha, como el judo, movimiento para inmovilizar o derribar al contrario
+LLAVE
+Llave
+EMPIEZA POR M: Ganador en un concurso de belleza masculina
+MISTER
+Mister
+EMPIEZA POR N: Preferencia hacia familiares y amigos a la hora de otorgar un empleo o cargo públicos
+NEPOTISMO
+Nepotismo
+CONTIENE LA Ñ: Se dice de la persona que ríe con facilidad o tiene carácter alegre
+RISUEÑO
+RISUEÑA
+Risueña
+EMPIEZA POR O: Instrumento para explorar el oído
+OTOSCOPIO
+Otoscopio
+EMPIEZA POR P: Faja o tira de esparto, pita o palma, que cosida con otras sirve para hacer objetos, como sombreros y capazos
+PLEITA
+Pleita
+CONTIENE LA Q: Persona que va sentada detrás del conductor en una motocicleta
+PAQUETE
+Paquete
+EMPIEZA POR R: Sustancia que se emplea para eliminar ratas y ratones
+RATICIDA
+Raticida
+EMPIEZA POR S: Nombre de la rama del jainismo, una de las dos principales de esta religión y cuyos monjes visten de blanco
+SVETAMBARA
+Sufismo
+EMPIEZA POR T: Provincia española a la que pertenecen los municipios de Alcañiz y Alba
+TERUEL
+Teruel
+EMPIEZA POR U: Conjunto de conocimientos relacionados con la planificación y desarrollo de las ciudades
+URBANISMO
+Urbanismo
+EMPIEZA POR V: Bebida alcohólica que se hace del zumo de las uvas exprimido y fermentado naturalmente
+VINO
+Vino
+CONTIENE LA X: Manifestación de los afectos y de las emociones por medio de la gesticulación
+EXPRESION
+Expresividad
+CONTIENE LA Y: En este día, en el día presente
+HOY
+Hoy
+EMPIEZA POR Z: Mueble destinado a guardar el calzado
+ZAPATERO
+Zapatero
+EMPIEZA POR A: Elemento químico metálico, de color similar al de la plata y símbolo AL
+ALUMINIO
+Aluminio
+EMPIEZA POR B: Amontonamiento de toda clase de cosas, que se hace para resguardarse tras él en una lucha
+BARRICADA
+Barricada
+EMPIEZA POR C: Coloquialmente, sueño corto y ligero
+CABEZADA
+Cabezada
+EMPIEZA POR D: Modalidad de esquí alpino con una bajada en velocidad por un recorrido que pasa por una serie de puertas
+DESCENSO
+Descenso
+EMPIEZA POR E: Pez marino de gran tamaño, que remonta los ríos para desovar y con cuyas huevas se prepara el caviar
+ESTURION
+Esturion
+EMPIEZA POR F: Apellido del arquitecto que diseñó la Villa Wenhold, en la ciudad alemana de Bremen
+FAHRENKAMP
+Fahrenkamp
+EMPIEZA POR G: Hombre que remaba forzado en las galeras
+GALEOTE
+Galeote
+EMPIEZA POR H: Ancho y sobrado para lo que ha de contener
+HOLGADO
+HOLGADA
+Holgado
+EMPIEZA POR I: Falta de cuidado y diligencia en llegar a un lugar o partir de él a la hora convenida
+IMPUNTUALIDAD
+Impuntualidad
+EMPIEZA POR J: Vaso, por lo general de porcelana, artísticamente labrado, para adornar consolas y chimeneas
+JARRON
+Jarron
+EMPIEZA POR L: Lindar dos territorios o dos terrenos
+LIMITAR
+Limitar
+EMPIEZA POR M: Puesto en que se venden retazos de diferentes telas
+MAULERIA
+Mauleria
+EMPIEZA POR N: Perteneciente o relativo a las bodas
+NUPCIAL
+Nupcial
+CONTIENE LA Ñ: Agrupación de actores o bailarines unidos para representar espectáculos escénicos
+COMPAÑIA
+Compañia
+EMPIEZA POR O: Órgano de la vista en el ser humano y en los animales
+OJO
+Ojo
+EMPIEZA POR P: Estandarte de las iglesias y cofradías rematado en dos puntas, que se lleva en las procesiones
+PENDON
+Pendon
+CONTIENE LA Q: Entre los musulmanes y otros pueblos orientales, superior que gobierna y manda un territorio
+JEQUE
+Jeque
+EMPIEZA POR R: Cobrar o percibir cantidades de dinero por cualquier concepto, como cuotas, donativos o contribuciones
+RECAUDAR
+Recaudar
+EMPIEZA POR S: Provincia de Ecuador con capital en la ciudad de Nueva Loja
+SUCUMBIOS
+Sucumbios
+EMPIEZA POR T: Medida convencional usada en la fabricación y venta de prendas de vestir
+TALLA
+Talla
+EMPIEZA POR U: Estar situado en determinado espacio o lugar
+UBICAR
+UBICARSE
+Ubicarse
+EMPIEZA POR V: Tiempo breve en que, en España, suele hacer calor durante el otoño
+VERANILLO
+Veranillo
+CONTIENE LA X: Hormona que estimula la contracción del útero durante el parto y la secreción de leche en la glándula mamaria
+OXITOCINA
+Oxitocina
+CONTIENE LA Y: Poema en que se refieren hechos heroicos, históricos o legendarios
+EPOPEYA
+Epopeya
+EMPIEZA POR Z: Se dice de algo que es de color azul claro, especialmente los ojos
+ZARZO
+ZARCA
+Zarco

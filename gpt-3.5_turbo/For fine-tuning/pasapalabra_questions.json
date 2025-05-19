@@ -1,0 +1,739 @@
+[
+  {
+    "id": "1",
+    "pregunta": "Empieza por la A: Edificio o local donde se guardan g\u00e9neros de cualquier clase, generalmente mercanc\u00edas",
+    "respuesta_correcta": "ALMACEN",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "2",
+    "pregunta": "Empieza por la B: Utensilio para la lactancia artificial que consiste en una botella peque\u00f1a con una tetina de goma",
+    "respuesta_correcta": "BIBERON",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "3",
+    "pregunta": "Empieza por la C: Boina grande, t\u00edpica del Pa\u00eds Vasco",
+    "respuesta_correcta": "CHAPELA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "4",
+    "pregunta": "Empieza por la D: Se\u00f1al que queda en la parte por donde se ha doblado algo",
+    "respuesta_correcta": "DOBLEZ",
+    "respuesta_correcta_2": "DOBLE",
+    "respuesta_correcta_3": "DOBLADURA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "5",
+    "pregunta": "Empieza por la E: Ciudad de Francia que, en el siglo 11, se convirti\u00f3 en capital de la familia de los se\u00f1ores de Ventadour",
+    "respuesta_correcta": "EGLETONS",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "6",
+    "pregunta": "Empieza por la F: Coloquialmente, enriquecerse, hacerse rico",
+    "respuesta_correcta": "FORRARSE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "7",
+    "pregunta": "Empieza por la G: En la antigua Roma, persona que luchaba en el circo contra otra persona o contra una fiera",
+    "respuesta_correcta": "GLADIADOR",
+    "respuesta_correcta_2": "GLADIADORA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "8",
+    "pregunta": "Empieza por la H: Cada una de las cuerdas que sostienen la hamaca",
+    "respuesta_correcta": "HICO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "9",
+    "pregunta": "Empieza por la I: Intranquilidad producida por algo que molesta o que no acaba de llegar",
+    "respuesta_correcta": "IMPACIENCIA",
+    "respuesta_correcta_2": "INQUIETUD",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "10",
+    "pregunta": "Empieza por la J: Veteado o salpicado de pintas como el jaspe",
+    "respuesta_correcta": "JASPEADO",
+    "respuesta_correcta_2": "JASPEADA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "11",
+    "pregunta": "Empieza por la L: Pez marino comestible, de cuerpo ovalado y casi plano, con los dos ojos situados en el mismo lado del cuerpo",
+    "respuesta_correcta": "LENGUADO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "12",
+    "pregunta": "Empieza por la M: Carta que se env\u00eda a alguien",
+    "respuesta_correcta": "MISIVA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "13",
+    "pregunta": "Empieza por la N: L\u00edquido inflamable y explosivo, que se emplea para fabricar dinamita",
+    "respuesta_correcta": "NITROGLICERINA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "14",
+    "pregunta": "Contiene la \u00d1: Parte instrumental o vocal de una composici\u00f3n que sirve de soporte arm\u00f3nico a la parte mel\u00f3dica principal.",
+    "respuesta_correcta": "ACOMPA\u00d1AMIENTO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "15",
+    "pregunta": "Empieza por la O: Poliedro de ocho caras o planos",
+    "respuesta_correcta": "OCTAEDRO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "16",
+    "pregunta": "Empieza por la P: Se dice del animal invertebrado que vive en las profundidades marinas y carece de boca y tubo digestivo",
+    "respuesta_correcta": "POGONOFORO",
+    "respuesta_correcta_2": "POGONOFORA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "17",
+    "pregunta": "Contiene la Q: Asiento de tres o cuatro pies y sin respaldo",
+    "respuesta_correcta": "BANQUETA",
+    "respuesta_correcta_2": "BANQUITO",
+    "respuesta_correcta_3": "BANQUILLO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "18",
+    "pregunta": "Empieza por la R: Acto solemne en el que desfilan ante el jefe del Estado u otra autoridad los representantes de cuerpos o clase",
+    "respuesta_correcta": "RECEPCION",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "19",
+    "pregunta": "Empieza por la S: Voz inglesa que designa el establecimiento de tratamientos y sistemas de relajaci\u00f3n con agua como base",
+    "respuesta_correcta": "SPA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "20",
+    "pregunta": "Empieza por la T: Someter algo a un control o prueba",
+    "respuesta_correcta": "TESTAR",
+    "respuesta_correcta_2": "TESTEAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "21",
+    "pregunta": "Empieza por la U: Se dice de la radiaci\u00f3n que se encuentra entre el extremo violeta del espectro visible y los rayos X",
+    "respuesta_correcta": "ULTRAVIOLETA",
+    "respuesta_correcta_2": "UVA",
+    "respuesta_correcta_3": "ULTRAVIOLADO",
+    "respuesta_correcta_4": "ULTRAVIOLADA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "22",
+    "pregunta": "Empieza por la V: Quinto d\u00eda de la semana",
+    "respuesta_correcta": "VIERNES",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "23",
+    "pregunta": "Contiene la X: Conjunto de elementos dedicados a una industria o granjer\u00eda",
+    "respuesta_correcta": "EXPLOTACION",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "24",
+    "pregunta": "Contiene la Y: Apellido del activista que sucedi\u00f3 a Luther King como presidente de la Conferencia Sur de Liderazgo Cristiano",
+    "respuesta_correcta": "ABERNATHY",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "25",
+    "pregunta": "Empieza por la Z: Dividir un terreno en zonas",
+    "respuesta_correcta": "ZONIFICAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "26",
+    "pregunta": "Empieza por la A: Edificio o local donde se guardan g\u00e9neros de cualquier clase, generalmente mercanc\u00edas",
+    "respuesta_correcta": "ALMACEN",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "27",
+    "pregunta": "Empieza por la B: Utensilio para la lactancia artificial que consiste en una botella peque\u00f1a con una tetina de goma",
+    "respuesta_correcta": "BIBERON",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "28",
+    "pregunta": "Empieza por la C: Boina grande, t\u00edpica del Pa\u00eds Vasco",
+    "respuesta_correcta": "CHAPELA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "29",
+    "pregunta": "Empieza por la D: Se\u00f1al que queda en la parte por donde se ha doblado algo",
+    "respuesta_correcta": "DOBLEZ",
+    "respuesta_correcta_2": "DOBLE",
+    "respuesta_correcta_3": "DOBLADURA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "30",
+    "pregunta": "Empieza por la E: Ciudad de Francia que, en el siglo 11, se convirti\u00f3 en capital de la familia de los se\u00f1ores de Ventadour",
+    "respuesta_correcta": "EGLETONS",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "31",
+    "pregunta": "Empieza por la F: Coloquialmente, enriquecerse, hacerse rico",
+    "respuesta_correcta": "FORRARSE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "32",
+    "pregunta": "Empieza por la G: En la antigua Roma, persona que luchaba en el circo contra otra persona o contra una fiera",
+    "respuesta_correcta": "GLADIADOR",
+    "respuesta_correcta_2": "GLADIADORA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "33",
+    "pregunta": "Empieza por la H: Cada una de las cuerdas que sostienen la hamaca",
+    "respuesta_correcta": "HICO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "34",
+    "pregunta": "Empieza por la I: Intranquilidad producida por algo que molesta o que no acaba de llegar",
+    "respuesta_correcta": "IMPACIENCIA",
+    "respuesta_correcta_2": "INQUIETUD",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "35",
+    "pregunta": "Empieza por la J: Veteado o salpicado de pintas como el jaspe",
+    "respuesta_correcta": "JASPEADO",
+    "respuesta_correcta_2": "JASPEADA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "36",
+    "pregunta": "Empieza por la L: Pez marino comestible, de cuerpo ovalado y casi plano, con los dos ojos situados en el mismo lado del cuerpo",
+    "respuesta_correcta": "LENGUADO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "37",
+    "pregunta": "Empieza por la M: Carta que se env\u00eda a alguien",
+    "respuesta_correcta": "MISIVA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "38",
+    "pregunta": "Empieza por la N: L\u00edquido inflamable y explosivo, que se emplea para fabricar dinamita",
+    "respuesta_correcta": "NITROGLICERINA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "39",
+    "pregunta": "Contiene la \u00d1: Parte instrumental o vocal de una composici\u00f3n que sirve de soporte arm\u00f3nico a la parte mel\u00f3dica principal.",
+    "respuesta_correcta": "ACOMPA\u00d1AMIENTO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "40",
+    "pregunta": "Empieza por la O: Poliedro de ocho caras o planos",
+    "respuesta_correcta": "OCTAEDRO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "41",
+    "pregunta": "Empieza por la P: Se dice del animal invertebrado que vive en las profundidades marinas y carece de boca y tubo digestivo",
+    "respuesta_correcta": "POGONOFORO",
+    "respuesta_correcta_2": "POGONOFORA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "42",
+    "pregunta": "Contiene la Q: Asiento de tres o cuatro pies y sin respaldo",
+    "respuesta_correcta": "BANQUETA",
+    "respuesta_correcta_2": "BANQUITO",
+    "respuesta_correcta_3": "BANQUILLO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "43",
+    "pregunta": "Empieza por la R: Acto solemne en el que desfilan ante el jefe del Estado u otra autoridad los representantes de cuerpos o clase",
+    "respuesta_correcta": "RECEPCION",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "44",
+    "pregunta": "Empieza por la S: Voz inglesa que designa el establecimiento de tratamientos y sistemas de relajaci\u00f3n con agua como base",
+    "respuesta_correcta": "SPA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "45",
+    "pregunta": "Empieza por la T: Someter algo a un control o prueba",
+    "respuesta_correcta": "TESTAR",
+    "respuesta_correcta_2": "TESTEAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "46",
+    "pregunta": "Empieza por la U: Se dice de la radiaci\u00f3n que se encuentra entre el extremo violeta del espectro visible y los rayos X",
+    "respuesta_correcta": "ULTRAVIOLETA",
+    "respuesta_correcta_2": "UVA",
+    "respuesta_correcta_3": "ULTRAVIOLADO",
+    "respuesta_correcta_4": "ULTRAVIOLADA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "47",
+    "pregunta": "Empieza por la V: Quinto d\u00eda de la semana",
+    "respuesta_correcta": "VIERNES",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "48",
+    "pregunta": "Contiene la X: Conjunto de elementos dedicados a una industria o granjer\u00eda",
+    "respuesta_correcta": "EXPLOTACION",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "49",
+    "pregunta": "Contiene la Y: Apellido del activista que sucedi\u00f3 a Luther King como presidente de la Conferencia Sur de Liderazgo Cristiano",
+    "respuesta_correcta": "ABERNATHY",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "50",
+    "pregunta": "Empieza por la Z: Dividir un terreno en zonas",
+    "respuesta_correcta": "ZONIFICAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "51",
+    "pregunta": "Empieza por A. Estado de Estados Unidos en el que se encuentra el Gran Canon del Colorado.",
+    "respuesta_correcta": "ARIZONA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "52",
+    "pregunta": "Empieza por B. Sistema de escritura para ciegos que consiste en signos dibujados en relieve para poder leer con los dedos.",
+    "respuesta_correcta": "BRAILE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "53",
+    "pregunta": "Empieza por C. Empleo y ejercicio del profesor que tiene la categoria mas alta en ensenanza media o universitaria.",
+    "respuesta_correcta": "CATEDRA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "54",
+    "pregunta": "Empieza por D. Gozar, sentir placer.",
+    "respuesta_correcta": "DISFRUTAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "55",
+    "pregunta": "Empieza por E. Desgaste de la superficie terrestre por agentes externos, como el agua o el viento.",
+    "respuesta_correcta": "EROSION",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "56",
+    "pregunta": "Empieza por F. Conjunto de los organismos publicos que se ocupan de la recaudacion de impuestos.",
+    "respuesta_correcta": "FISCO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "57",
+    "pregunta": "Empieza por G. Carrera en que los participantes deben superar una serie de pruebas a lo largo del recorrido.",
+    "respuesta_correcta": "GINCANA",
+    "respuesta_correcta_2": "GYMKHANA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "58",
+    "pregunta": "Empieza por H. En lenguaje poetico, ninfa de los prados.",
+    "respuesta_correcta": "HENIDE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "59",
+    "pregunta": "Empieza por I. Se dice de la habitacion o vivienda que no tiene vistas a la calle.",
+    "respuesta_correcta": "INTERIOR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "60",
+    "pregunta": "Empieza por J. Variedad de chile, de color verde oscuro, mas bien pequeno y muy picante, que suele tomarse encurtido.",
+    "respuesta_correcta": "JALAPENO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "61",
+    "pregunta": "Empieza por L. Persona o animal que guia a un ciego.",
+    "respuesta_correcta": "LAZARILLO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "62",
+    "pregunta": "Empieza por M. Apellido del medico y rabino que, en 1534, fue nombrado medico papal por el pontifice Pablo 3o.",
+    "respuesta_correcta": "MANTINO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "63",
+    "pregunta": "Empieza por N. Hidrocarburo solido y blanco que se vende en forma de bolas para preservar la ropa de la polilla.",
+    "respuesta_correcta": "NAFTALINA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "64",
+    "pregunta": "Contiene la N. Monte rocoso.",
+    "respuesta_correcta": "PE\u00d1ON",
+    "respuesta_correcta_2": "PE\u00d1A",
+    "respuesta_correcta_3": "PE\u00d1ASCO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "65",
+    "pregunta": "Empieza por O. Amor propio, autoestima.",
+    "respuesta_correcta": "ORGULLO",
+    "respuesta_correcta_2": "ORGULLEZA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "66",
+    "pregunta": "Empieza por P. Abogado que trabaja como auxiliar de otro para adquirir experiencia en la profesion.",
+    "respuesta_correcta": "PASANTE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "67",
+    "pregunta": "Contiene la Q. En el juego del poker, combinacion de cuatro cartas iguales mas un comodin.",
+    "respuesta_correcta": "REPOQUER",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "68",
+    "pregunta": "Empieza por R. Corriente de agua continua y mas o menos caudalosa que va a desembocar en otra, en un lago o en el mar.",
+    "respuesta_correcta": "RIO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "69",
+    "pregunta": "Empieza por S. Nombre de la dinastia de la India fundada por Pusyamitra alrededor del ano 185 antes de Cristo.",
+    "respuesta_correcta": "SUNGA",
+    "respuesta_correcta_2": "SHUNGA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "70",
+    "pregunta": "Empieza por T. Recipiente de paredes aislantes y cierre hermetico, que conserva la temperatura de las sustancias introducidas.",
+    "respuesta_correcta": "TERMO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "71",
+    "pregunta": "Empieza por U. Que tiene una sola dimension.",
+    "respuesta_correcta": "UNIDIMENSIONAL",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "72",
+    "pregunta": "Empieza por V. Tallo nuevo que brota de una planta.",
+    "respuesta_correcta": "VASTAGO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "73",
+    "pregunta": "Contiene la X. En medicina, dislocar un hueso.",
+    "respuesta_correcta": "LUXAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "74",
+    "pregunta": "Contiene la Y. Mata silvestre, con frutos en forma de bolitas rojas, en cuyas raices vive una cochinilla que da color rojo.",
+    "respuesta_correcta": "GAYUBA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "75",
+    "pregunta": "Empieza por Z. Globo dirigible rigido.",
+    "respuesta_correcta": "ZEPELIN",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "76",
+    "pregunta": "Empieza por A: Ruido producido por gente que grita, se rie o habla estridentemente",
+    "respuesta_correcta": "ALBOROTO",
+    "respuesta_correcta_2": "ALGARABIA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "77",
+    "pregunta": "Empieza por B: Rizo de pelo de forma de helice",
+    "respuesta_correcta": "BUCLE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "78",
+    "pregunta": "Empieza por C: Banda o sujecion pendiente del cuello o del hombro para inmovilizar un brazo lesionado",
+    "respuesta_correcta": "CABESTRILLO",
+    "respuesta_correcta_2": "CHARPA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "79",
+    "pregunta": "Empieza por D: Argumentar en favor de ciertas cosas, ideas o personas que son combatidas por otros",
+    "respuesta_correcta": "DEFENDER",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "80",
+    "pregunta": "Empieza por E: En algunos juegos, especialmente de naipes, apuesta que se hace en una jugada",
+    "respuesta_correcta": "ENVITE",
+    "respuesta_correcta_2": "ENVIDO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "81",
+    "pregunta": "Empieza por F: Introduccion ilegal de mercancias en un pais, transportadas en un furgon",
+    "respuesta_correcta": "FURGONAZO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "82",
+    "pregunta": "Empieza por G: Mal caracter, temperamento dificil",
+    "respuesta_correcta": "GENIO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "83",
+    "pregunta": "Empieza por H: Cuerpo redondeado que producen las hembras de las aves y otros animales, y que contiene el germen del embrion",
+    "respuesta_correcta": "HUEVO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "84",
+    "pregunta": "Empieza por I: Seguidor de una corriente que, en el siglo 8, negaba el culto a las imagenes sagradas",
+    "respuesta_correcta": "ICONOCLASTA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "85",
+    "pregunta": "Empieza por J: Vino blanco y fino que se cria y elabora en la provincia de Cadiz",
+    "respuesta_correcta": "JEREZ",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "86",
+    "pregunta": "Empieza por L: Aquello que se deja o transmite a los sucesores, sea cosa material o inmaterial",
+    "respuesta_correcta": "LEGADO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "87",
+    "pregunta": "Empieza por M: Carrillo carnoso y abultado",
+    "respuesta_correcta": "MOFLETE",
+    "respuesta_correcta_2": "MOLLETE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "88",
+    "pregunta": "Empieza por N: Adivinacion mediante la invocacion a los muertos",
+    "respuesta_correcta": "NIGROMANCIA",
+    "respuesta_correcta_2": "NECROMANCIA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "89",
+    "pregunta": "Contiene la N: Arte de construir edificios u obras en que se empleen ladrillos, piedra, yeso, cemento o materiales semejantes",
+    "respuesta_correcta": "ALBANILERIA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "90",
+    "pregunta": "Empieza por O: Municipio de los Paises Bajos en el que se encuentra el Castillo de Eerde",
+    "respuesta_correcta": "OMMEN",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "91",
+    "pregunta": "Empieza por P: Que se realiza o celebra en la vivienda de alguien, en el seno de la familia o con asistencia limitada de poca",
+    "respuesta_correcta": "PRIVADO",
+    "respuesta_correcta_2": "PRIVADA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "92",
+    "pregunta": "Contiene la Q: Vehiculo sin motor, destinado a ser arrastrado por otro",
+    "respuesta_correcta": "REMOLQUE",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "93",
+    "pregunta": "Empieza por R: Conjunto de uvas sostenidas en un mismo tallo",
+    "respuesta_correcta": "RACIMO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "94",
+    "pregunta": "Empieza por S: Mariquita, insecto coleoptero de alas rojas con puntos negros",
+    "respuesta_correcta": "SANANICA",
+    "respuesta_correcta_2": "SANTANITA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "95",
+    "pregunta": "Empieza por T: Persona habilitada para graduar el precio de un bien",
+    "respuesta_correcta": "TASADOR",
+    "respuesta_correcta_2": "TASADORA",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "96",
+    "pregunta": "Empieza por U: Accion y efecto de utilizar",
+    "respuesta_correcta": "UTILIZACION",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "97",
+    "pregunta": "Empieza por V: Sacar a la playa y poner en seco una embarcacion, para resguardarla de la resaca o de los golpes de mar",
+    "respuesta_correcta": "VARAR",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "98",
+    "pregunta": "Contiene la X: Jugo lechoso que circula por los vasos de algunas plantas, del que se obtienen materiales como caucho y goma",
+    "respuesta_correcta": "LATEX",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "99",
+    "pregunta": "Contiene la Y: Apellido del cantante que publico el album When the Angels Make Contact",
+    "respuesta_correcta": "MAYS",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  },
+  {
+    "id": "100",
+    "pregunta": "Empieza por Z: Hueso del pie que forma el talon",
+    "respuesta_correcta": "ZANCAJO",
+    "respuesta_chatgpt": "",
+    "respuesta_concursante": ""
+  }
+]
