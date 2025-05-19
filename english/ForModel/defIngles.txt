@@ -1,0 +1,500 @@
+Starts with A: Having a strong desire for success or achievement.
+AMBITIOUS
+Starts with B: Causing fear or anxiety; difficult to deal with.
+BRUTAL
+Starts with C: Able to do things effectively and efficiently.
+COMPETENT
+Starts with D: Showing care in doing one’s work or duties.
+DILIGENT
+Starts with E: Providing encouragement or optimism.
+ENCOURAGING
+Starts with F: Free from deceit or pretension; genuine.
+FRANK
+Starts with G: Very giving or willing to share.
+GENEROUS
+Starts with H: Free from stress or worry; relaxed.
+HARMONIOUS
+Starts with I: Unable to be changed or moved.
+IMMOVABLE
+Starts with J: Full of high-spirited delight or excitement.
+JOVIAL
+Starts with K: Being considerate, helpful, or benevolent.
+KIND
+Starts with L: Able to express oneself fluently and persuasively.
+LUCID
+Starts with M: Having qualities traditionally associated with masculinity.
+MASCULINE
+Starts with N: Causing no harm; harmless or beneficial.
+NONTOXIC
+Starts with O: Completely open and honest.
+OUTSPOKEN
+Starts with P: Able to accept or tolerate delays or suffering.
+PATIENT
+Starts with Q: Calm, peaceful, and free from disturbance.
+QUIET
+Starts with R: Not willing to accept new ideas or change.
+RESISTANT
+Starts with S: Giving pleasure or satisfaction; delightful.
+SATISFYING
+Starts with T: Full of energy and enthusiasm.
+TIRELESS
+Starts with U: Unique and unmatched in quality or character.
+UNIQUE
+Starts with V: Extremely enthusiastic or passionate.
+VIBRANT
+Starts with W: Unusually or excessively small or insignificant.
+WIMPY
+Starts with Y: Having a yellowish hue or appearance.
+YELLOWISH
+Starts with Z: Full of energy and enthusiasm.
+ZESTY
+Starts with O: The formation of a word from a sound associated with what is named.
+ONOMATOPOEIA
+Starts with D: The practice of seeking knowledge of the future or the unknown by supernatural means.
+DIVINATION
+Starts with P: A solution or remedy for all difficulties or diseases.
+PANACEA
+Starts with P: A person or thing regarded as a perfect example of a particular quality.
+PARAGON
+Starts with H: A lengthy and aggressive speech.
+HARANGUE
+Starts with P: A strong or habitual liking for something or tendency to do something.
+PENCHANT
+Starts with C: A sudden and unaccountable change of mood or behavior.
+CAPRICE
+Starts with E: The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
+ECOLOGY
+Starts with D: The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.
+DENOUEMENT
+Starts with P: A sudden and unplanned loss or downturn.
+PLUMMET
+Starts with M: An intricate and confusing arrangement or situation.
+MAZE
+Starts with A: A person who renounces a religious or political belief or principle.
+APOSTATE
+Starts with A: The art or science of cultivating the soil, growing crops, and raising livestock.
+AGRICULTURE
+Starts with L: A person who writes dictionaries.
+LEXICOGRAPHER
+Starts with E: A magical or medicinal potion.
+ELIXIR
+Starts with F: A sweet-smelling resin obtained from certain trees and used in incense and perfumes.
+FRANKINCENSE
+Starts with T: An instrument for measuring and indicating temperature.
+THERMOMETER
+Starts with S: A flat, thin, rectangular piece of material.
+SLAB
+Starts with A: An imaginary or hypothetical concept, idea, or entity.
+ABSTRACTION
+Starts with F: A person's ability to cope well with difficulties or to face a demanding situation in a spirited and resilient way.
+FORTITUDE
+Starts with C: The arrangement of events or dates in the order of their occurrence.
+CHRONOLOGY
+Starts with A: A group of islands.
+ARCHIPELAGO
+Starts with B: A person who composes or performs epic or heroic poems.
+BARD
+Starts with P: A sudden, intense fear or anxiety that may cause irrational behavior.
+PANIC
+Starts with S: A small, simple building, often made of wood or other basic materials.
+SHACK
+Starts with S: A person who manages or oversees the work of others.
+SUPERVISOR
+Starts with V: A plant with a creeping or climbing habit, usually with stems supported by tendrils or climbing structures.
+VINE
+Starts with E: The ability to understand and share the feelings of another.
+EMPATHY
+Starts with P: The main character in a work of literature, often seen as the hero.
+PROTAGONIST
+Starts with M: A person who repairs or maintains machinery, typically in an industrial setting.
+MECHANIC
+Starts with M: A particular point in time, especially one that is significant or defining.
+MOMENT
+Starts with N: A person who is new to a field or activity; a beginner.
+NOVICE
+Starts with P: The basic monetary unit of the United Kingdom.
+POUND
+Starts with M: The practice of being married to only one person at a time.
+MONOGAMY
+Starts with C: A deep, narrow valley with steep sides, often with a stream running through it.
+CANYON
+Starts with S: A mark left on the skin after a wound or injury has healed.
+SCAR
+Starts with H: A prolonged period of abnormally hot weather.
+HEATWAVE
+Starts with T: A small piece of advice or useful information.
+TIP
+Starts with B: A thick, solid piece of wood, metal, or stone.
+BLOCK
+Starts with I: The process of starting or introducing something new.
+INITIATION
+Starts with I: A person who behaves rudely and disrespectfully, especially to authority.
+INSOLENT
+Starts with S: The state of being free from danger or threat.
+SECURITY
+Starts with S: A place where people live permanently, such as a village or city.
+SETTLEMENT
+Starts with O: A short trip or journey for pleasure or recreation.
+OUTING
+Starts with M: A member of the clergy authorized to perform religious duties.
+MINISTER
+Starts with T: The activity or profession of moving goods by road, rail, sea, or air.
+TRANSPORTATION
+Starts with C: A solid geometric figure with six equal square faces.
+CUBE
+Starts with D: A very small drop of liquid.
+DROPLET
+Starts with U: The state of being united or joined as a whole.
+UNITY
+Starts with N: The lowest point of something, especially in terms of achievement.
+NADIR
+Starts with D: A written or printed version of something.
+DOCUMENT
+Starts with M: A professional soldier hired to serve in a foreign army.
+MERCENARY
+Starts with A: A word opposite in meaning to another.
+ANTONYM
+Starts with G: The person legally responsible for the custody and care of another person.
+GUARDIAN
+Starts with T: A type of freshwater fish commonly caught for sport.
+TROUT
+Starts with A: A person who studies human societies and their development.
+ANTHROPOLOGIST
+Starts with K: The sound of a bell, especially when rung slowly for a funeral.
+KNELL
+Starts with P: A small, flat mass of ground meat, typically fried or grilled.
+PATTY
+Starts with S: A high-pitched scream or cry, often indicating pain or fear.
+SCREECH
+Starts with C: A soft, round, sweet food made from flour, sugar, and butter.
+COOKIE
+Starts with D: A person who drives a motor vehicle.
+DRIVER
+Starts with H: A piece of clothing worn to cover the head and shoulders, typically in cold weather.
+HOOD
+Starts with C: The ability to create new and original ideas or things.
+CREATIVITY
+Starts with P: A person who seeks to promote the welfare of others, typically through donations or charity.
+PHILANTHROPIST
+Starts with O: A small, decorative object placed in a room for aesthetic purposes.
+ORNAMENT
+Starts with F: A thick, cold, white mist that obscures vision.
+FOG
+Starts with M: A type of book or pamphlet containing information or instructions.
+MANUAL
+Starts with A: The ability to move quickly and easily.
+AGILITY
+Starts with M: The soft, spongy tissue inside bones that produces blood cells.
+MARROW
+Starts with H: A large, powerful, and destructive storm with very high winds.
+HURRICANE
+Starts with D: A period of ten years.
+DECADE
+Starts with C: A sudden burst of laughter or amusement.
+CHUCKLE
+Starts with E: The part of the Earth’s surface directly above the focus of an earthquake.
+EPICENTER
+Starts with P: The act of spreading information or ideas to promote a cause.
+PROPAGANDA
+Starts with B: A device used to measure atmospheric pressure.
+BAROMETER
+Starts with E: A state of extreme physical or mental tiredness.
+EXHAUSTION
+Starts with P: A small, organized group of people, especially in the military.
+PLATOON
+Starts with R: A person who habitually lives in seclusion or avoids people.
+RECLUSE
+Starts with S: The region of the atmosphere and outer space visible from Earth.
+SKY
+Starts with A: A room or space immediately below the roof of a building.
+ATTIC
+Starts with S: The point at which the sun is farthest from the equator.
+SOLSTICE
+Starts with L: A building or place used for scientific research or experiments.
+LABORATORY
+Starts with T: The act of rising above or going beyond the ordinary.
+TRANSCENDENCE
+Starts with B: A small natural stream of water.
+BROOK
+Starts with R: A narrow band of elastic material, often used to hold things together.
+RUBBERBAND
+Starts with S: A person who is fond of luxury and indulges in sensual pleasures.
+SYBARITE
+Starts with R: The ability to withstand difficult conditions or hardship.
+RESILIENCE
+Starts with S: A person or thing that takes the blame for the mistakes or faults of others.
+SCAPEGOAT
+Starts with O: A sudden, violent attack, especially by an armed force.
+ONSLAUGHT
+Starts with R: The process of breathing in oxygen and expelling carbon dioxide.
+RESPIRATION
+Starts with R: A long, thin, flat strip of material, often used for decoration or support.
+RIBBON
+Starts with P: The scientific study of the mind and behavior.
+PSYCHOLOGY
+Starts with C: A small room or compartment used for storage.
+CUPBOARD
+Starts with D: A strong feeling of wanting to have or achieve something.
+DESIRE
+Starts with D: The remains of something broken, destroyed, or discarded.
+DEBRIS
+Starts with I: A person who tends to be optimistic or hopeful.
+IDEALIST
+Starts with C: The characteristic of being brave in the face of danger.
+COURAGE
+Starts with S: A person who watches an event, especially a sports event, without taking part.
+SPECTATOR
+Starts with C: The ability to do something successfully or efficiently.
+COMPETENCE
+Starts with C: A small, flat, round piece of metal or plastic used as money.
+COIN
+Starts with P: The soft covering of a bird’s body, consisting of feathers.
+PLUMAGE
+Starts with A: A type of large sea bird known for its long wingspan.
+ALBATROSS
+Starts with C: A container for carrying water, often used in outdoor activities.
+CANTEEN
+Starts with C: A person who organizes and manages events, often for public gatherings.
+COORDINATOR
+Starts with C: The study of the origins and structure of the universe.
+COSMOLOGY
+Starts with W: The ability to make intelligent decisions quickly in difficult situations.
+WISDOM
+Starts with A: A device for making large amounts of sound, often used in concerts or events.
+AMPLIFIER
+Starts with G: A strong, sudden wind.
+GUST
+Starts with V: The state of being completely empty or devoid of content.
+VACUITY
+Starts with B: A place where plants are grown for scientific study or display.
+BOTANICALGARDEN
+Starts with F: A type of evergreen tree often associated with holidays or celebrations.
+FIR
+Starts with B: A person who prepares and sells meat.
+BUTCHER
+Starts with C: The natural coloring of the skin, often associated with health or vitality.
+COMPLEXION
+Starts with D: A small boat propelled by rowing.
+DINGHY
+Starts with M: A very large and luxurious residence or estate.
+MANSION
+Starts with C: A mixture of decaying organic substances used for fertilizing soil.
+COMPOST
+Starts with V: The process of verifying something to ensure it is accurate or true.
+VALIDATION
+Starts with H: A person who pretends to have certain beliefs or qualities they do not possess.
+HYPOCRITE
+Starts with S: A sudden movement caused by fear or surprise.
+STARTLE
+Starts with B: A drink made by infusing leaves, seeds, or roots in hot water.
+BREW
+Starts with C: The distance around a circle or another curved geometric figure.
+CIRCUMFERENCE
+Starts with S: A small, sharp piece of material that has broken off a larger object.
+SPLINTER
+Starts with P: A person who is excessively concerned with minor details or rules.
+PEDANT
+Starts with P: A chemical substance used to kill pests or insects.
+PESTICIDE
+Starts with S: A person skilled at telling stories in an entertaining way.
+STORYTELLER
+Starts with A: A person who designs and oversees the construction of buildings.
+ARCHITECT
+Starts with T: A large number of similar things or people coming together in a crowd.
+THRONG
+Starts with H: A person who is excessively worried or concerned about their health.
+HYPOCHONDRIAC
+Starts with L: A small, green citrus fruit with a sour taste.
+LIME
+Starts with R: A written set of instructions for preparing a dish.
+RECIPE
+Starts with A: A layer of rock or soil that holds water underground.
+AQUIFER
+Starts with H: A person who inherits the property or position of another.
+HEIR
+Starts with C: A building or room used for public worship, typically by a Christian denomination.
+CHAPEL
+Starts with C: A formal agreement between two or more parties.
+CONTRACT
+Starts with P: The ability to keep going without giving up, even when facing challenges.
+PERSEVERANCE
+Starts with C: A person who composes and directs the performance of music.
+CONDUCTOR
+Starts with V: A light, thin fabric, often used for curtains or clothing.
+VOILE
+Starts with Q: A musical composition designed to be played by a small group of musicians.
+QUARTET
+Starts with A: The study of the structure and function of the human body.
+ANATOMY
+Starts with A: A type of black, shiny coal that burns with intense heat.
+ANTHRACITE
+Starts with F: The soft substance found in fruit, such as peaches or plums.
+FLESH
+Starts with H: A place where fish are bred or raised commercially.
+HATCHERY
+Starts with A: The act of taking something for one's own use, typically without the owner's permission.
+APPROPRIATION
+Starts with C: A person who creates and studies maps.
+CARTOGRAPHER
+Starts with B: A small, close-fitting knitted hat that covers the head.
+BEANIE
+Starts with B: The action of decorating something with bright, shiny objects or lights.
+BEDAZZLEMENT
+Starts with M: A large, ancient building, often associated with ruins or temples.
+MONOLITH
+Starts with F: The collective term for the leaves of a plant.
+FOLIAGE
+Starts with S: The scientific study of caves.
+SPELEOLOGY
+Starts with B: A small, hard, rounded object used in counting or decoration.
+BEAD
+Starts with P: The ability to remain calm and composed under pressure.
+POISE
+Starts with R: A period of time during which a particular monarch reigns.
+REIGN
+Starts with K: A small, narrow boat propelled by paddles.
+KAYAK
+Starts with T: The use of violence or intimidation to achieve political goals.
+TERRORISM
+Starts with P: A person who makes pottery by shaping clay and baking it in a kiln.
+POTTER
+Starts with S: A speech given by one actor in a play, usually expressing inner thoughts.
+SOLILOQUY
+Starts with S: A short, catchy phrase used in advertising.
+SLOGAN
+Starts with G: A small shelter built to provide shade or protection from the weather.
+GAZEBO
+Starts with N: A written or spoken account of events.
+NARRATIVE
+Starts with R: A plant structure that anchors it to the ground and absorbs nutrients.
+ROOT
+Starts with T: The main stem of a plant that supports branches, leaves, or flowers.
+TRUNK
+Starts with P: A long journey made to a sacred place as an act of religious devotion.
+PILGRIMAGE
+Starts with E: The scientific study of insects.
+ENTOMOLOGY
+Starts with S: A person who rescues or salvages goods from a wrecked ship.
+SALVAGER
+Starts with F: A device used to signal ships or planes at sea or in distress.
+FLARE
+Starts with M: A person who works in a mine extracting minerals or other materials.
+MINER
+Starts with S: The process by which ice or snow turns directly into water vapor.
+SUBLIMATION
+Starts with C: A deep crack or fissure in a glacier or in the ground.
+CREVASSE
+Starts with C: A person who repairs and makes leather items such as shoes.
+COBBLER
+Starts with P: The study and classification of rocks.
+PETROLOGY
+Starts with A: A small ornament worn for good luck or protection.
+AMULET
+Starts with H: A person who cuts, styles, and grooms hair professionally.
+HAIRSTYLIST
+Starts with A: The process of cleansing or purifying something, often spiritually.
+ABLUTION
+Starts with G: A small piece of ground used for growing flowers, vegetables, or herbs.
+GARDEN
+Starts with N: A person who travels from place to place without a permanent home.
+NOMAD
+Starts with A: To have enough money to buy or do something.
+AFFORD
+Starts with B: To use the teeth to cut into something.
+BITE
+Starts with C: To examine something carefully in order to understand it or make decisions.
+CONSIDER
+Starts with D: To cause a liquid to go out of or away from something.
+DRAIN
+Starts with E: To increase in size, number, or importance.
+EXPAND
+Starts with F: To stop something from happening or someone from doing something.
+FORBID
+Starts with G: To make someone feel sad or worried.
+GRIEVE
+Starts with H: To control or influence someone or something.
+HANDLE
+Starts with I: To include something as part of something else.
+INCLUDE
+Starts with J: To move your body suddenly because you are surprised or afraid.
+JUMP
+Starts with K: To end the life of someone or something.
+KILL
+Starts with L: To give someone a chance or permission to do something.
+LET
+Starts with M: To travel or move from one place to another.
+MOVE
+Starts with N: To refuse to accept or agree to something.
+NEGLECT
+Starts with O: To do something in return for something done for you.
+OFFER
+Starts with P: To act against something, especially by fighting.
+PROTEST
+Starts with Q: To ask someone questions in order to get information.
+QUESTION
+Starts with R: To make someone remember something.
+REMIND
+Starts with S: To use sharp tools to remove material from a surface.
+SCRAPE
+Starts with T: To try to persuade someone to do something by offering something pleasant.
+TEMPT
+Starts with U: To make use of something.
+UTILIZE
+Starts with V: To see someone for a short time socially or as a guest.
+VISIT
+Starts with W: To spend time doing something without a useful result.
+WASTE
+Starts with Y: To produce long, deep sounds as a sign of tiredness or boredom.
+YAWN
+Starts with Z: To move quickly with a loud buzzing sound.
+ZIP
+Starts with A: To adjust to new conditions or situations.
+ADAPT
+Starts with B: To take or carry someone or something to a person or place.
+BRING
+Starts with C: To make something by combining materials or parts.
+CREATE
+Starts with D: To make someone believe something that is not true.
+DECEIVE
+Starts with E: To leave a place, especially because it is dangerous.
+ESCAPE
+Starts with F: To supply something that is needed or wanted.
+FURNISH
+Starts with G: To produce or cause something to appear or happen.
+GENERATE
+Starts with H: To stop something from happening or progressing.
+HALT
+Starts with I: To communicate or work together with someone.
+INTERACT
+Starts with J: To make a journey, especially for pleasure.
+JOURNEY
+Starts with K: To press something, often using force, to turn it off.
+KNOCK
+Starts with L: To move smoothly along a surface while maintaining continuous contact.
+GLIDE
+Starts with M: To change or improve something to make it more suitable.
+MODIFY
+Starts with N: To nourish or care for someone or something.
+NURTURE
+Starts with O: To be better than something or someone.
+OUTPERFORM
+Starts with P: To put something down gently or carefully.
+PLACE
+Starts with Q: To express doubt or uncertainty about something.
+QUERY
+Starts with R: To go back to a place or condition.
+RETURN
+Starts with S: To provide someone with something they need or want.
+SUPPLY
+Starts with T: To change the shape or position of something slightly.
+TWEAK
+Starts with U: To free someone from a situation or condition that limits them.
+UNLEASH
+Starts with V: To look at someone or something closely.
+VIEW
+Starts with W: To be the reason for someone or something to be unsuccessful.
+WITHDRAW
+Starts with Y: To allow someone to go past you in a vehicle or on foot.
+YIELD
+Starts with A: To formally agree to or accept something.
+APPROVE
