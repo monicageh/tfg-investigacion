@@ -1,0 +1,2498 @@
+[
+  {
+    "id": "1",
+    "pregunta": "Dinero guardado para un uso futuro",
+    "respuesta_correcta": [
+      "AHORRO",
+      "AHORROS"
+    ],
+    "respuesta_concursante": "Ahorro",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "2",
+    "pregunta": "Recibimiento cortés que se hace a alguien",
+    "respuesta_correcta": [
+      "BIENVENIDA"
+    ],
+    "respuesta_concursante": "Bienvenida",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "3",
+    "pregunta": "Funcionario que revisa obras y publicaciones y propone, si es necesario, que se modifiquen o se prohíban",
+    "respuesta_correcta": [
+      "CENSOR",
+      "CENSORA"
+    ],
+    "respuesta_concursante": "Censor",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "4",
+    "pregunta": "Presentarse una compañía teatral o un artista por primera vez ante el público",
+    "respuesta_correcta": [
+      "DEBUTAR"
+    ],
+    "respuesta_concursante": "Debutar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "5",
+    "pregunta": "Guiso consistente en un alimento condimentado en crudo que se cuece a fuego lento en un recipiente bien tapado",
+    "respuesta_correcta": [
+      "ESTOFADO"
+    ],
+    "respuesta_concursante": "Estofado",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "6",
+    "pregunta": "Nombre del grupo de música que publicó el álbum 'Fight with Tools'",
+    "respuesta_correcta": [
+      "FLOBOTS"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "7",
+    "pregunta": "Bebida refrescante, efervescente y sin alcohol",
+    "respuesta_correcta": [
+      "GASEOSA"
+    ],
+    "respuesta_concursante": "Gaseosa",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "8",
+    "pregunta": "Se dice de la costumbre o de la cualidad que pasa de padres a hijos",
+    "respuesta_correcta": [
+      "HEREDITARIO",
+      "HEREDITARIA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "9",
+    "pregunta": "Desventaja en lo que concierne al rango o fuerza",
+    "respuesta_correcta": [
+      "INFERIORIDAD"
+    ],
+    "respuesta_concursante": "Inferioridad",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "10",
+    "pregunta": "En tenis y otros deportes, cada una de las partes en que se divide un set",
+    "respuesta_correcta": [
+      "JUEGO"
+    ],
+    "respuesta_concursante": "Juego",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "11",
+    "pregunta": "Árbol de Chile, de madera dura, pesada y resistente, que da un fruto llamado 'caucháu'",
+    "respuesta_correcta": [
+      "LUMA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "12",
+    "pregunta": "Cadáver que, de manera natural o artificial, se deseca con el paso del tiempo sin entrar en putrefacción",
+    "respuesta_correcta": [
+      "MOMIA"
+    ],
+    "respuesta_concursante": "Momia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "13",
+    "pregunta": "Natural del país africano con capital en Windhoek",
+    "respuesta_correcta": [
+      "NAMIBIO,NAMIBIANO,NAMIBIA,NAMIBIANA"
+    ],
+    "respuesta_concursante": "Namibio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "14",
+    "pregunta": "Grupo de reses, particularmente lanares, que se crían juntas",
+    "respuesta_correcta": [
+      "REBAÑO"
+    ],
+    "respuesta_concursante": "Rebaño",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "15",
+    "pregunta": "Parte de la metafísica que trata del ser en general",
+    "respuesta_correcta": [
+      "ONTOLOGIA"
+    ],
+    "respuesta_concursante": "Ontologia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "16",
+    "pregunta": "Perteneciente o relativo a la pirotecnia",
+    "respuesta_correcta": [
+      "PIROTECNICO",
+      "PIROTECNICA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "17",
+    "pregunta": "Red en forma de saco con un aro de madera, que se emplea para pescar camarones",
+    "respuesta_correcta": [
+      "ESQUILERO"
+    ],
+    "respuesta_concursante": "Esquilero",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "18",
+    "pregunta": "Encierro o prisión voluntaria o forzada",
+    "respuesta_correcta": [
+      "RECLUSION"
+    ],
+    "respuesta_concursante": "Reclusion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "19",
+    "pregunta": "Aparato que sirve para medir la cantidad de lluvia que cae en un lugar y tiempo dados",
+    "respuesta_correcta": [
+      "UDOMETRO"
+    ],
+    "respuesta_concursante": "Udometro",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "20",
+    "pregunta": "Apellido de la escultura autora de 'Las tahitianas', obra ubicada en el parque Bicentenario de Quito",
+    "respuesta_correcta": [
+      "VASCONEZ"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "21",
+    "pregunta": "Elemento químico metálico, de símbolo ZN",
+    "respuesta_correcta": [
+      "ZINC"
+    ],
+    "respuesta_concursante": "Zinc",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "22",
+    "pregunta": "Cuerno de algunos animales, como el toro o el ciervo",
+    "respuesta_correcta": [
+      "ASTA"
+    ],
+    "respuesta_concursante": "Asta",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "23",
+    "pregunta": "Perteneciente o relativo a la guerra",
+    "respuesta_correcta": [
+      "BELICO,BELICA"
+    ],
+    "respuesta_concursante": "Belico",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "24",
+    "pregunta": "Total privación del sentido de la vista",
+    "respuesta_correcta": [
+      "CEGUERA",
+      "CEGUEDAD"
+    ],
+    "respuesta_concursante": "Ceguera",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "25",
+    "pregunta": "Comercialización y reparto de un producto desde su salida de producción hasta que llega al vendedor",
+    "respuesta_correcta": [
+      "DISTRIBUCION"
+    ],
+    "respuesta_concursante": "Distribucion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "26",
+    "pregunta": "Superficie brillante que refleja las imágenes",
+    "respuesta_correcta": [
+      "ESPEJO"
+    ],
+    "respuesta_concursante": "Espejo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "27",
+    "pregunta": "Microorganismo que puede causar o propagar enfermedades",
+    "respuesta_correcta": [
+      "GERMEN"
+    ],
+    "respuesta_concursante": "Germen",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "28",
+    "pregunta": "Conjunto de bienes que se reciben tras el fallecimiento de su poseedor, por disposición testamentaria o legal",
+    "respuesta_correcta": [
+      "HERENCIA",
+      "HEREDAD"
+    ],
+    "respuesta_concursante": "Herencia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "29",
+    "pregunta": "Irritable, propenso a la ira",
+    "respuesta_correcta": [
+      "IRASCIBLE",
+      "IRACUNDO",
+      "IRACUNDA"
+    ],
+    "respuesta_concursante": "Irascible",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "30",
+    "pregunta": "En la Edad Media, persona que iba de lugar en lugar y recitaba, cantaba o bailaba ante el pueblo o ante reyes",
+    "respuesta_correcta": [
+      "JUGLAR"
+    ],
+    "respuesta_concursante": "Juglar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "31",
+    "pregunta": "Apellido del pintor autor de la obra Retrato del arzobispo Juan de Sanclemente y Torquemada, de 1769",
+    "respuesta_correcta": [
+      "LANDEIRA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "32",
+    "pregunta": "Ensalada de frutas",
+    "respuesta_correcta": [
+      "MACEDONIA"
+    ],
+    "respuesta_concursante": "Macedonia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "33",
+    "pregunta": "Natural de la comunidad autónoma con capital en Pamplona",
+    "respuesta_correcta": [
+      "NAVARRO",
+      "NAVARRA"
+    ],
+    "respuesta_concursante": "Navarro",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "34",
+    "pregunta": "Construcción rústica pequeña, de materiales pobres, destinada a refugio o vivienda",
+    "respuesta_correcta": [
+      "CABAÑA"
+    ],
+    "respuesta_concursante": "Cabaña",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "35",
+    "pregunta": "Estofado de carne de vacuno, cortada del jarrete, con el hueso y su caña incluidos",
+    "respuesta_correcta": [
+      "OSOBUCO",
+      "OSSOBUCO"
+    ],
+    "respuesta_concursante": "Osobuco",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "36",
+    "pregunta": "Cartel o edicto que se fijaba en las esquinas para conocimiento de la gente",
+    "respuesta_correcta": [
+      "PLACARTE"
+    ],
+    "respuesta_concursante": "Placarte",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "37",
+    "pregunta": "Adjetivo superlativo de antiguo",
+    "respuesta_correcta": [
+      "ANTIQUISIMO",
+      "ANTIQUISIMA"
+    ],
+    "respuesta_concursante": "Pasaoalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "38",
+    "pregunta": "Actitud de la persona que guarda las consideraciones debidas a las personas o las cosas",
+    "respuesta_correcta": [
+      "RESPETO"
+    ],
+    "respuesta_concursante": "Respeto",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "39",
+    "pregunta": "Título de la película de 1969, dirigida por Pierre Grimblat y protagonizada por Serge Gainsbourg y Jane Birkin",
+    "respuesta_correcta": [
+      "SLOGAN"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "40",
+    "pregunta": "Mechón de pelo que se lleva levantado sobre la frente",
+    "respuesta_correcta": [
+      "TUPE"
+    ],
+    "respuesta_concursante": "Tupe",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "41",
+    "pregunta": "Se dice del hijo que carece de hermanos",
+    "respuesta_correcta": [
+      "UNICO",
+      "UNICA",
+      "UNIGENITO",
+      "UNIGENITA"
+    ],
+    "respuesta_concursante": "Unico",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "42",
+    "pregunta": "Traspasar a alguien por el precio convenido la propiedad de lo que se posee",
+    "respuesta_correcta": [
+      "VENDER"
+    ],
+    "respuesta_concursante": "Vender",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "43",
+    "pregunta": "Práctica prolongada que proporciona conocimiento o habilidad para hacer algo",
+    "respuesta_correcta": [
+      "EXPERIENCIA"
+    ],
+    "respuesta_concursante": "Experiencia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "44",
+    "pregunta": "Escolta o guardia que se destina para llevar con seguridad y resguardo algo por mar o por tierra",
+    "respuesta_correcta": [
+      "CONVOY"
+    ],
+    "respuesta_concursante": "Convoy",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "45",
+    "pregunta": "Ignorante, torpe y muy tardo en aprender",
+    "respuesta_correcta": [
+      "ZOTE",
+      "ZOQUETE",
+      "ZOPENCO",
+      "ZOPENCA"
+    ],
+    "respuesta_concursante": "Zote",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "46",
+    "pregunta": "Cuero pequeño destinado especialmente a contener vino",
+    "respuesta_correcta": [
+      "BOTA"
+    ],
+    "respuesta_concursante": "Bota",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "47",
+    "pregunta": "Cuero pequeño destinado especialmente a contener vino",
+    "respuesta_correcta": [
+      "CAPSULA"
+    ],
+    "respuesta_concursante": "Capsula",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "48",
+    "pregunta": "Monumento prehistórico formado por una piedra horizontal sostenida por otras verticales",
+    "respuesta_correcta": [
+      "DOLMEN"
+    ],
+    "respuesta_concursante": "Dolmen",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "49",
+    "pregunta": "Operación de guerra que consiste en ocultar una tropa en un lugar para atacar a otra por sorpresa",
+    "respuesta_correcta": [
+      "EMBOSCADA",
+      "EMBOSCADURA"
+    ],
+    "respuesta_concursante": "Emboscada",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "50",
+    "pregunta": "Entre los romanos, sacerdote que declaraba la guerra y concertaba la paz",
+    "respuesta_correcta": [
+      "FECIAL"
+    ],
+    "respuesta_concursante": "Flamen",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "51",
+    "pregunta": "En un teatro, estadio, plaza de toros o edificación semejante, escalón corrido que sirve de asiento",
+    "respuesta_correcta": [
+      "GRADA"
+    ],
+    "respuesta_concursante": "Grada",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "52",
+    "pregunta": "Anchura sobrada",
+    "respuesta_correcta": [
+      "HOLGURA"
+    ],
+    "respuesta_concursante": "Holgura",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "53",
+    "pregunta": "Acción y efecto de cubrir el agua un lugar determinado o un territorio",
+    "respuesta_correcta": [
+      "INUNDACION"
+    ],
+    "respuesta_concursante": "Inundacion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "54",
+    "pregunta": "Mármol veteado",
+    "respuesta_correcta": [
+      "JASPE"
+    ],
+    "respuesta_concursante": "Jaspe",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "55",
+    "pregunta": "Escrito con alguna indicación colocado en cualquier sitio; como el de los nombres de calles o de tiendas",
+    "respuesta_correcta": [
+      "LETRERO"
+    ],
+    "respuesta_concursante": "Letrero",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "56",
+    "pregunta": "Nombre de la estrella que forma parte del cinturón de Orión, junto a las estrellas Alnitak y Alnilam",
+    "respuesta_correcta": [
+      "MINTAKA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "57",
+    "pregunta": "Palabra o expresión recién introducida en una lengua",
+    "respuesta_correcta": [
+      "NEOLOGISMO"
+    ],
+    "respuesta_concursante": "Neologismo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "58",
+    "pregunta": "Paso estrecho o garganta profunda entre dos montañas, por donde suelen correr los ríos",
+    "respuesta_correcta": [
+      "CAÑON"
+    ],
+    "respuesta_concursante": "Cañon",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "59",
+    "pregunta": "Aguardiente que se elabora a partir de la destilación del hollejo de la uva",
+    "respuesta_correcta": [
+      "ORUJO"
+    ],
+    "respuesta_concursante": "Orujo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "60",
+    "pregunta": "Isótopo natural del hidrógeno, de número másico 1",
+    "respuesta_correcta": [
+      "PROTIO"
+    ],
+    "respuesta_concursante": "Protio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "61",
+    "pregunta": "Utensilio puntiagudo que se clava en la tierra y sirve para enganchar los vientos de la tienda de campaña",
+    "respuesta_correcta": [
+      "PIQUETA"
+    ],
+    "respuesta_concursante": "Piqueta",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "62",
+    "pregunta": "Acción característica de la persona extravagante",
+    "respuesta_correcta": [
+      "RAREZA"
+    ],
+    "respuesta_concursante": "Rareza",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "63",
+    "pregunta": "Que tiene sed",
+    "respuesta_correcta": [
+      "SEDIENTO",
+      "SEDIENTA",
+      "SECO",
+      "SECA",
+      "SEDIENTE"
+    ],
+    "respuesta_concursante": "Sediento",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "64",
+    "pregunta": "Apellido del arquitecto que diseñó la estación de ferrocarril de la ciudad neozelandesa de Dunedin",
+    "respuesta_correcta": [
+      "TROUP"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "65",
+    "pregunta": "Se dice del mamífero que tiene las extremidades terminadas en casco o pezuña, como el caballo o el toro",
+    "respuesta_correcta": [
+      "UNGULADO",
+      "UNGULADA"
+    ],
+    "respuesta_concursante": "Ungulado",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "66",
+    "pregunta": "Cubrir o adornar el cuerpo con ropa",
+    "respuesta_correcta": [
+      "VESTIR",
+      "VESTIRSE"
+    ],
+    "respuesta_concursante": "Vestir",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "67",
+    "pregunta": "Natural de la comunidad autónoma con capital en Mérida",
+    "respuesta_correcta": [
+      "EXTREMEÑO",
+      "EXTREMEÑA"
+    ],
+    "respuesta_concursante": "Extremeño",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "68",
+    "pregunta": "Voz inglesa que designa la tecla de un aparato que se pulsa para iniciar la reproducción de un vídeo",
+    "respuesta_correcta": [
+      "PLAY"
+    ],
+    "respuesta_concursante": "Play",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "69",
+    "pregunta": "Emperatriz de Rusia",
+    "respuesta_correcta": [
+      "ZARINA"
+    ],
+    "respuesta_concursante": "Zarina",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "70",
+    "pregunta": "Voz inglesa que designa la crema que se utiliza para hidratar la piel después de tomar el sol",
+    "respuesta_correcta": [
+      "AFTERSUN"
+    ],
+    "respuesta_concursante": "Aftersun",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "71",
+    "pregunta": "Mover el cuerpo y los miembros con ritmo, siguiendo el compás de una música",
+    "respuesta_correcta": [
+      "BAILAR"
+    ],
+    "respuesta_concursante": "Bailar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "72",
+    "pregunta": "Área o superficie plana contenida dentro de una circunferencia",
+    "respuesta_correcta": [
+      "CIRCULO"
+    ],
+    "respuesta_concursante": "Circulo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "73",
+    "pregunta": "Capa inferior y más gruesa de la piel",
+    "respuesta_correcta": [
+      "DERMIS"
+    ],
+    "respuesta_concursante": "Dermis",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "74",
+    "pregunta": "Persona que desempeña un trabajo a cambio de un sueldo",
+    "respuesta_correcta": [
+      "EMPLEADO",
+      "EMPLEADA"
+    ],
+    "respuesta_concursante": "Empleado",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "75",
+    "pregunta": "En química, introducir ácido fosfórico en una molécula",
+    "respuesta_correcta": [
+      "FOSFORILAR"
+    ],
+    "respuesta_concursante": "Fosforilar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "76",
+    "pregunta": "Parte de la lingüística que estudia los elementos de una lengua, así como la forma en que estos se combinan",
+    "respuesta_correcta": [
+      "GRAMATICA"
+    ],
+    "respuesta_concursante": "Gramatica",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "77",
+    "pregunta": "Cosa encontrada",
+    "respuesta_correcta": [
+      "HALLAZGO",
+      "HALLADA"
+    ],
+    "respuesta_concursante": "Hallada",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "78",
+    "pregunta": "Alteración patológica en una parte del organismo que produce calor, enrojecimiento, hinchazón y dolor",
+    "respuesta_correcta": [
+      "INFLAMACION"
+    ],
+    "respuesta_concursante": "Inflamacion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "79",
+    "pregunta": "Tercera persona del plural del pretérito perfecto simple de indicativo del verbo jugar",
+    "respuesta_correcta": [
+      "JUGARON",
+      "JUGARON"
+    ],
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "80",
+    "pregunta": "Parte inclinada de un monte o de otra altura del terreno",
+    "respuesta_correcta": [
+      "LADERA"
+    ],
+    "respuesta_concursante": "Ladera",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "81",
+    "pregunta": "Árbol de la India, también llamado “belérico”, cuyos frutos se usan en medicina y tintorería",
+    "respuesta_correcta": [
+      "MIROBALANO",
+      "MIROBALANOS",
+      "MIROBOLANO",
+      "MIRABOLANOS"
+    ],
+    "respuesta_concursante": "Mudar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "82",
+    "pregunta": "Sustancia blanca y dura, que reviste el interior de algunas conchas de moluscos, como la madreperla",
+    "respuesta_correcta": [
+      "NACAR",
+      "NACARA",
+      "NACRE"
+    ],
+    "respuesta_concursante": "Nacar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "83",
+    "pregunta": "Prenda, generalmente de una pieza, usada para bañarse en playas o piscinas",
+    "respuesta_correcta": [
+      "BAÑADOR"
+    ],
+    "respuesta_concursante": "Bañador",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "84",
+    "pregunta": "Situación de la persona que disfruta de su tiempo libre",
+    "respuesta_correcta": [
+      "OCIO",
+      "OCIOSIDAD"
+    ],
+    "respuesta_concursante": "Ocio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "85",
+    "pregunta": "Apellido del político secretario general de la Asociación de Naciones del Sudeste Asiático de 2008 a 2012",
+    "respuesta_correcta": [
+      "PITSUWAN"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "86",
+    "pregunta": "Entrada estrecha de un lugar",
+    "respuesta_correcta": [
+      "BOQUETE",
+      "RESQUICIO"
+    ],
+    "respuesta_concursante": "Boquete",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "87",
+    "pregunta": "En una comida, volver a servirse de un plato que ya se ha tomado",
+    "respuesta_correcta": [
+      "REPETIR"
+    ],
+    "respuesta_concursante": "Repetir",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "88",
+    "pregunta": "Que es muy nombrado, conocido o famoso",
+    "respuesta_correcta": [
+      "SONADO",
+      "SONADA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "89",
+    "pregunta": "Habilidad o aptitud para una cosa determinada",
+    "respuesta_correcta": [
+      "TALENTO",
+      "TECNICA"
+    ],
+    "respuesta_concursante": "Tecnica",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "90",
+    "pregunta": "Polígono de once lados",
+    "respuesta_correcta": [
+      "UNDECAGONO",
+      "UNDECAGONO"
+    ],
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "91",
+    "pregunta": "Serpiente venenosa de cabeza triangular y aplastada, y dos dientes huecos en la mandíbula superior",
+    "respuesta_correcta": [
+      "VIBORA"
+    ],
+    "respuesta_concursante": "Vibora",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "92",
+    "pregunta": "Suspensión o dificultad en la respiración",
+    "respuesta_correcta": [
+      "ASFIXIA",
+      "ASFIXIA"
+    ],
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "93",
+    "pregunta": "Río de Paraguay que desemboca en el río Paraná en la localidad de Ciudad del Este, en la frontera con Brasil",
+    "respuesta_correcta": [
+      "ACARAY",
+      "ACARAYA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "94",
+    "pregunta": "Soldado de un cuerpo destinado a los trabajos de excavación",
+    "respuesta_correcta": [
+      "ZAPADOR",
+      "ZAPADORA"
+    ],
+    "respuesta_concursante": "Zapado",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "95",
+    "pregunta": "Escrito que se publica en un periódico o revista y en el que se reflexiona sobre un tema determinado",
+    "respuesta_correcta": [
+      "ARTICULO"
+    ],
+    "respuesta_concursante": "Articulo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "96",
+    "pregunta": "Hidrocarburo gaseoso derivado del petróleo que, envasado a presión, tiene usos domésticos como combustible",
+    "respuesta_correcta": [
+      "BUTANO"
+    ],
+    "respuesta_concursante": "Butano",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "97",
+    "pregunta": "Grito vehemente de una multitud",
+    "respuesta_correcta": [
+      "CLAMOR"
+    ],
+    "respuesta_concursante": "Clamor",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "98",
+    "pregunta": "Dádiva o regalo, especialmente con fines benéficos o humanitarios",
+    "respuesta_correcta": [
+      "DONATIVO",
+      "DONACION"
+    ],
+    "respuesta_concursante": "Donativo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "99",
+    "pregunta": "Causar escándalo",
+    "respuesta_correcta": [
+      "ESCANDALIZAR"
+    ],
+    "respuesta_concursante": "Escandalizar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "100",
+    "pregunta": "Mercado de mayor importancia que el común, en paraje público y días señalados",
+    "respuesta_correcta": [
+      "FERIA"
+    ],
+    "respuesta_concursante": "Feria",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "101",
+    "pregunta": "Ciudad de Venezuela que es capital del estado de Portuguesa",
+    "respuesta_correcta": [
+      "GUANARE"
+    ],
+    "respuesta_concursante": "Guanacaste",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "102",
+    "pregunta": "Entorno geográfico adecuado para la vida de una especie animal o vegetal",
+    "respuesta_correcta": [
+      "HABITAT",
+      "HABITACION"
+    ],
+    "respuesta_concursante": "Habitat",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "103",
+    "pregunta": "Estación en que los viajeros pueden cambiar de un medio de transporte a otro",
+    "respuesta_correcta": [
+      "INTERCAMBIADOR"
+    ],
+    "respuesta_concursante": "Intercambiador",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "104",
+    "pregunta": "Persona dedicada al estudio, interpretación y aplicación del derecho",
+    "respuesta_correcta": [
+      "JURISCONSULTO",
+      "JURISCONSULTA",
+      "JURISTA"
+    ],
+    "respuesta_concursante": "Jurista",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "105",
+    "pregunta": "Apellido del guitarrista que publicó el álbum 'Bound by the Blues'",
+    "respuesta_correcta": [
+      "LANDRETH"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "106",
+    "pregunta": "Munición menuda con que se cargan los proyectiles de explosión",
+    "respuesta_correcta": [
+      "METRALLA"
+    ],
+    "respuesta_concursante": "Metralla",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "107",
+    "pregunta": "Procedimiento de asociación mental para facilitar el recuerdo de algo",
+    "respuesta_correcta": [
+      "NEMOTECNIA"
+    ],
+    "respuesta_concursante": "Nemotecnia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "108",
+    "pregunta": "Mamífero rumiante salvaje, parecido a la llama, de pelaje largo y muy fino, que vive en manadas en los Andes",
+    "respuesta_correcta": [
+      "VICUÑA"
+    ],
+    "respuesta_concursante": "Vicuña",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "109",
+    "pregunta": "Grano que se forma en el borde de un párpado",
+    "respuesta_correcta": [
+      "ORZUELO"
+    ],
+    "respuesta_concursante": "Orzuelo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "110",
+    "pregunta": "Se dice de la persona que tiende a ver y juzgar las cosas por el lado más desfavorable",
+    "respuesta_correcta": [
+      "PESIMISTA"
+    ],
+    "respuesta_concursante": "Pesimista",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "111",
+    "pregunta": "Momento del año en que el Sol se halla sobre el ecuador, y el día y la noche tienen la misma duración",
+    "respuesta_correcta": [
+      "EQUINOCCIO"
+    ],
+    "respuesta_concursante": "Equinocio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "112",
+    "pregunta": "Masticar un animal por segunda vez el alimento que ha tragado previamente",
+    "respuesta_correcta": [
+      "REMUGAR",
+      "RUMIAR"
+    ],
+    "respuesta_concursante": "Rumiar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "113",
+    "pregunta": "Magistrado supremo de Cartago y de otras repúblicas fenicias",
+    "respuesta_correcta": [
+      "SUFETE"
+    ],
+    "respuesta_concursante": "Sufete",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "114",
+    "pregunta": "Pantalón vaquero",
+    "respuesta_correcta": [
+      "TEJANO",
+      "TEJANOS"
+    ],
+    "respuesta_concursante": "Tejano",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "115",
+    "pregunta": "Ciudad, especialmente la muy populosa",
+    "respuesta_correcta": [
+      "URBE"
+    ],
+    "respuesta_concursante": "Urbe",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "116",
+    "pregunta": "Cualidad de la persona que es capaz de adaptarse con facilidad y rapidez a diversas funciones",
+    "respuesta_correcta": [
+      "VERSATILIDAD"
+    ],
+    "respuesta_concursante": "Versatilidad",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "117",
+    "pregunta": "Resultado cercano al exacto que se obtiene en una medición o cálculo cuando no se puede precisar absolutamente",
+    "respuesta_correcta": [
+      "APROXIMACION"
+    ],
+    "respuesta_concursante": "Aproximacion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "118",
+    "pregunta": "Coloquialmente, miedo, aprensión",
+    "respuesta_correcta": [
+      "YUYU"
+    ],
+    "respuesta_concursante": "Yuyu",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "119",
+    "pregunta": "Crítico vanidoso que censura maliciosamente las obras ajenas",
+    "respuesta_correcta": [
+      "ZOILO"
+    ],
+    "respuesta_concursante": "Zoilo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "120",
+    "pregunta": "Acción y efecto de dejar solo algo o a alguien alejándose de ello o dejando de cuidarlo",
+    "respuesta_correcta": [
+      "ABANDONO",
+      "ABANDONAMIENTO"
+    ],
+    "respuesta_concursante": "Abandono",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "121",
+    "pregunta": "Palabra o expresión injuriosas contra alguien o algo sagrado",
+    "respuesta_correcta": [
+      "BLASFEMIA"
+    ],
+    "respuesta_concursante": "Blasfemia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "122",
+    "pregunta": "Colocar las piernas montando una sobre la otra cuando se está sentado",
+    "respuesta_correcta": [
+      "CRUZAR"
+    ],
+    "respuesta_concursante": "Cruzar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "123",
+    "pregunta": "Variedad de un idioma que no alcanza la categoría social de lengua",
+    "respuesta_correcta": [
+      "DIALECTO"
+    ],
+    "respuesta_concursante": "Dialecto",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "124",
+    "pregunta": "Apellido del escritor autor de la novela Los últimos días de América",
+    "respuesta_correcta": [
+      "ERDMAN,PAUL"
+    ],
+    "respuesta_concursante": "Llames",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "125",
+    "pregunta": "Fragmento largo y estrecho de una cosa",
+    "respuesta_correcta": [
+      "FRANJAFAJA"
+    ],
+    "respuesta_concursante": "Franja",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "126",
+    "pregunta": "Agente de policía de Francia, destinado a mantener el orden y la seguridad pública",
+    "respuesta_correcta": [
+      "GENDARME"
+    ],
+    "respuesta_concursante": "Gendarme",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "127",
+    "pregunta": "Mezcla de piedras menudas y mortero de cal o cemento y arena, empleada para la construcción",
+    "respuesta_correcta": [
+      "HORMIGON"
+    ],
+    "respuesta_concursante": "Hormigon",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "128",
+    "pregunta": "Celebrar el estreno de una obra, de un edificio o de un monumento",
+    "respuesta_correcta": [
+      "INAUGURAR"
+    ],
+    "respuesta_concursante": "Inaugurar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "129",
+    "pregunta": "Sitio poblado de jaras",
+    "respuesta_correcta": [
+      "JARAL"
+    ],
+    "respuesta_concursante": "Jaral",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "130",
+    "pregunta": "Ciudad de Estados Unidos, situada en el estado de Misuri, en la que nació Harry S. Truman",
+    "respuesta_correcta": [
+      "LAMAR"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "131",
+    "pregunta": "Orden o precepto que el superior da a los súbditos",
+    "respuesta_correcta": [
+      "MANDATO",
+      "MANDO"
+    ],
+    "respuesta_concursante": "Mandato",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "132",
+    "pregunta": "Voz inglesa que designa el sobrenombre empleado por un usuario de Internet para identificarse en un servicio",
+    "respuesta_correcta": [
+      "NICK",
+      "NICKNAME"
+    ],
+    "respuesta_concursante": "Nick",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "133",
+    "pregunta": "Arácnido con cuatro pares de patas y abdomen abultado, que segrega un hilo de seda con el que caza a sus presa",
+    "respuesta_correcta": [
+      "ARAÑA"
+    ],
+    "respuesta_concursante": "Araña",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "134",
+    "pregunta": "Licor anisado de mucha graduación alcohólica, de origen griego",
+    "respuesta_correcta": [
+      "OUZO"
+    ],
+    "respuesta_concursante": "Ouzo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "135",
+    "pregunta": "Conjunto de reglas establecidas por norma o por costumbre para ceremonias y actos oficiales o solemnes",
+    "respuesta_correcta": [
+      "PROTOCOLO"
+    ],
+    "respuesta_concursante": "Protocolo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "136",
+    "pregunta": "Organismo resultante de la simbiosis de hongos con algas unicelulares, que crece en sitios húmedos",
+    "respuesta_correcta": [
+      "LIQUEN"
+    ],
+    "respuesta_concursante": "Liquen",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "137",
+    "pregunta": "Persona que dirige una universidad",
+    "respuesta_correcta": [
+      "RECTOR",
+      "RECTORA"
+    ],
+    "respuesta_concursante": "Rector",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "138",
+    "pregunta": "Instrumento para afilar los lápices",
+    "respuesta_correcta": [
+      "SACAPUNTAS"
+    ],
+    "respuesta_concursante": "Sacapuntas",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "139",
+    "pregunta": "Caña o tutor que se pone a una planta para que no se tuerza",
+    "respuesta_correcta": [
+      "TAMBARA"
+    ],
+    "respuesta_concursante": "Tambara",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "140",
+    "pregunta": "Ámbito más allá de la muerte",
+    "respuesta_correcta": [
+      "ULTRATUMBA"
+    ],
+    "respuesta_concursante": "Ultratumba",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "141",
+    "pregunta": "Perteneciente o relativo a las vitaminas",
+    "respuesta_correcta": [
+      "VITAMINICO",
+      "VITAMINICA"
+    ],
+    "respuesta_concursante": "Vitamínico",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "142",
+    "pregunta": "Hueso propio de los vertebrados que carecen de cola, que está formado por la unión de las última vértebras",
+    "respuesta_correcta": [
+      "COXIS",
+      "COCCIX"
+    ],
+    "respuesta_concursante": "Coxis",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "143",
+    "pregunta": "Nombre del premio anual que la Academia de la Grabación de EEUU otorga a lo mejor de la industria musical",
+    "respuesta_correcta": [
+      "GRAMMY"
+    ],
+    "respuesta_concursante": "Grammy",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "144",
+    "pregunta": "Poner la zancadilla a alguien",
+    "respuesta_correcta": [
+      "ZANCADILLEAR"
+    ],
+    "respuesta_concursante": "Zancadillear",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "145",
+    "pregunta": "Armazón con forma de X que, en los molinos de viento, sostiene las telas en que hace presión el viento",
+    "respuesta_correcta": [
+      "ASPA",
+      "ASPAS"
+    ],
+    "respuesta_concursante": "Aspa",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "146",
+    "pregunta": "Estudio o despacho de un abogado",
+    "respuesta_correcta": [
+      "BUFETE",
+      "BUFET"
+    ],
+    "respuesta_concursante": "Bufete",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "147",
+    "pregunta": "Interrupción en una emisión radiofónica o televisiva para la publicidad",
+    "respuesta_correcta": [
+      "CORTE"
+    ],
+    "respuesta_concursante": "Corte",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "148",
+    "pregunta": "Documento que expide un centro educativo y que acredita un título o un grado académico",
+    "respuesta_correcta": [
+      "DIPLOMA"
+    ],
+    "respuesta_concursante": "Diploma",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "149",
+    "pregunta": "Plato que se toma al principio de una comida",
+    "respuesta_correcta": [
+      "ENTRANTE",
+      "ENTRANTES",
+      "ENTREMES",
+      "ENTREMESES",
+      "ENTRADA"
+    ],
+    "respuesta_concursante": "Entrante",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "150",
+    "pregunta": "Título de la película de 1967, dirigida por Jack Gold, que trata sobre el estado de Bihar",
+    "respuesta_correcta": [
+      "FAMINE"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "151",
+    "pregunta": "Alambre o varilla doblada por un extremo, que se utiliza para abrir cerraduras",
+    "respuesta_correcta": [
+      "GANZUA"
+    ],
+    "respuesta_concursante": "Ganzua",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "152",
+    "pregunta": "Que tiene muchas ganas de comer",
+    "respuesta_correcta": [
+      "HAMBRIENTO",
+      "HAMBRIENTA"
+    ],
+    "respuesta_concursante": "Hambriento",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "153",
+    "pregunta": "Falta de designio anticipado en favor o en contra de alguien, que permite proceder con rectitud",
+    "respuesta_correcta": [
+      "IMPARCIALIDAD"
+    ],
+    "respuesta_concursante": "Imparcialidad",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "154",
+    "pregunta": "Respirar anhelosamente por efecto de algún trabajo o ejercicio impetuoso",
+    "respuesta_correcta": [
+      "JADEAR"
+    ],
+    "respuesta_concursante": "Jadear",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "155",
+    "pregunta": "Finca rústica de gran extensión",
+    "respuesta_correcta": [
+      "LATIFUNDIO"
+    ],
+    "respuesta_concursante": "Latifundio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "156",
+    "pregunta": "Reunión pública en que uno o varios oradores pronuncian discursos de carácter político",
+    "respuesta_correcta": [
+      "MITIN"
+    ],
+    "respuesta_concursante": "Mitin",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "157",
+    "pregunta": "Avellano silvestre",
+    "respuesta_correcta": [
+      "NOCHIZO"
+    ],
+    "respuesta_concursante": "Nochizo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "158",
+    "pregunta": "Coloquialmente, hacer que alguien acepte o cargue con algo, generalmente molesto o perjudicial",
+    "respuesta_correcta": [
+      "ENDIÑAR"
+    ],
+    "respuesta_concursante": "Endiñar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "159",
+    "pregunta": "Materia o asunto de que se ocupa una ciencia o estudio",
+    "respuesta_correcta": [
+      "OBJETO"
+    ],
+    "respuesta_concursante": "Objeto",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "160",
+    "pregunta": "Licor originario de Navarra que se obtiene por maceración de endrinas en anís",
+    "respuesta_correcta": [
+      "PACHARAN"
+    ],
+    "respuesta_concursante": "Pacharan",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "161",
+    "pregunta": "Mechón de pelo que cae sobre la frente",
+    "respuesta_correcta": [
+      "FLEQUILLO"
+    ],
+    "respuesta_concursante": "Flequillo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "162",
+    "pregunta": "Camino establecido o previsto para una expedición o viaje",
+    "respuesta_correcta": [
+      "RUTA",
+      "RECORRIDO",
+      "RUMBO"
+    ],
+    "respuesta_concursante": "Ruta",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "163",
+    "pregunta": "Se dice del monumento clásico adornado con columnatas cuyos espacios entre columnas son de cuatro módulos",
+    "respuesta_correcta": [
+      "SISTILO",
+      "SISTILA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "164",
+    "pregunta": "Río de Asia que, junto al Éufrates, definía los límites de la antigua región de Mesopotamia",
+    "respuesta_correcta": [
+      "TIGRIS"
+    ],
+    "respuesta_concursante": "Tigris",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "165",
+    "pregunta": "Interjección usada para denotar cansancio, fastidio o sofocación",
+    "respuesta_correcta": [
+      "UF"
+    ],
+    "respuesta_concursante": "Uf",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "166",
+    "pregunta": "Vientre de los pescados",
+    "respuesta_correcta": [
+      "VENTRESCA",
+      "VENTRECHA"
+    ],
+    "respuesta_concursante": "Ventresca",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "167",
+    "pregunta": "Adverbio que significa fuera del recinto de una ciudad o población",
+    "respuesta_correcta": [
+      "EXTRAMUROS"
+    ],
+    "respuesta_concursante": "Extramuros",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "168",
+    "pregunta": "Apellido del ingeniero que fundó la Sociedad Agrícola Alemana en 1885",
+    "respuesta_correcta": [
+      "EYTH"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "169",
+    "pregunta": "Ir de un lado para otro perdiendo el tiempo",
+    "respuesta_correcta": [
+      "ZASCANDILEAR",
+      "ZANGANEAR"
+    ],
+    "respuesta_concursante": "Zanganear",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "170",
+    "pregunta": "Ciencia que trata de los astros, de su movimiento y de las leyes que lo rigen",
+    "respuesta_correcta": [
+      "ASTRONOMIA",
+      "ASTROLOGIA"
+    ],
+    "respuesta_concursante": "Astronomia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "171",
+    "pregunta": "Guardia Civil española",
+    "respuesta_correcta": [
+      "BENEMERITA"
+    ],
+    "respuesta_concursante": "Benemerita",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "172",
+    "pregunta": "Cama para bebés, con bordes altos o barandillas laterales, a veces dispuesta para poderla mecer",
+    "respuesta_correcta": [
+      "CUNA"
+    ],
+    "respuesta_concursante": "Cuna",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "173",
+    "pregunta": "Conjunto de descendientes de una persona o animal",
+    "respuesta_correcta": [
+      "DESCENDENCIA"
+    ],
+    "respuesta_concursante": "Descendencia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "174",
+    "pregunta": "Mesa de despacho",
+    "respuesta_correcta": [
+      "ESCRITORIO"
+    ],
+    "respuesta_concursante": "Escritorio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "175",
+    "pregunta": "Término y remate de algo",
+    "respuesta_correcta": [
+      "FINAL",
+      "FIN"
+    ],
+    "respuesta_concursante": "Fin",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "176",
+    "pregunta": "Quiebro que se hace con la voz en la garganta, especialmente al cantar",
+    "respuesta_correcta": [
+      "GORGORITO",
+      "GORGORITA",
+      "GORGORITOS",
+      "GORGORITAS"
+    ],
+    "respuesta_concursante": "Gorgorito",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "177",
+    "pregunta": "Apellido del matemático que, en 1976, resolvió, junto a Kenneth Appel, el teorema de los cuatro colores",
+    "respuesta_correcta": [
+      "HAKEN"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "178",
+    "pregunta": "Vivienda semiesférica, hecha con bloques de hielo, que los esquimales construyen en invierno",
+    "respuesta_correcta": [
+      "IGLU"
+    ],
+    "respuesta_concursante": "Iglu",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "179",
+    "pregunta": "Persona que por oficio cuida y cultiva un jardín",
+    "respuesta_correcta": [
+      "JARDINERO",
+      "JARDINERA"
+    ],
+    "respuesta_concursante": "Jardinero",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "180",
+    "pregunta": "Símbolo gráfico que sirve de emblema de una empresa o entidad, de una marca o de un producto",
+    "respuesta_correcta": [
+      "LOGOTIPO",
+      "LOGO"
+    ],
+    "respuesta_concursante": "Logotipo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "181",
+    "pregunta": "Se dice del territorio o del Estado que antiguamente rendía vasallaje a otro",
+    "respuesta_correcta": [
+      "MOVIENTE"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "182",
+    "pregunta": "Información sobre algo que se considera interesante divulgar",
+    "respuesta_correcta": [
+      "NOTICIA",
+      "NOVEDAD",
+      "NUEVA"
+    ],
+    "respuesta_concursante": "Noticia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "183",
+    "pregunta": "Parque nacional de España, situado en los montes de Toledo, en la comunidad autónoma de Castilla-La Mancha",
+    "respuesta_correcta": [
+      "CABAÑEROS"
+    ],
+    "respuesta_concursante": "Cabañeros",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "184",
+    "pregunta": "Parte delantera de un proyectil",
+    "respuesta_correcta": [
+      "OJIVA"
+    ],
+    "respuesta_concursante": "Ojiva",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "185",
+    "pregunta": "Pie de un mueble",
+    "respuesta_correcta": [
+      "PATA"
+    ],
+    "respuesta_concursante": "Pata",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "186",
+    "pregunta": "Individuo de una doctrina religiosa fundada en el siglo 17 por George Fox, conocida como Sociedad de los Amigo",
+    "respuesta_correcta": [
+      "CUAQUERO",
+      "CUAQUERA"
+    ],
+    "respuesta_concursante": "Cuaquero",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "187",
+    "pregunta": "Pieza de carne de res, que se corta de forma casi cilíndrica, de la parte inmediata a la contratapa",
+    "respuesta_correcta": [
+      "REDONDO"
+    ],
+    "respuesta_concursante": "Redondo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "188",
+    "pregunta": "En tenis y otros deportes semejantes, saque",
+    "respuesta_correcta": [
+      "SERVICIO"
+    ],
+    "respuesta_concursante": "Servicio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "189",
+    "pregunta": "Cuerpo geométrico limitado por cuatro caras que son triángulos",
+    "respuesta_correcta": [
+      "TETRAEDRO"
+    ],
+    "respuesta_concursante": "Tetraedro",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "190",
+    "pregunta": "Que está más allá o de la otra parte de los montes",
+    "respuesta_correcta": [
+      "ULTRAMONTANO",
+      "ULTRAMONTANA"
+    ],
+    "respuesta_concursante": "Ultramontano",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "191",
+    "pregunta": "Cualidad de la persona que ha desempeñado durante mucho tiempo una profesión o tiene experiencia en una activi",
+    "respuesta_correcta": [
+      "VETERANIA"
+    ],
+    "respuesta_concursante": "Veterania",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "192",
+    "pregunta": "Acción y efecto de doblar el cuerpo o algún miembro",
+    "respuesta_correcta": [
+      "FLEXION"
+    ],
+    "respuesta_concursante": "Flexion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "193",
+    "pregunta": "Título de la obra de teatro de Abel González Melo, de 2019, que trata sobre la poetisa María Luisa Milanés",
+    "respuesta_correcta": [
+      "BAYAMESA"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "194",
+    "pregunta": "Coser la rotura de una tela, juntando los pedazos con puntadas o pasos ordenados",
+    "respuesta_correcta": [
+      "ZURCIR"
+    ],
+    "respuesta_concursante": "Zurcir",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "195",
+    "pregunta": "Gran masa de nieve que se derrumba de los montes con violencia y estrépito",
+    "respuesta_correcta": [
+      "ALUD",
+      "AVALANCHA"
+    ],
+    "respuesta_concursante": "Avalancha",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "196",
+    "pregunta": "Voz inglesa de comida de media mañana que se toma para sustituir al desayuno y la comida de mediodía",
+    "respuesta_correcta": [
+      "BRUNCH"
+    ],
+    "respuesta_concursante": "Brunch",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "197",
+    "pregunta": "Soltería, especialmente la de quien ha hecho voto de castidad",
+    "respuesta_correcta": [
+      "CELIBATO"
+    ],
+    "respuesta_concursante": "Celibato",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "198",
+    "pregunta": "Vencer a un enemigo o a un rival",
+    "respuesta_correcta": [
+      "DERROTAR"
+    ],
+    "respuesta_concursante": "Derrotar si",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "199",
+    "pregunta": "Trozo de árbol o de madera podrido o carcomido",
+    "respuesta_correcta": [
+      "ESCARZO"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "200",
+    "pregunta": "Cantidad de dinero o bien material que se entrega como garantía del cumplimiento de una obligación",
+    "respuesta_correcta": [
+      "FIANZA"
+    ],
+    "respuesta_concursante": "Fianza",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "201",
+    "pregunta": "Ácaro diminuto, de forma ovalada, que se agarra al cuerpo de ciertos mamíferos para chuparles la sangre",
+    "respuesta_correcta": [
+      "GARRAPATA"
+    ],
+    "respuesta_concursante": "Garrapata",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "202",
+    "pregunta": "Preocupación obsesiva por la propia salud, particularmente por contraer enfermedades",
+    "respuesta_correcta": [
+      "HIPOCONDRIA"
+    ],
+    "respuesta_concursante": "Hipocondria",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "203",
+    "pregunta": "País europeo con capital en Dublín",
+    "respuesta_correcta": [
+      "IRLANDA"
+    ],
+    "respuesta_concursante": "Irlanda",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "204",
+    "pregunta": "Sexto mes del año",
+    "respuesta_correcta": [
+      "JUNIO"
+    ],
+    "respuesta_concursante": "Junio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "205",
+    "pregunta": "película de 1934, dirigida por Fritz Lang, que adapta una obra de teatro del mismo título de Ferenc Molnár",
+    "respuesta_correcta": [
+      "LILIOM"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "206",
+    "pregunta": "Parte interior y más blanda del pan, rodeada y cubierta por la corteza",
+    "respuesta_correcta": [
+      "MIGA",
+      "MOLLEDO",
+      "MOLLA"
+    ],
+    "respuesta_concursante": "Miga",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "207",
+    "pregunta": "Lazo que se estrecha y cierra de modo que, con dificultad, se pueda soltar por sí solo",
+    "respuesta_correcta": [
+      "NUDO"
+    ],
+    "respuesta_concursante": "Nudo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "208",
+    "pregunta": "Emitir su voz propia el cerdo",
+    "respuesta_correcta": [
+      "GRUÑIR"
+    ],
+    "respuesta_concursante": "Gruñir",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "209",
+    "pregunta": "correo despachado por los medios y en los plazos habituales, a diferencia del aéreo o del urgente",
+    "respuesta_correcta": [
+      "ORDINARIO",
+      "ORDINARIA"
+    ],
+    "respuesta_concursante": "Ordinario",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "210",
+    "pregunta": "Documento en que oficialmente se le reconoce a alguien una invención y los derechos que de ella se derivan",
+    "respuesta_correcta": [
+      "PATENTE"
+    ],
+    "respuesta_concursante": "Patente",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "211",
+    "pregunta": "Coloquialmente, estadounidense",
+    "respuesta_correcta": [
+      "YANQUI"
+    ],
+    "respuesta_concursante": "Yanqui",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "212",
+    "pregunta": "Apellido del escultor autor de la estatua del Cristo Redentor situada en la localidad argentina de La Cumbre",
+    "respuesta_correcta": [
+      "RAMACCIOTI"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "213",
+    "pregunta": "Que ocupa en una serie el lugar número dos",
+    "respuesta_correcta": [
+      "SEGUNDO",
+      "SEGUNDA"
+    ],
+    "respuesta_concursante": "Segundo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "214",
+    "pregunta": "Tela gruesa colgada de la pared con dibujos de figuras y escenas realizados combinando hilos de colores",
+    "respuesta_correcta": [
+      "TAPIZ"
+    ],
+    "respuesta_concursante": "Tapiz",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "215",
+    "pregunta": "Ciudad, especialmente la muy populosa",
+    "respuesta_correcta": [
+      "URBE"
+    ],
+    "respuesta_concursante": "Urbe",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "216",
+    "pregunta": "Pegajoso, glutinoso",
+    "respuesta_correcta": [
+      "VISCOSO",
+      "VISCOSA"
+    ],
+    "respuesta_concursante": "Viscoso",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "217",
+    "pregunta": "Extender un documento o una orden, o ponerlos por escrito y en la forma adecuada",
+    "respuesta_correcta": [
+      "EXPEDIR"
+    ],
+    "respuesta_concursante": "Expedir",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "218",
+    "pregunta": "Persona sobre la que se realiza algún experimento médico o biológico",
+    "respuesta_correcta": [
+      "COBAYA"
+    ],
+    "respuesta_concursante": "Cobaya",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "219",
+    "pregunta": "Acción y efecto de dividir un terreno en zonas",
+    "respuesta_correcta": [
+      "ZONIFICACION"
+    ],
+    "respuesta_concursante": "Zonificacion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "220",
+    "pregunta": "Aire que se expulsa al respirar",
+    "respuesta_correcta": [
+      "ALIENTO"
+    ],
+    "respuesta_concursante": "Aliento",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "221",
+    "pregunta": "Máquina o artefacto para impulsar agua u otro líquido en una dirección determinada",
+    "respuesta_correcta": [
+      "BOMBA"
+    ],
+    "respuesta_concursante": "Buche",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "222",
+    "pregunta": "Músculo situado en la parte anterior del muslo, que interviene en la extensión de la pierna",
+    "respuesta_correcta": [
+      "CUADRICEPS"
+    ],
+    "respuesta_concursante": "Cuadriceps",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "223",
+    "pregunta": "Cualidad especial o habilidad para hacer algo",
+    "respuesta_correcta": [
+      "DON",
+      "DESTREZA"
+    ],
+    "respuesta_concursante": "Destreza",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "224",
+    "pregunta": "Parte de la filosofía que trata del bien y el mal en los actos humanos",
+    "respuesta_correcta": [
+      "ETICA"
+    ],
+    "respuesta_concursante": "Etica",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "225",
+    "pregunta": "Apellido del clérigo que, en 1836, fundó una pionera escuela de enfermería en Alemania",
+    "respuesta_correcta": [
+      "FLIEDNER"
+    ],
+    "respuesta_concursante": "Pasapalabra",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "226",
+    "pregunta": "Inscripción o dibujo callejero, generalmente anónimo",
+    "respuesta_correcta": [
+      "GRAFITI",
+      "GRAFITO"
+    ],
+    "respuesta_concursante": "Grafiti",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "227",
+    "pregunta": "Tomar o retener bienes ajenos contra la voluntad de su dueño, sin hacer uso de la intimidación ni de la fuerza",
+    "respuesta_correcta": [
+      "HURTAR"
+    ],
+    "respuesta_concursante": "Hurtar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "228",
+    "pregunta": "Inyección que se pone en una zona del cuerpo afectada por una dolencia",
+    "respuesta_correcta": [
+      "INFILTRACION"
+    ],
+    "respuesta_concursante": "Infiltracion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "229",
+    "pregunta": "Tienda donde se venden juguetes",
+    "respuesta_correcta": [
+      "JUGUETERIA"
+    ],
+    "respuesta_concursante": "Jugueteria",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "230",
+    "pregunta": "En algunos tipos de lucha, como el judo, movimiento para inmovilizar o derribar al contrario",
+    "respuesta_correcta": [
+      "LLAVE"
+    ],
+    "respuesta_concursante": "Llave",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "231",
+    "pregunta": "Ganador en un concurso de belleza masculina",
+    "respuesta_correcta": [
+      "MISTER"
+    ],
+    "respuesta_concursante": "Mister",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "232",
+    "pregunta": "Preferencia hacia familiares y amigos a la hora de otorgar un empleo o cargo públicos",
+    "respuesta_correcta": [
+      "NEPOTISMO"
+    ],
+    "respuesta_concursante": "Nepotismo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "233",
+    "pregunta": "Se dice de la persona que ríe con facilidad o tiene carácter alegre",
+    "respuesta_correcta": [
+      "RISUEÑO",
+      "RISUEÑA"
+    ],
+    "respuesta_concursante": "Risueña",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "234",
+    "pregunta": "Instrumento para explorar el oído",
+    "respuesta_correcta": [
+      "OTOSCOPIO"
+    ],
+    "respuesta_concursante": "Otoscopio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "235",
+    "pregunta": "Faja o tira de esparto, pita o palma, que cosida con otras sirve para hacer objetos, como sombreros y capazos",
+    "respuesta_correcta": [
+      "PLEITA"
+    ],
+    "respuesta_concursante": "Pleita",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "236",
+    "pregunta": "Persona que va sentada detrás del conductor en una motocicleta",
+    "respuesta_correcta": [
+      "PAQUETE"
+    ],
+    "respuesta_concursante": "Paquete",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "237",
+    "pregunta": "Sustancia que se emplea para eliminar ratas y ratones",
+    "respuesta_correcta": [
+      "RATICIDA"
+    ],
+    "respuesta_concursante": "Raticida",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "238",
+    "pregunta": "Nombre de la rama del jainismo, una de las dos principales de esta religión y cuyos monjes visten de blanco",
+    "respuesta_correcta": [
+      "SVETAMBARA"
+    ],
+    "respuesta_concursante": "Sufismo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "239",
+    "pregunta": "Provincia española a la que pertenecen los municipios de Alcañiz y Alba",
+    "respuesta_correcta": [
+      "TERUEL"
+    ],
+    "respuesta_concursante": "Teruel",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "240",
+    "pregunta": "Conjunto de conocimientos relacionados con la planificación y desarrollo de las ciudades",
+    "respuesta_correcta": [
+      "URBANISMO"
+    ],
+    "respuesta_concursante": "Urbanismo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "241",
+    "pregunta": "Bebida alcohólica que se hace del zumo de las uvas exprimido y fermentado naturalmente",
+    "respuesta_correcta": [
+      "VINO"
+    ],
+    "respuesta_concursante": "Vino",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "242",
+    "pregunta": "Manifestación de los afectos y de las emociones por medio de la gesticulación",
+    "respuesta_correcta": [
+      "EXPRESION"
+    ],
+    "respuesta_concursante": "Expresividad",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "243",
+    "pregunta": "En este día, en el día presente",
+    "respuesta_correcta": [
+      "HOY"
+    ],
+    "respuesta_concursante": "Hoy",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "244",
+    "pregunta": "Mueble destinado a guardar el calzado",
+    "respuesta_correcta": [
+      "ZAPATERO"
+    ],
+    "respuesta_concursante": "Zapatero",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "245",
+    "pregunta": "Elemento químico metálico, de color similar al de la plata y símbolo AL",
+    "respuesta_correcta": [
+      "ALUMINIO"
+    ],
+    "respuesta_concursante": "Aluminio",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "246",
+    "pregunta": "Amontonamiento de toda clase de cosas, que se hace para resguardarse tras él en una lucha",
+    "respuesta_correcta": [
+      "BARRICADA"
+    ],
+    "respuesta_concursante": "Barricada",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "247",
+    "pregunta": "Coloquialmente, sueño corto y ligero",
+    "respuesta_correcta": [
+      "CABEZADA"
+    ],
+    "respuesta_concursante": "Cabezada",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "248",
+    "pregunta": "Modalidad de esquí alpino con una bajada en velocidad por un recorrido que pasa por una serie de puertas",
+    "respuesta_correcta": [
+      "DESCENSO"
+    ],
+    "respuesta_concursante": "Descenso",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "249",
+    "pregunta": "Pez marino de gran tamaño, que remonta los ríos para desovar y con cuyas huevas se prepara el caviar",
+    "respuesta_correcta": [
+      "ESTURION"
+    ],
+    "respuesta_concursante": "Esturion",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "250",
+    "pregunta": "Apellido del arquitecto que diseñó la Villa Wenhold, en la ciudad alemana de Bremen",
+    "respuesta_correcta": [
+      "FAHRENKAMP"
+    ],
+    "respuesta_concursante": "Fahrenkamp",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "251",
+    "pregunta": "Hombre que remaba forzado en las galeras",
+    "respuesta_correcta": [
+      "GALEOTE"
+    ],
+    "respuesta_concursante": "Galeote",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "252",
+    "pregunta": "Ancho y sobrado para lo que ha de contener",
+    "respuesta_correcta": [
+      "HOLGADO",
+      "HOLGADA"
+    ],
+    "respuesta_concursante": "Holgado",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "253",
+    "pregunta": "Falta de cuidado y diligencia en llegar a un lugar o partir de él a la hora convenida",
+    "respuesta_correcta": [
+      "IMPUNTUALIDAD"
+    ],
+    "respuesta_concursante": "Impuntualidad",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "254",
+    "pregunta": "Vaso, por lo general de porcelana, artísticamente labrado, para adornar consolas y chimeneas",
+    "respuesta_correcta": [
+      "JARRON"
+    ],
+    "respuesta_concursante": "Jarron",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "255",
+    "pregunta": "Lindar dos territorios o dos terrenos",
+    "respuesta_correcta": [
+      "LIMITAR"
+    ],
+    "respuesta_concursante": "Limitar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "256",
+    "pregunta": "Puesto en que se venden retazos de diferentes telas",
+    "respuesta_correcta": [
+      "MAULERIA"
+    ],
+    "respuesta_concursante": "Mauleria",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "257",
+    "pregunta": "Perteneciente o relativo a las bodas",
+    "respuesta_correcta": [
+      "NUPCIAL"
+    ],
+    "respuesta_concursante": "Nupcial",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "258",
+    "pregunta": "Agrupación de actores o bailarines unidos para representar espectáculos escénicos",
+    "respuesta_correcta": [
+      "COMPAÑIA"
+    ],
+    "respuesta_concursante": "Compañia",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "259",
+    "pregunta": "Órgano de la vista en el ser humano y en los animales",
+    "respuesta_correcta": [
+      "OJO"
+    ],
+    "respuesta_concursante": "Ojo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "260",
+    "pregunta": "Estandarte de las iglesias y cofradías rematado en dos puntas, que se lleva en las procesiones",
+    "respuesta_correcta": [
+      "PENDON"
+    ],
+    "respuesta_concursante": "Pendon",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "261",
+    "pregunta": "Entre los musulmanes y otros pueblos orientales, superior que gobierna y manda un territorio",
+    "respuesta_correcta": [
+      "JEQUE"
+    ],
+    "respuesta_concursante": "Jeque",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "262",
+    "pregunta": "Cobrar o percibir cantidades de dinero por cualquier concepto, como cuotas, donativos o contribuciones",
+    "respuesta_correcta": [
+      "RECAUDAR"
+    ],
+    "respuesta_concursante": "Recaudar",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "263",
+    "pregunta": "Provincia de Ecuador con capital en la ciudad de Nueva Loja",
+    "respuesta_correcta": [
+      "SUCUMBIOS"
+    ],
+    "respuesta_concursante": "Sucumbios",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "264",
+    "pregunta": "Medida convencional usada en la fabricación y venta de prendas de vestir",
+    "respuesta_correcta": [
+      "TALLA"
+    ],
+    "respuesta_concursante": "Talla",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "265",
+    "pregunta": "Estar situado en determinado espacio o lugar",
+    "respuesta_correcta": [
+      "UBICAR",
+      "UBICARSE"
+    ],
+    "respuesta_concursante": "Ubicarse",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "266",
+    "pregunta": "Tiempo breve en que, en España, suele hacer calor durante el otoño",
+    "respuesta_correcta": [
+      "VERANILLO"
+    ],
+    "respuesta_concursante": "Veranillo",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "267",
+    "pregunta": "Hormona que estimula la contracción del útero durante el parto y la secreción de leche en la glándula mamaria",
+    "respuesta_correcta": [
+      "OXITOCINA"
+    ],
+    "respuesta_concursante": "Oxitocina",
+    "respuesta_chatgpt": ""
+  },
+  {
+    "id": "268",
+    "pregunta": "Poema en que se refieren hechos heroicos, históricos o legendarios",
+    "respuesta_correcta": [
+      "EPOPEYA"
+    ],
+    "respuesta_concursante": "Epopeya",
+    "respuesta_chatgpt": ""
+  }
+]
