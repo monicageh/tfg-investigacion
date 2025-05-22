@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "1",
+        "pregunta": "Starts with A: Having a strong desire for success or achievement.",
+        "respuesta_correcta": "AMBITIOUS",
+        "respuesta_chatgpt": "AMBITIOUS"
+    },
+    {
+        "id": "2",
+        "pregunta": "Starts with B: Causing fear or anxiety; difficult to deal with.",
+        "respuesta_correcta": "BRUTAL",
+        "respuesta_chatgpt": "FORMIDABLE"
+    },
+    {
+        "id": "3",
+        "pregunta": "Starts with C: Able to do things effectively and efficiently.",
+        "respuesta_correcta": "COMPETENT",
+        "respuesta_chatgpt": "COMPETENT"
+    },
+    {
+        "id": "4",
+        "pregunta": "Starts with D: Showing care in doing one\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s work or duties.",
+        "respuesta_correcta": "DILIGENT",
+        "respuesta_chatgpt": "DILIGENT"
+    },
+    {
+        "id": "5",
+        "pregunta": "Starts with E: Providing encouragement or optimism.",
+        "respuesta_correcta": "ENCOURAGING",
+        "respuesta_chatgpt": "EFFERVESCENT"
+    },
+    {
+        "id": "6",
+        "pregunta": "Starts with F: Free from deceit or pretension; genuine.",
+        "respuesta_correcta": "FRANK",
+        "respuesta_chatgpt": "VERITABLE"
+    },
+    {
+        "id": "7",
+        "pregunta": "Starts with G: Very giving or willing to share.",
+        "respuesta_correcta": "GENEROUS",
+        "respuesta_chatgpt": "GENEROUS"
+    },
+    {
+        "id": "8",
+        "pregunta": "Starts with H: Free from stress or worry; relaxed.",
+        "respuesta_correcta": "HARMONIOUS",
+        "respuesta_chatgpt": "HEMLOCK"
+    },
+    {
+        "id": "9",
+        "pregunta": "Starts with I: Unable to be changed or moved.",
+        "respuesta_correcta": "IMMOVABLE",
+        "respuesta_chatgpt": "IMMUTABLE"
+    },
+    {
+        "id": "10",
+        "pregunta": "Starts with J: Full of high-spirited delight or excitement.",
+        "respuesta_correcta": "JOVIAL",
+        "respuesta_chatgpt": "JOVIAL"
+    },
+    {
+        "id": "11",
+        "pregunta": "Starts with K: Being considerate, helpful, or benevolent.",
+        "respuesta_correcta": "KIND",
+        "respuesta_chatgpt": "KIND"
+    },
+    {
+        "id": "12",
+        "pregunta": "Starts with L: Able to express oneself fluently and persuasively.",
+        "respuesta_correcta": "LUCID",
+        "respuesta_chatgpt": "ELOQUENT"
+    },
+    {
+        "id": "13",
+        "pregunta": "Starts with M: Having qualities traditionally associated with masculinity.",
+        "respuesta_correcta": "MASCULINE",
+        "respuesta_chatgpt": "VIRTUOUS"
+    },
+    {
+        "id": "14",
+        "pregunta": "Starts with N: Causing no harm; harmless or beneficial.",
+        "respuesta_correcta": "NONTOXIC",
+        "respuesta_chatgpt": "BENIGN"
+    },
+    {
+        "id": "15",
+        "pregunta": "Starts with O: Completely open and honest.",
+        "respuesta_correcta": "OUTSPOKEN",
+        "respuesta_chatgpt": "FRANK"
+    },
+    {
+        "id": "16",
+        "pregunta": "Starts with P: Able to accept or tolerate delays or suffering.",
+        "respuesta_correcta": "PATIENT",
+        "respuesta_chatgpt": "PATIENT"
+    },
+    {
+        "id": "17",
+        "pregunta": "Starts with Q: Calm, peaceful, and free from disturbance.",
+        "respuesta_correcta": "QUIET",
+        "respuesta_chatgpt": "QUIET"
+    },
+    {
+        "id": "18",
+        "pregunta": "Starts with R: Not willing to accept new ideas or change.",
+        "respuesta_correcta": "RESISTANT",
+        "respuesta_chatgpt": "RETICENT"
+    },
+    {
+        "id": "19",
+        "pregunta": "Starts with S: Giving pleasure or satisfaction; delightful.",
+        "respuesta_correcta": "SATISFYING",
+        "respuesta_chatgpt": "SAVORY"
+    },
+    {
+        "id": "20",
+        "pregunta": "Starts with T: Full of energy and enthusiasm.",
+        "respuesta_correcta": "TIRELESS",
+        "respuesta_chatgpt": "VIVACIOUS"
+    },
+    {
+        "id": "21",
+        "pregunta": "Starts with U: Unique and unmatched in quality or character.",
+        "respuesta_correcta": "UNIQUE",
+        "respuesta_chatgpt": "UNPARALLELED"
+    },
+    {
+        "id": "22",
+        "pregunta": "Starts with V: Extremely enthusiastic or passionate.",
+        "respuesta_correcta": "VIBRANT",
+        "respuesta_chatgpt": "VEHEMENT"
+    },
+    {
+        "id": "23",
+        "pregunta": "Starts with W: Unusually or excessively small or insignificant.",
+        "respuesta_correcta": "WIMPY",
+        "respuesta_chatgpt": "WEE"
+    },
+    {
+        "id": "24",
+        "pregunta": "Starts with Y: Having a yellowish hue or appearance.",
+        "respuesta_correcta": "YELLOWISH",
+        "respuesta_chatgpt": "XANTHIC"
+    },
+    {
+        "id": "25",
+        "pregunta": "Starts with Z: Full of energy and enthusiasm.",
+        "respuesta_correcta": "ZESTY",
+        "respuesta_chatgpt": "VIVACIOUS"
+    },
+    {
+        "id": "26",
+        "pregunta": "Starts with O: The formation of a word from a sound associated with what is named.",
+        "respuesta_correcta": "ONOMATOPOEIA",
+        "respuesta_chatgpt": "ONOMATOPOEIA"
+    },
+    {
+        "id": "27",
+        "pregunta": "Starts with D: The practice of seeking knowledge of the future or the unknown by supernatural means.",
+        "respuesta_correcta": "DIVINATION",
+        "respuesta_chatgpt": "DIVINATION"
+    },
+    {
+        "id": "28",
+        "pregunta": "Starts with P: A solution or remedy for all difficulties or diseases.",
+        "respuesta_correcta": "PANACEA",
+        "respuesta_chatgpt": "PANACEA"
+    },
+    {
+        "id": "29",
+        "pregunta": "Starts with P: A person or thing regarded as a perfect example of a particular quality.",
+        "respuesta_correcta": "PARAGON",
+        "respuesta_chatgpt": "PARAGON"
+    },
+    {
+        "id": "30",
+        "pregunta": "Starts with H: A lengthy and aggressive speech.",
+        "respuesta_correcta": "HARANGUE",
+        "respuesta_chatgpt": "HARANGUE"
+    },
+    {
+        "id": "31",
+        "pregunta": "Starts with P: A strong or habitual liking for something or tendency to do something.",
+        "respuesta_correcta": "PENCHANT",
+        "respuesta_chatgpt": "PREDILECTION"
+    },
+    {
+        "id": "32",
+        "pregunta": "Starts with C: A sudden and unaccountable change of mood or behavior.",
+        "respuesta_correcta": "CAPRICE",
+        "respuesta_chatgpt": "CAPRICE"
+    },
+    {
+        "id": "33",
+        "pregunta": "Starts with E: The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+        "respuesta_correcta": "ECOLOGY",
+        "respuesta_chatgpt": "ECOLOGY"
+    },
+    {
+        "id": "34",
+        "pregunta": "Starts with D: The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.",
+        "respuesta_correcta": "DENOUEMENT",
+        "respuesta_chatgpt": "DENOUEMENT"
+    },
+    {
+        "id": "35",
+        "pregunta": "Starts with P: A sudden and unplanned loss or downturn.",
+        "respuesta_correcta": "PLUMMET",
+        "respuesta_chatgpt": "PLUNGE"
+    },
+    {
+        "id": "36",
+        "pregunta": "Starts with M: An intricate and confusing arrangement or situation.",
+        "respuesta_correcta": "MAZE",
+        "respuesta_chatgpt": "MAZE"
+    },
+    {
+        "id": "37",
+        "pregunta": "Starts with A: A person who renounces a religious or political belief or principle.",
+        "respuesta_correcta": "APOSTATE",
+        "respuesta_chatgpt": "RENEGADE"
+    },
+    {
+        "id": "38",
+        "pregunta": "Starts with A: The art or science of cultivating the soil, growing crops, and raising livestock.",
+        "respuesta_correcta": "AGRICULTURE",
+        "respuesta_chatgpt": "AGRICULTURE"
+    },
+    {
+        "id": "39",
+        "pregunta": "Starts with L: A person who writes dictionaries.",
+        "respuesta_correcta": "LEXICOGRAPHER",
+        "respuesta_chatgpt": "LEXICOGRAPHER"
+    },
+    {
+        "id": "40",
+        "pregunta": "Starts with E: A magical or medicinal potion.",
+        "respuesta_correcta": "ELIXIR",
+        "respuesta_chatgpt": "ELIXIR"
+    },
+    {
+        "id": "41",
+        "pregunta": "Starts with F: A sweet-smelling resin obtained from certain trees and used in incense and perfumes.",
+        "respuesta_correcta": "FRANKINCENSE",
+        "respuesta_chatgpt": "FRANKINCENSE"
+    },
+    {
+        "id": "42",
+        "pregunta": "Starts with T: An instrument for measuring and indicating temperature.",
+        "respuesta_correcta": "THERMOMETER",
+        "respuesta_chatgpt": "THERMOMETER"
+    },
+    {
+        "id": "43",
+        "pregunta": "Starts with S: A flat, thin, rectangular piece of material.",
+        "respuesta_correcta": "SLAB",
+        "respuesta_chatgpt": "SHEET"
+    },
+    {
+        "id": "44",
+        "pregunta": "Starts with A: An imaginary or hypothetical concept, idea, or entity.",
+        "respuesta_correcta": "ABSTRACTION",
+        "respuesta_chatgpt": "ABSTRACTION"
+    },
+    {
+        "id": "45",
+        "pregunta": "Starts with F: A person's ability to cope well with difficulties or to face a demanding situation in a spirited and resilient way.",
+        "respuesta_correcta": "FORTITUDE",
+        "respuesta_chatgpt": "FORTITUDE"
+    },
+    {
+        "id": "46",
+        "pregunta": "Starts with C: The arrangement of events or dates in the order of their occurrence.",
+        "respuesta_correcta": "CHRONOLOGY",
+        "respuesta_chatgpt": "CHRONOLOGY"
+    },
+    {
+        "id": "47",
+        "pregunta": "Starts with A: A group of islands.",
+        "respuesta_correcta": "ARCHIPELAGO",
+        "respuesta_chatgpt": "ARCHIPELAGO"
+    },
+    {
+        "id": "48",
+        "pregunta": "Starts with B: A person who composes or performs epic or heroic poems.",
+        "respuesta_correcta": "BARD",
+        "respuesta_chatgpt": "BARD"
+    },
+    {
+        "id": "49",
+        "pregunta": "Starts with P: A sudden, intense fear or anxiety that may cause irrational behavior.",
+        "respuesta_correcta": "PANIC",
+        "respuesta_chatgpt": "PANIC"
+    },
+    {
+        "id": "50",
+        "pregunta": "Starts with S: A small, simple building, often made of wood or other basic materials.",
+        "respuesta_correcta": "SHACK",
+        "respuesta_chatgpt": "SHED"
+    },
+    {
+        "id": "51",
+        "pregunta": "Starts with S: A person who manages or oversees the work of others.",
+        "respuesta_correcta": "SUPERVISOR",
+        "respuesta_chatgpt": "SUPERVISOR"
+    },
+    {
+        "id": "52",
+        "pregunta": "Starts with V: A plant with a creeping or climbing habit, usually with stems supported by tendrils or climbing structures.",
+        "respuesta_correcta": "VINE",
+        "respuesta_chatgpt": "VINE"
+    },
+    {
+        "id": "53",
+        "pregunta": "Starts with E: The ability to understand and share the feelings of another.",
+        "respuesta_correcta": "EMPATHY",
+        "respuesta_chatgpt": "EMPATHY"
+    },
+    {
+        "id": "54",
+        "pregunta": "Starts with P: The main character in a work of literature, often seen as the hero.",
+        "respuesta_correcta": "PROTAGONIST",
+        "respuesta_chatgpt": "PROTAGONIST"
+    },
+    {
+        "id": "55",
+        "pregunta": "Starts with M: A person who repairs or maintains machinery, typically in an industrial setting.",
+        "respuesta_correcta": "MECHANIC",
+        "respuesta_chatgpt": "MECHANIC"
+    },
+    {
+        "id": "56",
+        "pregunta": "Starts with M: A particular point in time, especially one that is significant or defining.",
+        "respuesta_correcta": "MOMENT",
+        "respuesta_chatgpt": "MOMENT"
+    },
+    {
+        "id": "57",
+        "pregunta": "Starts with N: A person who is new to a field or activity; a beginner.",
+        "respuesta_correcta": "NOVICE",
+        "respuesta_chatgpt": "NEOPHYTE"
+    },
+    {
+        "id": "58",
+        "pregunta": "Starts with P: The basic monetary unit of the United Kingdom.",
+        "respuesta_correcta": "POUND",
+        "respuesta_chatgpt": "PENNY"
+    },
+    {
+        "id": "59",
+        "pregunta": "Starts with M: The practice of being married to only one person at a time.",
+        "respuesta_correcta": "MONOGAMY",
+        "respuesta_chatgpt": "MONOGAMY"
+    },
+    {
+        "id": "60",
+        "pregunta": "Starts with C: A deep, narrow valley with steep sides, often with a stream running through it.",
+        "respuesta_correcta": "CANYON",
+        "respuesta_chatgpt": "CANYON"
+    },
+    {
+        "id": "61",
+        "pregunta": "Starts with S: A mark left on the skin after a wound or injury has healed.",
+        "respuesta_correcta": "SCAR",
+        "respuesta_chatgpt": "SCAR"
+    },
+    {
+        "id": "62",
+        "pregunta": "Starts with H: A prolonged period of abnormally hot weather.",
+        "respuesta_correcta": "HEATWAVE",
+        "respuesta_chatgpt": "HEATWAVE"
+    },
+    {
+        "id": "63",
+        "pregunta": "Starts with T: A small piece of advice or useful information.",
+        "respuesta_correcta": "TIP",
+        "respuesta_chatgpt": "TIP"
+    },
+    {
+        "id": "64",
+        "pregunta": "Starts with B: A thick, solid piece of wood, metal, or stone.",
+        "respuesta_correcta": "BLOCK",
+        "respuesta_chatgpt": "BULK"
+    },
+    {
+        "id": "65",
+        "pregunta": "Starts with I: The process of starting or introducing something new.",
+        "respuesta_correcta": "INITIATION",
+        "respuesta_chatgpt": "INITIATION"
+    },
+    {
+        "id": "66",
+        "pregunta": "Starts with I: A person who behaves rudely and disrespectfully, especially to authority.",
+        "respuesta_correcta": "INSOLENT",
+        "respuesta_chatgpt": "INSUBORDINATE"
+    },
+    {
+        "id": "67",
+        "pregunta": "Starts with S: The state of being free from danger or threat.",
+        "respuesta_correcta": "SECURITY",
+        "respuesta_chatgpt": "SECURITY"
+    },
+    {
+        "id": "68",
+        "pregunta": "Starts with S: A place where people live permanently, such as a village or city.",
+        "respuesta_correcta": "SETTLEMENT",
+        "respuesta_chatgpt": "SETTLEMENT"
+    },
+    {
+        "id": "69",
+        "pregunta": "Starts with O: A short trip or journey for pleasure or recreation.",
+        "respuesta_correcta": "OUTING",
+        "respuesta_chatgpt": "ODYSSEY"
+    },
+    {
+        "id": "70",
+        "pregunta": "Starts with M: A member of the clergy authorized to perform religious duties.",
+        "respuesta_correcta": "MINISTER",
+        "respuesta_chatgpt": "MINISTER"
+    },
+    {
+        "id": "71",
+        "pregunta": "Starts with T: The activity or profession of moving goods by road, rail, sea, or air.",
+        "respuesta_correcta": "TRANSPORTATION",
+        "respuesta_chatgpt": "TRANSPORTATION"
+    },
+    {
+        "id": "72",
+        "pregunta": "Starts with C: A solid geometric figure with six equal square faces.",
+        "respuesta_correcta": "CUBE",
+        "respuesta_chatgpt": "CUBE"
+    },
+    {
+        "id": "73",
+        "pregunta": "Starts with D: A very small drop of liquid.",
+        "respuesta_correcta": "DROPLET",
+        "respuesta_chatgpt": "DROPLET"
+    },
+    {
+        "id": "74",
+        "pregunta": "Starts with U: The state of being united or joined as a whole.",
+        "respuesta_correcta": "UNITY",
+        "respuesta_chatgpt": "UNITY"
+    },
+    {
+        "id": "75",
+        "pregunta": "Starts with N: The lowest point of something, especially in terms of achievement.",
+        "respuesta_correcta": "NADIR",
+        "respuesta_chatgpt": "Nadir"
+    },
+    {
+        "id": "76",
+        "pregunta": "Starts with D: A written or printed version of something.",
+        "respuesta_correcta": "DOCUMENT",
+        "respuesta_chatgpt": "TRANSCRIPT"
+    },
+    {
+        "id": "77",
+        "pregunta": "Starts with M: A professional soldier hired to serve in a foreign army.",
+        "respuesta_correcta": "MERCENARY",
+        "respuesta_chatgpt": "MERCENARY"
+    },
+    {
+        "id": "78",
+        "pregunta": "Starts with A: A word opposite in meaning to another.",
+        "respuesta_correcta": "ANTONYM",
+        "respuesta_chatgpt": "ANTONYM"
+    },
+    {
+        "id": "79",
+        "pregunta": "Starts with G: The person legally responsible for the custody and care of another person.",
+        "respuesta_correcta": "GUARDIAN",
+        "respuesta_chatgpt": "GUARDIAN"
+    },
+    {
+        "id": "80",
+        "pregunta": "Starts with T: A type of freshwater fish commonly caught for sport.",
+        "respuesta_correcta": "TROUT",
+        "respuesta_chatgpt": "TROUT"
+    },
+    {
+        "id": "81",
+        "pregunta": "Starts with A: A person who studies human societies and their development.",
+        "respuesta_correcta": "ANTHROPOLOGIST",
+        "respuesta_chatgpt": "ANTHROPOLOGIST"
+    },
+    {
+        "id": "82",
+        "pregunta": "Starts with K: The sound of a bell, especially when rung slowly for a funeral.",
+        "respuesta_correcta": "KNELL",
+        "respuesta_chatgpt": "LUGUBRIOUS"
+    },
+    {
+        "id": "83",
+        "pregunta": "Starts with P: A small, flat mass of ground meat, typically fried or grilled.",
+        "respuesta_correcta": "PATTY",
+        "respuesta_chatgpt": "PATTY"
+    },
+    {
+        "id": "84",
+        "pregunta": "Starts with S: A high-pitched scream or cry, often indicating pain or fear.",
+        "respuesta_correcta": "SCREECH",
+        "respuesta_chatgpt": "SHRIEK"
+    },
+    {
+        "id": "85",
+        "pregunta": "Starts with C: A soft, round, sweet food made from flour, sugar, and butter.",
+        "respuesta_correcta": "COOKIE",
+        "respuesta_chatgpt": "CONFECTION"
+    },
+    {
+        "id": "86",
+        "pregunta": "Starts with D: A person who drives a motor vehicle.",
+        "respuesta_correcta": "DRIVER",
+        "respuesta_chatgpt": "DRIVER"
+    },
+    {
+        "id": "87",
+        "pregunta": "Starts with H: A piece of clothing worn to cover the head and shoulders, typically in cold weather.",
+        "respuesta_correcta": "HOOD",
+        "respuesta_chatgpt": "HOOD"
+    },
+    {
+        "id": "88",
+        "pregunta": "Starts with C: The ability to create new and original ideas or things.",
+        "respuesta_correcta": "CREATIVITY",
+        "respuesta_chatgpt": "CONCEPTIVITY"
+    },
+    {
+        "id": "89",
+        "pregunta": "Starts with P: A person who seeks to promote the welfare of others, typically through donations or charity.",
+        "respuesta_correcta": "PHILANTHROPIST",
+        "respuesta_chatgpt": "PHILANTHROPIST"
+    },
+    {
+        "id": "90",
+        "pregunta": "Starts with O: A small, decorative object placed in a room for aesthetic purposes.",
+        "respuesta_correcta": "ORNAMENT",
+        "respuesta_chatgpt": "ORNAMENT"
+    },
+    {
+        "id": "91",
+        "pregunta": "Starts with F: A thick, cold, white mist that obscures vision.",
+        "respuesta_correcta": "FOG",
+        "respuesta_chatgpt": "FOG"
+    },
+    {
+        "id": "92",
+        "pregunta": "Starts with M: A type of book or pamphlet containing information or instructions.",
+        "respuesta_correcta": "MANUAL",
+        "respuesta_chatgpt": "MANUAL"
+    },
+    {
+        "id": "93",
+        "pregunta": "Starts with A: The ability to move quickly and easily.",
+        "respuesta_correcta": "AGILITY",
+        "respuesta_chatgpt": "AGILITY"
+    },
+    {
+        "id": "94",
+        "pregunta": "Starts with M: The soft, spongy tissue inside bones that produces blood cells.",
+        "respuesta_correcta": "MARROW",
+        "respuesta_chatgpt": "MARROW"
+    },
+    {
+        "id": "95",
+        "pregunta": "Starts with H: A large, powerful, and destructive storm with very high winds.",
+        "respuesta_correcta": "HURRICANE",
+        "respuesta_chatgpt": "HURRICANE"
+    },
+    {
+        "id": "96",
+        "pregunta": "Starts with D: A period of ten years.",
+        "respuesta_correcta": "DECADE",
+        "respuesta_chatgpt": "DECADE"
+    },
+    {
+        "id": "97",
+        "pregunta": "Starts with C: A sudden burst of laughter or amusement.",
+        "respuesta_correcta": "CHUCKLE",
+        "respuesta_chatgpt": "CHORTLE"
+    },
+    {
+        "id": "98",
+        "pregunta": "Starts with E: The part of the Earth\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s surface directly above the focus of an earthquake.",
+        "respuesta_correcta": "EPICENTER",
+        "respuesta_chatgpt": "EPICENTER"
+    },
+    {
+        "id": "99",
+        "pregunta": "Starts with P: The act of spreading information or ideas to promote a cause.",
+        "respuesta_correcta": "PROPAGANDA",
+        "respuesta_chatgpt": "PROPAGANDA"
+    },
+    {
+        "id": "100",
+        "pregunta": "Starts with B: A device used to measure atmospheric pressure.",
+        "respuesta_correcta": "BAROMETER",
+        "respuesta_chatgpt": "BAROMETER"
+    },
+    {
+        "id": "101",
+        "pregunta": "Starts with E: A state of extreme physical or mental tiredness.",
+        "respuesta_correcta": "EXHAUSTION",
+        "respuesta_chatgpt": "EXHAUSTION"
+    },
+    {
+        "id": "102",
+        "pregunta": "Starts with P: A small, organized group of people, especially in the military.",
+        "respuesta_correcta": "PLATOON",
+        "respuesta_chatgpt": "PLATOON"
+    },
+    {
+        "id": "103",
+        "pregunta": "Starts with R: A person who habitually lives in seclusion or avoids people.",
+        "respuesta_correcta": "RECLUSE",
+        "respuesta_chatgpt": "RECLUSE"
+    },
+    {
+        "id": "104",
+        "pregunta": "Starts with S: The region of the atmosphere and outer space visible from Earth.",
+        "respuesta_correcta": "SKY",
+        "respuesta_chatgpt": "SKY"
+    },
+    {
+        "id": "105",
+        "pregunta": "Starts with A: A room or space immediately below the roof of a building.",
+        "respuesta_correcta": "ATTIC",
+        "respuesta_chatgpt": "ATTIC"
+    },
+    {
+        "id": "106",
+        "pregunta": "Starts with S: The point at which the sun is farthest from the equator.",
+        "respuesta_correcta": "SOLSTICE",
+        "respuesta_chatgpt": "SOLSTICE"
+    },
+    {
+        "id": "107",
+        "pregunta": "Starts with L: A building or place used for scientific research or experiments.",
+        "respuesta_correcta": "LABORATORY",
+        "respuesta_chatgpt": "LABORATORY"
+    },
+    {
+        "id": "108",
+        "pregunta": "Starts with T: The act of rising above or going beyond the ordinary.",
+        "respuesta_correcta": "TRANSCENDENCE",
+        "respuesta_chatgpt": "TRANScENDENCE"
+    },
+    {
+        "id": "109",
+        "pregunta": "Starts with B: A small natural stream of water.",
+        "respuesta_correcta": "BROOK",
+        "respuesta_chatgpt": "BROOK"
+    },
+    {
+        "id": "110",
+        "pregunta": "Starts with R: A narrow band of elastic material, often used to hold things together.",
+        "respuesta_correcta": "RUBBERBAND",
+        "respuesta_chatgpt": "RIBBON"
+    },
+    {
+        "id": "111",
+        "pregunta": "Starts with S: A person who is fond of luxury and indulges in sensual pleasures.",
+        "respuesta_correcta": "SYBARITE",
+        "respuesta_chatgpt": "SYBARITE"
+    },
+    {
+        "id": "112",
+        "pregunta": "Starts with R: The ability to withstand difficult conditions or hardship.",
+        "respuesta_correcta": "RESILIENCE",
+        "respuesta_chatgpt": "RESILIENCE"
+    },
+    {
+        "id": "113",
+        "pregunta": "Starts with S: A person or thing that takes the blame for the mistakes or faults of others.",
+        "respuesta_correcta": "SCAPEGOAT",
+        "respuesta_chatgpt": "SCAPEGOAT"
+    },
+    {
+        "id": "114",
+        "pregunta": "Starts with O: A sudden, violent attack, especially by an armed force.",
+        "respuesta_correcta": "ONSLAUGHT",
+        "respuesta_chatgpt": "ONSET"
+    },
+    {
+        "id": "115",
+        "pregunta": "Starts with R: The process of breathing in oxygen and expelling carbon dioxide.",
+        "respuesta_correcta": "RESPIRATION",
+        "respuesta_chatgpt": "RESPIRATION"
+    },
+    {
+        "id": "116",
+        "pregunta": "Starts with R: A long, thin, flat strip of material, often used for decoration or support.",
+        "respuesta_correcta": "RIBBON",
+        "respuesta_chatgpt": "RIBBON"
+    },
+    {
+        "id": "117",
+        "pregunta": "Starts with P: The scientific study of the mind and behavior.",
+        "respuesta_correcta": "PSYCHOLOGY",
+        "respuesta_chatgpt": "PSYCHOLOGY"
+    },
+    {
+        "id": "118",
+        "pregunta": "Starts with C: A small room or compartment used for storage.",
+        "respuesta_correcta": "CUPBOARD",
+        "respuesta_chatgpt": "CUBICLE"
+    },
+    {
+        "id": "119",
+        "pregunta": "Starts with D: A strong feeling of wanting to have or achieve something.",
+        "respuesta_correcta": "DESIRE",
+        "respuesta_chatgpt": "DESIRE"
+    },
+    {
+        "id": "120",
+        "pregunta": "Starts with D: The remains of something broken, destroyed, or discarded.",
+        "respuesta_correcta": "DEBRIS",
+        "respuesta_chatgpt": "DEBRIS"
+    },
+    {
+        "id": "121",
+        "pregunta": "Starts with I: A person who tends to be optimistic or hopeful.",
+        "respuesta_correcta": "IDEALIST",
+        "respuesta_chatgpt": "POLLYANNA"
+    },
+    {
+        "id": "122",
+        "pregunta": "Starts with C: The characteristic of being brave in the face of danger.",
+        "respuesta_correcta": "COURAGE",
+        "respuesta_chatgpt": "COURAGE"
+    },
+    {
+        "id": "123",
+        "pregunta": "Starts with S: A person who watches an event, especially a sports event, without taking part.",
+        "respuesta_correcta": "SPECTATOR",
+        "respuesta_chatgpt": "SPECTATOR"
+    },
+    {
+        "id": "124",
+        "pregunta": "Starts with C: The ability to do something successfully or efficiently.",
+        "respuesta_correcta": "COMPETENCE",
+        "respuesta_chatgpt": "CAPABILITY"
+    },
+    {
+        "id": "125",
+        "pregunta": "Starts with C: A small, flat, round piece of metal or plastic used as money.",
+        "respuesta_correcta": "COIN",
+        "respuesta_chatgpt": "COIN"
+    },
+    {
+        "id": "126",
+        "pregunta": "Starts with P: The soft covering of a bird\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s body, consisting of feathers.",
+        "respuesta_correcta": "PLUMAGE",
+        "respuesta_chatgpt": "PLUMAGE"
+    },
+    {
+        "id": "127",
+        "pregunta": "Starts with A: A type of large sea bird known for its long wingspan.",
+        "respuesta_correcta": "ALBATROSS",
+        "respuesta_chatgpt": "ALBATROSS"
+    },
+    {
+        "id": "128",
+        "pregunta": "Starts with C: A container for carrying water, often used in outdoor activities.",
+        "respuesta_correcta": "CANTEEN",
+        "respuesta_chatgpt": "CANTEEN"
+    },
+    {
+        "id": "129",
+        "pregunta": "Starts with C: A person who organizes and manages events, often for public gatherings.",
+        "respuesta_correcta": "COORDINATOR",
+        "respuesta_chatgpt": "CONVENER"
+    },
+    {
+        "id": "130",
+        "pregunta": "Starts with C: The study of the origins and structure of the universe.",
+        "respuesta_correcta": "COSMOLOGY",
+        "respuesta_chatgpt": "COSMOLOGY"
+    },
+    {
+        "id": "131",
+        "pregunta": "Starts with W: The ability to make intelligent decisions quickly in difficult situations.",
+        "respuesta_correcta": "WISDOM",
+        "respuesta_chatgpt": "WISDOM"
+    },
+    {
+        "id": "132",
+        "pregunta": "Starts with A: A device for making large amounts of sound, often used in concerts or events.",
+        "respuesta_correcta": "AMPLIFIER",
+        "respuesta_chatgpt": "AMPLIFIER"
+    },
+    {
+        "id": "133",
+        "pregunta": "Starts with G: A strong, sudden wind.",
+        "respuesta_correcta": "GUST",
+        "respuesta_chatgpt": "GUST"
+    },
+    {
+        "id": "134",
+        "pregunta": "Starts with V: The state of being completely empty or devoid of content.",
+        "respuesta_correcta": "VACUITY",
+        "respuesta_chatgpt": "VACUUM"
+    },
+    {
+        "id": "135",
+        "pregunta": "Starts with B: A place where plants are grown for scientific study or display.",
+        "respuesta_correcta": "BOTANICALGARDEN",
+        "respuesta_chatgpt": "BOTANICAL GARDEN"
+    },
+    {
+        "id": "136",
+        "pregunta": "Starts with F: A type of evergreen tree often associated with holidays or celebrations.",
+        "respuesta_correcta": "FIR",
+        "respuesta_chatgpt": "FIR"
+    },
+    {
+        "id": "137",
+        "pregunta": "Starts with B: A person who prepares and sells meat.",
+        "respuesta_correcta": "BUTCHER",
+        "respuesta_chatgpt": "BUTCHER"
+    },
+    {
+        "id": "138",
+        "pregunta": "Starts with C: The natural coloring of the skin, often associated with health or vitality.",
+        "respuesta_correcta": "COMPLEXION",
+        "respuesta_chatgpt": "COMPLEXION"
+    },
+    {
+        "id": "139",
+        "pregunta": "Starts with D: A small boat propelled by rowing.",
+        "respuesta_correcta": "DINGHY",
+        "respuesta_chatgpt": "DINGHY"
+    },
+    {
+        "id": "140",
+        "pregunta": "Starts with M: A very large and luxurious residence or estate.",
+        "respuesta_correcta": "MANSION",
+        "respuesta_chatgpt": "MANSION"
+    },
+    {
+        "id": "141",
+        "pregunta": "Starts with C: A mixture of decaying organic substances used for fertilizing soil.",
+        "respuesta_correcta": "COMPOST",
+        "respuesta_chatgpt": "COMPOST"
+    },
+    {
+        "id": "142",
+        "pregunta": "Starts with V: The process of verifying something to ensure it is accurate or true.",
+        "respuesta_correcta": "VALIDATION",
+        "respuesta_chatgpt": "VINDICATION"
+    },
+    {
+        "id": "143",
+        "pregunta": "Starts with H: A person who pretends to have certain beliefs or qualities they do not possess.",
+        "respuesta_correcta": "HYPOCRITE",
+        "respuesta_chatgpt": "HYPOCRITE"
+    },
+    {
+        "id": "144",
+        "pregunta": "Starts with S: A sudden movement caused by fear or surprise.",
+        "respuesta_correcta": "STARTLE",
+        "respuesta_chatgpt": "STARTLE"
+    },
+    {
+        "id": "145",
+        "pregunta": "Starts with B: A drink made by infusing leaves, seeds, or roots in hot water.",
+        "respuesta_correcta": "BREW",
+        "respuesta_chatgpt": "BROTH"
+    },
+    {
+        "id": "146",
+        "pregunta": "Starts with C: The distance around a circle or another curved geometric figure.",
+        "respuesta_correcta": "CIRCUMFERENCE",
+        "respuesta_chatgpt": "CIRCUMFERENCE"
+    },
+    {
+        "id": "147",
+        "pregunta": "Starts with S: A small, sharp piece of material that has broken off a larger object.",
+        "respuesta_correcta": "SPLINTER",
+        "respuesta_chatgpt": "SPLINTER"
+    },
+    {
+        "id": "148",
+        "pregunta": "Starts with P: A person who is excessively concerned with minor details or rules.",
+        "respuesta_correcta": "PEDANT",
+        "respuesta_chatgpt": "PEDANT"
+    },
+    {
+        "id": "149",
+        "pregunta": "Starts with P: A chemical substance used to kill pests or insects.",
+        "respuesta_correcta": "PESTICIDE",
+        "respuesta_chatgpt": "PESTICIDE"
+    },
+    {
+        "id": "150",
+        "pregunta": "Starts with S: A person skilled at telling stories in an entertaining way.",
+        "respuesta_correcta": "STORYTELLER",
+        "respuesta_chatgpt": "SAGACIOUS"
+    },
+    {
+        "id": "151",
+        "pregunta": "Starts with A: A person who designs and oversees the construction of buildings.",
+        "respuesta_correcta": "ARCHITECT",
+        "respuesta_chatgpt": "ARCHITECT"
+    },
+    {
+        "id": "152",
+        "pregunta": "Starts with T: A large number of similar things or people coming together in a crowd.",
+        "respuesta_correcta": "THRONG",
+        "respuesta_chatgpt": "THRONG"
+    },
+    {
+        "id": "153",
+        "pregunta": "Starts with H: A person who is excessively worried or concerned about their health.",
+        "respuesta_correcta": "HYPOCHONDRIAC",
+        "respuesta_chatgpt": "HYPOCHONDRIAC"
+    },
+    {
+        "id": "154",
+        "pregunta": "Starts with L: A small, green citrus fruit with a sour taste.",
+        "respuesta_correcta": "LIME",
+        "respuesta_chatgpt": "LIME"
+    },
+    {
+        "id": "155",
+        "pregunta": "Starts with R: A written set of instructions for preparing a dish.",
+        "respuesta_correcta": "RECIPE",
+        "respuesta_chatgpt": "RECIPE"
+    },
+    {
+        "id": "156",
+        "pregunta": "Starts with A: A layer of rock or soil that holds water underground.",
+        "respuesta_correcta": "AQUIFER",
+        "respuesta_chatgpt": "AQUIFER"
+    },
+    {
+        "id": "157",
+        "pregunta": "Starts with H: A person who inherits the property or position of another.",
+        "respuesta_correcta": "HEIR",
+        "respuesta_chatgpt": "HEIR"
+    },
+    {
+        "id": "158",
+        "pregunta": "Starts with C: A building or room used for public worship, typically by a Christian denomination.",
+        "respuesta_correcta": "CHAPEL",
+        "respuesta_chatgpt": "CHAPEL"
+    },
+    {
+        "id": "159",
+        "pregunta": "Starts with C: A formal agreement between two or more parties.",
+        "respuesta_correcta": "CONTRACT",
+        "respuesta_chatgpt": "CONTRACT"
+    },
+    {
+        "id": "160",
+        "pregunta": "Starts with P: The ability to keep going without giving up, even when facing challenges.",
+        "respuesta_correcta": "PERSEVERANCE",
+        "respuesta_chatgpt": "PERSEVERANCE"
+    },
+    {
+        "id": "161",
+        "pregunta": "Starts with C: A person who composes and directs the performance of music.",
+        "respuesta_correcta": "CONDUCTOR",
+        "respuesta_chatgpt": "CONDUCTOR"
+    },
+    {
+        "id": "162",
+        "pregunta": "Starts with V: A light, thin fabric, often used for curtains or clothing.",
+        "respuesta_correcta": "VOILE",
+        "respuesta_chatgpt": "VOILE"
+    },
+    {
+        "id": "163",
+        "pregunta": "Starts with Q: A musical composition designed to be played by a small group of musicians.",
+        "respuesta_correcta": "QUARTET",
+        "respuesta_chatgpt": "QUARTET"
+    },
+    {
+        "id": "164",
+        "pregunta": "Starts with A: The study of the structure and function of the human body.",
+        "respuesta_correcta": "ANATOMY",
+        "respuesta_chatgpt": "ANATOMY"
+    },
+    {
+        "id": "165",
+        "pregunta": "Starts with A: A type of black, shiny coal that burns with intense heat.",
+        "respuesta_correcta": "ANTHRACITE",
+        "respuesta_chatgpt": "ANTHRACITE"
+    },
+    {
+        "id": "166",
+        "pregunta": "Starts with F: The soft substance found in fruit, such as peaches or plums.",
+        "respuesta_correcta": "FLESH",
+        "respuesta_chatgpt": "PULP"
+    },
+    {
+        "id": "167",
+        "pregunta": "Starts with H: A place where fish are bred or raised commercially.",
+        "respuesta_correcta": "HATCHERY",
+        "respuesta_chatgpt": "HATCHERY"
+    },
+    {
+        "id": "168",
+        "pregunta": "Starts with A: The act of taking something for one's own use, typically without the owner's permission.",
+        "respuesta_correcta": "APPROPRIATION",
+        "respuesta_chatgpt": "APPROPRIATION"
+    },
+    {
+        "id": "169",
+        "pregunta": "Starts with C: A person who creates and studies maps.",
+        "respuesta_correcta": "CARTOGRAPHER",
+        "respuesta_chatgpt": "CARTOGRAPHER"
+    },
+    {
+        "id": "170",
+        "pregunta": "Starts with B: A small, close-fitting knitted hat that covers the head.",
+        "respuesta_correcta": "BEANIE",
+        "respuesta_chatgpt": "BEANIE"
+    },
+    {
+        "id": "171",
+        "pregunta": "Starts with B: The action of decorating something with bright, shiny objects or lights.",
+        "respuesta_correcta": "BEDAZZLEMENT",
+        "respuesta_chatgpt": "BEDAZZLING"
+    },
+    {
+        "id": "172",
+        "pregunta": "Starts with M: A large, ancient building, often associated with ruins or temples.",
+        "respuesta_correcta": "MONOLITH",
+        "respuesta_chatgpt": "MONUMENT"
+    },
+    {
+        "id": "173",
+        "pregunta": "Starts with F: The collective term for the leaves of a plant.",
+        "respuesta_correcta": "FOLIAGE",
+        "respuesta_chatgpt": "FOLIAGE"
+    },
+    {
+        "id": "174",
+        "pregunta": "Starts with S: The scientific study of caves.",
+        "respuesta_correcta": "SPELEOLOGY",
+        "respuesta_chatgpt": "SPELEOLOGY"
+    },
+    {
+        "id": "175",
+        "pregunta": "Starts with B: A small, hard, rounded object used in counting or decoration.",
+        "respuesta_correcta": "BEAD",
+        "respuesta_chatgpt": "BEBE"
+    },
+    {
+        "id": "176",
+        "pregunta": "Starts with P: The ability to remain calm and composed under pressure.",
+        "respuesta_correcta": "POISE",
+        "respuesta_chatgpt": "POISE"
+    },
+    {
+        "id": "177",
+        "pregunta": "Starts with R: A period of time during which a particular monarch reigns.",
+        "respuesta_correcta": "REIGN",
+        "respuesta_chatgpt": "REGNANCY"
+    },
+    {
+        "id": "178",
+        "pregunta": "Starts with K: A small, narrow boat propelled by paddles.",
+        "respuesta_correcta": "KAYAK",
+        "respuesta_chatgpt": "KAYAK"
+    },
+    {
+        "id": "179",
+        "pregunta": "Starts with T: The use of violence or intimidation to achieve political goals.",
+        "respuesta_correcta": "TERRORISM",
+        "respuesta_chatgpt": "TERRORISM"
+    },
+    {
+        "id": "180",
+        "pregunta": "Starts with P: A person who makes pottery by shaping clay and baking it in a kiln.",
+        "respuesta_correcta": "POTTER",
+        "respuesta_chatgpt": "POTTER"
+    },
+    {
+        "id": "181",
+        "pregunta": "Starts with S: A speech given by one actor in a play, usually expressing inner thoughts.",
+        "respuesta_correcta": "SOLILOQUY",
+        "respuesta_chatgpt": "SOLILOQUY"
+    },
+    {
+        "id": "182",
+        "pregunta": "Starts with S: A short, catchy phrase used in advertising.",
+        "respuesta_correcta": "SLOGAN",
+        "respuesta_chatgpt": "SLOGAN"
+    },
+    {
+        "id": "183",
+        "pregunta": "Starts with G: A small shelter built to provide shade or protection from the weather.",
+        "respuesta_correcta": "GAZEBO",
+        "respuesta_chatgpt": "GROTTO"
+    },
+    {
+        "id": "184",
+        "pregunta": "Starts with N: A written or spoken account of events.",
+        "respuesta_correcta": "NARRATIVE",
+        "respuesta_chatgpt": "NARRATIVE"
+    },
+    {
+        "id": "185",
+        "pregunta": "Starts with R: A plant structure that anchors it to the ground and absorbs nutrients.",
+        "respuesta_correcta": "ROOT",
+        "respuesta_chatgpt": "ROOT"
+    },
+    {
+        "id": "186",
+        "pregunta": "Starts with T: The main stem of a plant that supports branches, leaves, or flowers.",
+        "respuesta_correcta": "TRUNK",
+        "respuesta_chatgpt": "TRUNK"
+    },
+    {
+        "id": "187",
+        "pregunta": "Starts with P: A long journey made to a sacred place as an act of religious devotion.",
+        "respuesta_correcta": "PILGRIMAGE",
+        "respuesta_chatgpt": "PILGRIMAGE"
+    },
+    {
+        "id": "188",
+        "pregunta": "Starts with E: The scientific study of insects.",
+        "respuesta_correcta": "ENTOMOLOGY",
+        "respuesta_chatgpt": "ENTOMOLOGY"
+    },
+    {
+        "id": "189",
+        "pregunta": "Starts with S: A person who rescues or salvages goods from a wrecked ship.",
+        "respuesta_correcta": "SALVAGER",
+        "respuesta_chatgpt": "LIGHTHOUSE"
+    },
+    {
+        "id": "190",
+        "pregunta": "Starts with F: A device used to signal ships or planes at sea or in distress.",
+        "respuesta_correcta": "FLARE",
+        "respuesta_chatgpt": "FIREBRAND"
+    },
+    {
+        "id": "191",
+        "pregunta": "Starts with M: A person who works in a mine extracting minerals or other materials.",
+        "respuesta_correcta": "MINER",
+        "respuesta_chatgpt": "MINER"
+    },
+    {
+        "id": "192",
+        "pregunta": "Starts with S: The process by which ice or snow turns directly into water vapor.",
+        "respuesta_correcta": "SUBLIMATION",
+        "respuesta_chatgpt": "SUBLIMATION"
+    },
+    {
+        "id": "193",
+        "pregunta": "Starts with C: A deep crack or fissure in a glacier or in the ground.",
+        "respuesta_correcta": "CREVASSE",
+        "respuesta_chatgpt": "CREVASSE"
+    },
+    {
+        "id": "194",
+        "pregunta": "Starts with C: A person who repairs and makes leather items such as shoes.",
+        "respuesta_correcta": "COBBLER",
+        "respuesta_chatgpt": "CORDWAINER"
+    },
+    {
+        "id": "195",
+        "pregunta": "Starts with P: The study and classification of rocks.",
+        "respuesta_correcta": "PETROLOGY",
+        "respuesta_chatgpt": "PETROLOGY"
+    },
+    {
+        "id": "196",
+        "pregunta": "Starts with A: A small ornament worn for good luck or protection.",
+        "respuesta_correcta": "AMULET",
+        "respuesta_chatgpt": "TALISMAN"
+    },
+    {
+        "id": "197",
+        "pregunta": "Starts with H: A person who cuts, styles, and grooms hair professionally.",
+        "respuesta_correcta": "HAIRSTYLIST",
+        "respuesta_chatgpt": "HAIRDRESSER"
+    },
+    {
+        "id": "198",
+        "pregunta": "Starts with A: The process of cleansing or purifying something, often spiritually.",
+        "respuesta_correcta": "ABLUTION",
+        "respuesta_chatgpt": "ABLUTION"
+    },
+    {
+        "id": "199",
+        "pregunta": "Starts with G: A small piece of ground used for growing flowers, vegetables, or herbs.",
+        "respuesta_correcta": "GARDEN",
+        "respuesta_chatgpt": "PLOT"
+    },
+    {
+        "id": "200",
+        "pregunta": "Starts with N: A person who travels from place to place without a permanent home.",
+        "respuesta_correcta": "NOMAD",
+        "respuesta_chatgpt": "NOMAD"
+    },
+    {
+        "id": "201",
+        "pregunta": "Starts with A: To have enough money to buy or do something.",
+        "respuesta_correcta": "AFFORD",
+        "respuesta_chatgpt": "AFFORD"
+    },
+    {
+        "id": "202",
+        "pregunta": "Starts with B: To use the teeth to cut into something.",
+        "respuesta_correcta": "BITE",
+        "respuesta_chatgpt": "BITE"
+    },
+    {
+        "id": "203",
+        "pregunta": "Starts with C: To examine something carefully in order to understand it or make decisions.",
+        "respuesta_correcta": "CONSIDER",
+        "respuesta_chatgpt": "CONSIDER"
+    },
+    {
+        "id": "204",
+        "pregunta": "Starts with D: To cause a liquid to go out of or away from something.",
+        "respuesta_correcta": "DRAIN",
+        "respuesta_chatgpt": "DEDUCT"
+    },
+    {
+        "id": "205",
+        "pregunta": "Starts with E: To increase in size, number, or importance.",
+        "respuesta_correcta": "EXPAND",
+        "respuesta_chatgpt": "EXPAND"
+    },
+    {
+        "id": "206",
+        "pregunta": "Starts with F: To stop something from happening or someone from doing something.",
+        "respuesta_correcta": "FORBID",
+        "respuesta_chatgpt": "FORESTALL"
+    },
+    {
+        "id": "207",
+        "pregunta": "Starts with G: To make someone feel sad or worried.",
+        "respuesta_correcta": "GRIEVE",
+        "respuesta_chatgpt": "GREY"
+    },
+    {
+        "id": "208",
+        "pregunta": "Starts with H: To control or influence someone or something.",
+        "respuesta_correcta": "HANDLE",
+        "respuesta_chatgpt": "HEGEMONIC"
+    },
+    {
+        "id": "209",
+        "pregunta": "Starts with I: To include something as part of something else.",
+        "respuesta_correcta": "INCLUDE",
+        "respuesta_chatgpt": "INCORPORATE"
+    },
+    {
+        "id": "210",
+        "pregunta": "Starts with J: To move your body suddenly because you are surprised or afraid.",
+        "respuesta_correcta": "JUMP",
+        "respuesta_chatgpt": "JERK"
+    },
+    {
+        "id": "211",
+        "pregunta": "Starts with K: To end the life of someone or something.",
+        "respuesta_correcta": "KILL",
+        "respuesta_chatgpt": "KILL"
+    },
+    {
+        "id": "212",
+        "pregunta": "Starts with L: To give someone a chance or permission to do something.",
+        "respuesta_correcta": "LET",
+        "respuesta_chatgpt": "LETTING"
+    },
+    {
+        "id": "213",
+        "pregunta": "Starts with M: To travel or move from one place to another.",
+        "respuesta_correcta": "MOVE",
+        "respuesta_chatgpt": "MIGRATE"
+    },
+    {
+        "id": "214",
+        "pregunta": "Starts with N: To refuse to accept or agree to something.",
+        "respuesta_correcta": "NEGLECT",
+        "respuesta_chatgpt": "NIX"
+    },
+    {
+        "id": "215",
+        "pregunta": "Starts with O: To do something in return for something done for you.",
+        "respuesta_correcta": "OFFER",
+        "respuesta_chatgpt": "RECIPROCATE"
+    },
+    {
+        "id": "216",
+        "pregunta": "Starts with P: To act against something, especially by fighting.",
+        "respuesta_correcta": "PROTEST",
+        "respuesta_chatgpt": "PROTEST"
+    },
+    {
+        "id": "217",
+        "pregunta": "Starts with Q: To ask someone questions in order to get information.",
+        "respuesta_correcta": "QUESTION",
+        "respuesta_chatgpt": "QUERY"
+    },
+    {
+        "id": "218",
+        "pregunta": "Starts with R: To make someone remember something.",
+        "respuesta_correcta": "REMIND",
+        "respuesta_chatgpt": "REMIND"
+    },
+    {
+        "id": "219",
+        "pregunta": "Starts with S: To use sharp tools to remove material from a surface.",
+        "respuesta_correcta": "SCRAPE",
+        "respuesta_chatgpt": "SCRIBE"
+    },
+    {
+        "id": "220",
+        "pregunta": "Starts with T: To try to persuade someone to do something by offering something pleasant.",
+        "respuesta_correcta": "TEMPT",
+        "respuesta_chatgpt": "INCENTIVIZE"
+    },
+    {
+        "id": "221",
+        "pregunta": "Starts with U: To make use of something.",
+        "respuesta_correcta": "UTILIZE",
+        "respuesta_chatgpt": "UTILIZE"
+    },
+    {
+        "id": "222",
+        "pregunta": "Starts with V: To see someone for a short time socially or as a guest.",
+        "respuesta_correcta": "VISIT",
+        "respuesta_chatgpt": "VIST"
+    },
+    {
+        "id": "223",
+        "pregunta": "Starts with W: To spend time doing something without a useful result.",
+        "respuesta_correcta": "WASTE",
+        "respuesta_chatgpt": "WASTE"
+    },
+    {
+        "id": "224",
+        "pregunta": "Starts with Y: To produce long, deep sounds as a sign of tiredness or boredom.",
+        "respuesta_correcta": "YAWN",
+        "respuesta_chatgpt": "YAWN"
+    },
+    {
+        "id": "225",
+        "pregunta": "Starts with Z: To move quickly with a loud buzzing sound.",
+        "respuesta_correcta": "ZIP",
+        "respuesta_chatgpt": "ZIPPED"
+    },
+    {
+        "id": "226",
+        "pregunta": "Starts with A: To adjust to new conditions or situations.",
+        "respuesta_correcta": "ADAPT",
+        "respuesta_chatgpt": "ADAPT"
+    },
+    {
+        "id": "227",
+        "pregunta": "Starts with B: To take or carry someone or something to a person or place.",
+        "respuesta_correcta": "BRING",
+        "respuesta_chatgpt": "BEAR"
+    },
+    {
+        "id": "228",
+        "pregunta": "Starts with C: To make something by combining materials or parts.",
+        "respuesta_correcta": "CREATE",
+        "respuesta_chatgpt": "CONCOCT"
+    },
+    {
+        "id": "229",
+        "pregunta": "Starts with D: To make someone believe something that is not true.",
+        "respuesta_correcta": "DECEIVE",
+        "respuesta_chatgpt": "DECEIVE"
+    },
+    {
+        "id": "230",
+        "pregunta": "Starts with E: To leave a place, especially because it is dangerous.",
+        "respuesta_correcta": "ESCAPE",
+        "respuesta_chatgpt": "EXODUS"
+    },
+    {
+        "id": "231",
+        "pregunta": "Starts with F: To supply something that is needed or wanted.",
+        "respuesta_correcta": "FURNISH",
+        "respuesta_chatgpt": "FURNISH"
+    },
+    {
+        "id": "232",
+        "pregunta": "Starts with G: To produce or cause something to appear or happen.",
+        "respuesta_correcta": "GENERATE",
+        "respuesta_chatgpt": "ENGENDER"
+    },
+    {
+        "id": "233",
+        "pregunta": "Starts with H: To stop something from happening or progressing.",
+        "respuesta_correcta": "HALT",
+        "respuesta_chatgpt": "HAMPER"
+    },
+    {
+        "id": "234",
+        "pregunta": "Starts with I: To communicate or work together with someone.",
+        "respuesta_correcta": "INTERACT",
+        "respuesta_chatgpt": "INTERACT"
+    },
+    {
+        "id": "235",
+        "pregunta": "Starts with J: To make a journey, especially for pleasure.",
+        "respuesta_correcta": "JOURNEY",
+        "respuesta_chatgpt": "JOURNEY"
+    },
+    {
+        "id": "236",
+        "pregunta": "Starts with K: To press something, often using force, to turn it off.",
+        "respuesta_correcta": "KNOCK",
+        "respuesta_chatgpt": "KILL"
+    },
+    {
+        "id": "237",
+        "pregunta": "Starts with L: To move smoothly along a surface while maintaining continuous contact.",
+        "respuesta_correcta": "GLIDE",
+        "respuesta_chatgpt": "LAP"
+    },
+    {
+        "id": "238",
+        "pregunta": "Starts with M: To change or improve something to make it more suitable.",
+        "respuesta_correcta": "MODIFY",
+        "respuesta_chatgpt": "MODIFY"
+    },
+    {
+        "id": "239",
+        "pregunta": "Starts with N: To nourish or care for someone or something.",
+        "respuesta_correcta": "NURTURE",
+        "respuesta_chatgpt": "NURTURE"
+    },
+    {
+        "id": "240",
+        "pregunta": "Starts with O: To be better than something or someone.",
+        "respuesta_correcta": "OUTPERFORM",
+        "respuesta_chatgpt": "OUTSHINE"
+    },
+    {
+        "id": "241",
+        "pregunta": "Starts with P: To put something down gently or carefully.",
+        "respuesta_correcta": "PLACE",
+        "respuesta_chatgpt": "PLACATE"
+    },
+    {
+        "id": "242",
+        "pregunta": "Starts with Q: To express doubt or uncertainty about something.",
+        "respuesta_correcta": "QUERY",
+        "respuesta_chatgpt": "QUALIFY"
+    },
+    {
+        "id": "243",
+        "pregunta": "Starts with R: To go back to a place or condition.",
+        "respuesta_correcta": "RETURN",
+        "respuesta_chatgpt": "REVERT"
+    },
+    {
+        "id": "244",
+        "pregunta": "Starts with S: To provide someone with something they need or want.",
+        "respuesta_correcta": "SUPPLY",
+        "respuesta_chatgpt": "SUPPLY"
+    },
+    {
+        "id": "245",
+        "pregunta": "Starts with T: To change the shape or position of something slightly.",
+        "respuesta_correcta": "TWEAK",
+        "respuesta_chatgpt": "TWEAK"
+    },
+    {
+        "id": "246",
+        "pregunta": "Starts with U: To free someone from a situation or condition that limits them.",
+        "respuesta_correcta": "UNLEASH",
+        "respuesta_chatgpt": "UNFETTER"
+    },
+    {
+        "id": "247",
+        "pregunta": "Starts with V: To look at someone or something closely.",
+        "respuesta_correcta": "VIEW",
+        "respuesta_chatgpt": "VIE"
+    },
+    {
+        "id": "248",
+        "pregunta": "Starts with W: To be the reason for someone or something to be unsuccessful.",
+        "respuesta_correcta": "WITHDRAW",
+        "respuesta_chatgpt": "WRECK"
+    },
+    {
+        "id": "249",
+        "pregunta": "Starts with Y: To allow someone to go past you in a vehicle or on foot.",
+        "respuesta_correcta": "YIELD",
+        "respuesta_chatgpt": "YIELD"
+    },
+    {
+        "id": "250",
+        "pregunta": "Starts with A: To formally agree to or accept something.",
+        "respuesta_correcta": "APPROVE",
+        "respuesta_chatgpt": "ACCEDE"
+    }
+]

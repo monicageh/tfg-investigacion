@@ -1,0 +1,500 @@
+Empieza por la N: Se refiere a la accion de negar o contradecir algo
+NEGAR
+Empieza por la B: Persona que ha recibido el bautismo
+BAUTIZADO
+Empieza por la M: Accion de reducir a la minima expresion
+MINIMIZAR
+Empieza por la E: Resultado de hacer algo con cuidado y precision
+ESMERADO
+Empieza por la R: Accion de conseguir algo de manera ilicita
+ROBAR
+Empieza por la R: Accion de dar algo a una persona sin esperar nada a cambio
+REGALAR
+Empieza por la C: Accion de hacer crecer algo, generalmente plantas
+CULTIVAR
+Empieza por la E: Accion de hacer que algo sea mas claro o comprensible
+EXPLICAR
+Empieza por la E: Accion transmitir conocimientos
+ENSEÑAR
+Empieza por la C: Accion de hablar mucho y de manera apresurada
+CHARLAR
+Empieza por la A: Accion de registrar o escribir algo
+ANOTAR
+Empieza por la B: Accion de saltar o moverse con gran agilidad
+BRINCAR
+Empieza por la M: Accion de contemplar con atencion
+MIRAR
+Empieza por la C: Accion de entender o captar algo con claridad
+COMPRENDER
+Empieza por la P: Accion de colocar algo en un lugar adecuado
+PONER
+Empieza por la I: Accion de preguntar para obtener informacion
+INTERROGAR
+Empieza por la S: Accion de hacer que alguien se quede sin palabras
+SILENCIAR
+Empieza por la A: Accion de ayudar a una persona en necesidad
+ASISTIR
+Empieza por la M: Accion de cambiar de lugar o posicion algo
+MOVER
+Empieza por la S: Accion de proponer o sugerir algo
+SUGERIR
+Empieza por la C: Accion de tomar algo con las manos
+COGER
+Empieza por la C: Accion de cortar o rasgar algo con filo
+CORTAR
+Empieza por la S: Accion de hacer algo de manera sorpresiva
+SOBRESALTAR
+Empieza por la A: Accion de colocar algo en orden o posicion correcta
+ALINEAR
+Empieza por la M: Estar relacionado con la mente o el pensamiento
+MENTAL
+Empieza por la C: Relacionado con el saber o la ciencia
+CIENTIFICO
+Empieza por la S: Relacionado con la vida de las personas
+SOCIAL
+Empieza por la D: Relacionado con la capacidad de decidir o elegir
+DECISIONAL
+Empieza por la E: Relacionado con el arte o la expresion artistica
+ESTETICO
+Empieza por la F: Relacionado con el fuego o la combustion
+FISICO
+Empieza por la A: Relacionado con la accion de guardar algo
+ALMACENAR
+Empieza por la H: Relacionado con el estudio de la historia
+HISTORICO
+Empieza por la I: Relacionado con el proceso de influir en algo
+INFLUENCIAL
+Empieza por la J: Relacionado con la justicia o la ley
+JURIDICO
+Empieza por la T: Relacionado con la tecnologia o los dispositivos electronicos
+TECNICO
+Empieza por la L: Relacionado con la luz o la iluminacion
+LUMINOSO
+Empieza por la M: Relacionado con la musica o el sonido
+MUSICAL
+Empieza por la N: Relacionado con la naturaleza o los seres vivos
+NATURAL
+Empieza por la O: Relacionado con la oscuridad o falta de luz
+OSCURO
+Empieza por la P: Relacionado con el proceso de pensar o meditar
+PENSATIVO
+Empieza por la C: Relacionado con la cantidad o volumen
+CUANTITATIVO
+Empieza por la R: Relacionado con la accion de reparar o restaurar
+REPARADOR
+Empieza por la S: Relacionado con el sentimiento o la emocion
+SENTIMENTAL
+Empieza por la T: Relacionado con la accion de transformar algo
+TRANSFORMADOR
+Empieza por la U: Relacionado con la accion de unir algo
+UNIFICADO
+Empieza por la V: Relacionado con la accion de ver o mirar
+VISUAL
+Empieza por la G: Relacionado con la accion de grabar algo en un soporte
+GRABAR
+Empieza por la E: Relacionado con la accion de ejecutar algo con precision
+EXACTO
+Empieza por la C: Relacionado con la creacion de algo nuevo
+CREATIVO
+Empieza por la Z: Relacionado con la accion de zarpar o partir
+ZARPAR
+Empieza por la D: Persona que dirige una institucion educativa
+DOCENTE
+Empieza por la A: Persona encargada de hacer arreglos o mejoras en algo
+ALBAÑIL
+Empieza por la M: Persona que tiene la habilidad de enseñar o instruir
+MAESTRO
+Empieza por la L: Persona que esta en una posicion de liderazgo o mando
+LIDER
+Empieza por la M: Persona que estudia o practica la medicina
+MEDICO
+Empieza por la E: Persona encargada de supervisar las finanzas o el dinero
+ECONOMISTA
+Empieza por la A: Persona que hace o produce trabajos artisticos o creativos
+ARTISTA
+Empieza por la C: Persona que se dedica al comercio de productos o mercancias
+COMERCIANTE
+Empieza por la J: Persona encargada de juzgar o evaluar situaciones legales
+JUEZ
+Empieza por la E: Persona especializada en la organizacion de eventos
+EVENTOLOGO
+Empieza por la C: Persona que se encarga de la construccion de edificaciones
+CONSTRUCTOR
+Empieza por la E: Persona que se dedica a la produccion de obras literarias o artisticas
+ESCRITOR
+Empieza por la I: Persona que se especializa en la creacion de productos tecnologicos
+INNOVADOR
+Empieza por la B: Persona que se dedica al estudio y analisis de las ciencias naturales
+BIOLOGO
+Empieza por la E: Persona que se dedica a la enseñanza de la practica del deporte
+ENTRENADOR
+Empieza por la S: Persona encargada de la organizacion de la sociedad
+SOCIOLOGO
+Empieza por la A: Persona que se dedica a estudiar la jurisprudencia y las leyes
+ABOGADO
+Empieza por la P: Persona que se especializa en la creacion de software o programas informaticos
+PROGRAMADOR
+Empieza por la C: Persona que se dedica a la planificacion y estrategia de empresas
+CONSULTOR
+Empieza por la R: Pequeña cantidad de algo
+RACION
+Empieza por la M: Accion de cambiar algo de lugar
+MUDAR
+Empieza por la E: Distancia entre dos puntos
+ESPACIO
+Empieza por la C: Accion de colocar algo en un lugar apropiado
+COLOCAR
+Empieza por la D: Representacion grafica de una informacion
+DIAGRAMA
+Empieza por la C: Accion de decir algo a alguien
+COMUNICAR
+Empieza por la P: Cualidad de ser agradable y comodo
+PLACENTERO
+Empieza por la D: Aquello que produce una sensacion dolorosa
+DOLOR
+Empieza por la C: Hecho de ser reconocido o famoso
+CELEBRIDAD
+Empieza por la A: Algo que causa sorpresa o admiracion
+ASOMBRO
+Empieza por la E: Lo que se muestra o evidencia publicamente
+EXHIBIR
+Empieza por la B: Accion de ir en busca de algo
+BUSCAR
+Empieza por la S: Lo que se siente o se percibe
+SENSACION
+Empieza por la E: Resultado de realizar una accion
+EFECTO
+Empieza por la R: Lo que se puede tocar o percibir con los sentidos
+REALIDAD
+Empieza por la C: Lo que es relativo a una accion o estado
+CUALIDAD
+Empieza por la A: El estado de estar bien o en paz con uno mismo
+ARMONIA
+Empieza por la I: Accion de cambiar algo por otra cosa
+INTERCAMBIO
+Empieza por la D: Cualidad de estar en movimiento
+DINAMICO
+Empieza por la C: Relacion o vinculo entre varias partes
+CONEXION
+Empieza por la R: Accion de pensar o reflexionar sobre algo
+REFLEXIONAR
+Empieza por la C: Accion de colaborar con otros en una tarea
+COOPERAR
+Empieza por la S: Acto de buscar lo mejor para todos
+SOLIDARIDAD
+Empieza por la S: Cualidad de estar aislado o sin compañia
+SOLEDAD
+Empieza por la E: Accion de conocer algo de manera profunda
+EXAMINAR
+Empieza por la C: Accion de dudar o poner en cuestion algo
+CUESTIONAR
+Empieza por la E: Resultado de tomar una decision importante
+ELECCION
+Empieza por la P: Accion de mejorar o modificar algo
+PERFECCIONAR
+Empieza por la V: Accion de observar algo con atencion
+VIGILAR
+Empieza por la E: Accion de procurar o intentar hacer algo
+ESFORZARSE
+Empieza por la R: Estado de estar en un lugar muy lejano
+REMOTO
+Empieza por la D: Accion de interpretar o comprender algo
+DESENMARAÑAR
+Empieza por la B: Estudio de los seres vivos
+BIOLOGIA
+Empieza por la E: Accion de evaluar o analizar algo
+EVALUAR
+Empieza por la I: Algo que es completamente nuevo
+INEDITO
+Empieza por la R: Resultado de dar una respuesta o solucion
+RESPUESTA
+Empieza por la D: Accion de separar algo en partes
+DIVIDIR
+Empieza por la D: Especificacion o detalle de un asunto
+DETALLE
+Empieza por la S: Fenomeno o situacion que ocurre de manera natural
+SUCESO
+Empieza por la C: Concepto o idea que se utiliza para entender una situacion
+CATEGORIA
+Empieza por la E: Acto de proporcionar algo a alguien
+ENTREGA
+Empieza por la O: Accion de escuchar atentamente
+OIR
+Empieza por la V: Lo que se produce cuando se dice algo en voz alta
+VOZ
+Empieza por la I: Sensacion producida por un estimulo fisico o emocional
+IMPACTO
+Empieza por la S: Definicion o interpretacion de un concepto
+SIGNIFICADO
+Empieza por la A: Cualidad de ser adecuado o pertinente
+APROPIADO
+Empieza por la C: Resultado de un esfuerzo conjunto
+COLABORACION
+Empieza por la I: Accion de buscar informacion sobre un tema
+INVESTIGAR
+Empieza por la P: Cualidad de ser exacto o preciso
+PRECISION
+Empieza por la R: Conjunto de normas que guian una actividad
+REGLAMENTO
+Empieza por la L: Resultado de realizar un acto con destreza o habilidad
+LOGRO
+Empieza por la E: Forma de hacer algo de manera eficaz
+EFICIENCIA
+Empieza por la D: Accion de describir algo con palabras
+DESCRIPCION
+Empieza por la U: Lugar o situacion que se escoge para algo especifico
+UBICACION
+Empieza por la O: Accion de ayudar a mejorar algo
+OPTIMIZAR
+Empieza por la C: Lo que esta relacionado con el numero de elementos
+CANTIDAD
+Empieza por la C: Accion de modificar el aspecto de algo
+CAMBIO
+Empieza por la R: Reaccion o actitud ante un acontecimiento
+RESPUESTA
+Empieza por la C: Lo que se organiza o clasifica segun caracteristicas
+CATEGORIZAR
+Empieza por la P: Forma de hacer algo con rapidez o sin demora
+PRONTITUD
+Empieza por la P: Tendencia o preferencia hacia algo
+PREDILECCION
+Empieza por la E: Resultado de una accion o decision especifica
+EFECTO
+Empieza por la F: Cualidad de ser estable o firme en su lugar
+FIJACION
+Empieza por la D: Distribucion o disposicion de elementos en un espacio
+DISTRIBUCION
+Empieza por la A: Accion de aumentar el tamaño o la magnitud de algo
+AMPLIAR
+Empieza por la D: Accion de exponer algo de manera publica
+DEMOSTRAR
+Empieza por la B: Lugar donde se almacenan libros
+BIBLIOTECA
+Empieza por la I: Persona que realiza una investigacion cientifica
+INVESTIGADOR
+Empieza por la S: Cualidad de ser muy fino o delicado
+SUTIL
+Empieza por la E: Accion de eliminar o hacer desaparecer algo
+ELIMINAR
+Empieza por la I: Aquello que no es capaz de producir efectos
+INEFICAZ
+Empieza por la R: Accion de escribir o redactar un texto
+REDACCIONAR
+Empieza por la J: Cualidad de ser justo o equitativo
+JUSTO
+Empieza por la A: Accion de tomar algo como propio
+APROPIAR
+Empieza por la V: Accion de medir o evaluar el valor de algo
+VALORAR
+Empieza por la E: Lugar donde se realizan actividades de entretenimiento
+ENTRETENIMIENTO
+Empieza por la C: Accion de comunicarse o transmitir un mensaje
+COMUNICAR
+Empieza por la A: Accion de aprender algo de manera rapida
+APRENDER
+Empieza por la R: Cualidad de ser fuerte y resistente
+RESISTENTE
+Empieza por la A: Accion de ayudar a alguien de forma desinteresada
+AYUDAR
+Empieza por la Q: Accion de permanecer en un lugar o estado sin cambiar
+QUEDAR
+Empieza por la E: Accion de realizar un cambio de manera gradual
+EVOLUCIONAR
+Empieza por la O: Hecho o acto de observar de manera critica
+OBSERVAR
+Empieza por la R: Cualidad de ser abierto y receptivo a nuevas ideas
+RECEPTIVO
+Empieza por la P: Accion de ser el primero en llegar o en hacer algo
+PIONERO
+Empieza por la P: Cualidad de ser valioso o digno de ser apreciado
+PRECIOSO
+Empieza por la E: Accion de estudiar de manera profunda
+EXAMINAR
+Empieza por la A: Accion de estar presente en un lugar
+ASISTIR
+Empieza por la F: Accion de dividir algo en partes pequeñas
+FRAGMENTAR
+Empieza por la E: Lo que se genera de manera natural o espontanea
+ESPONTANEO
+Empieza por la H: Cualidad de ser capaz de hacer algo bien
+HABIL
+Empieza por la P: Cualidad de ser evidente o notorio
+PATENTE
+Empieza por la P: Accion de continuar haciendo algo
+PERSISTIR
+Empieza por la P: Accion de prevenir o evitar un problema
+PREVENIR
+Empieza por la C: Lo que se genera como resultado de algo
+CONSECUENCIA
+Empieza por la A: Cualidad de ser interesante y cautivador
+ATRAYENTE
+Empieza por la C: Accion de modificar el estado de algo
+CAMBIAR
+Empieza por la E: Lo que se hace para lograr algo importante
+ESFUERZO
+Empieza por la A: Cualidad de ser amigable o sociable
+AFABLE
+Empieza por la P: Accion de obtener un resultado positivo
+PRODUCIR
+Empieza por la H: Accion de hacer algo por costumbre
+HACER
+Empieza por la D: Hecho de estar desordenado o fuera de lugar
+DESORDEN
+Empieza por la C: Cualidad de ser persistente y constante
+CONSTANCIA
+Empieza por la C: Accion de conocer profundamente a algo o alguien
+CONOCER
+Empieza por la P: Accion de dividir algo en partes iguales
+PARTICIONAR
+Empieza por la P: Lo que se refiere a la posibilidad de mejorar
+POTENCIAL
+Empieza por la N: Accion de hacer algo que se considera necesario
+NECESITAR
+Empieza por la O: Accion de eliminar lo innecesario
+OPTIMIZAR
+Empieza por la E: Lo que se da como prueba de algo
+EVIDENCIA
+Empieza por la D: Accion de mover algo o alguien a otro lugar
+DESPLAZAR
+Empieza por la F: Cualidad de ser flexible o adaptable
+FLEXIBLE
+Empieza por la U: Accion de usar algo con eficiencia
+UTILIZAR
+Empieza por la R: Accion de corregir o mejorar un error
+RECTIFICAR
+Empieza por la V: Accion de verificar o comprobar algo
+VERIFICAR
+Empieza por la A: Accion de conseguir algo por medios legales
+ADQUIRIR
+Empieza por la S: Cualidad de ser mas grande o superior
+SUPERIOR
+Empieza por la P: Accion de generar o causar un cambio
+PROVOCAR
+Empieza por la C: Accion de obtener algo mediante un esfuerzo
+CONQUISTAR
+Empieza por la C: Cualidad de ser confiable o seguro
+CONFIABLE
+Empieza por la D: Accion de no dar importancia a algo
+DESDENAR
+Empieza por la P: Cualidad de ser eficiente o productivo
+PRODUCTIVO
+Empieza por la C: Accion de construir algo desde cero
+CONSTRUIR
+Empieza por la F: Lo que se hace por un proposito especifico
+FINALIDAD
+Empieza por la P: Accion de eliminar todo lo que es innecesario
+PULIR
+Empieza por la P: Accion de buscar la perfeccion
+PERFECCIONAR
+Empieza por la A: Accion de hacer que algo sea mas claro
+ACLARAR
+Empieza por la R: Accion de limitar el tamaño
+REDUCIR
+Empieza por la A: Lo que se refiere a la cantidad de espacio
+AMPLITUD
+Empieza por la J: Accion de observar un hecho de manera critica
+JUZGAR
+Empieza por la R: Lo que es importante para lograr un resultado
+RELEVANTE
+Empieza por la E: Accion de provocar una respuesta o reaccion
+ESTIMULAR
+Empieza por la V: Lo que es util o conveniente
+VENTAJOSO
+Empieza por la U: Cualidad de ser inmediato o urgente
+URGENTE
+Empieza por la A: Accion de sumar o añadir algo a otro
+AGREGAR
+Empieza por la P: Lo que resulta al seguir un proceso
+PROCESO
+Empieza por la O: Accion de realizar algo de manera organizada
+ORGANIZAR
+Empieza por la R: Accion de eliminar lo que sobra
+RESTAURAR
+Empieza por la C: Cualidad de ser comprensible o accesible
+CLARO
+Empieza por la D: Accion de tomar decisiones importantes
+DECIDIR
+Empieza por la I: Accion de actuar sin previo aviso
+IMPROVISAR
+Empieza por la D: Accion de sentir placer o satisfaccion
+DISFRUTAR
+Empieza por la S: Cualidad de ser menos importante o secundario
+SECUNDARIO
+Empieza por la B: Accion de procurar obtener algo
+BUSCAR
+Empieza por la U: Accion de unir o juntar cosas
+UNIR
+Empieza por la C: Accion de llegar a una conclusion logica
+CONCLUIR
+Empieza por la P: Accion de reflexionar sobre algo antes de decidir
+PENSAR
+Empieza por la U: Lo que se obtiene como beneficio o ganancia
+UTILIDAD
+Empieza por la T: Accion de entrar en una nueva etapa
+TRANSICIONAR
+Empieza por la L: Lo que se logra al alcanzar un objetivo
+LOGRAR
+Empieza por la S: Lo que se obtiene por un medio indirecto
+SUBPRODUCTO
+Empieza por la O: Accion de ver con atencion y concentracion
+OBSEVAR
+Empieza por la C: Lo que se hace al cuidar o proteger algo
+CUIDAR
+Empieza por la I: Accion de incluir o incorporar algo en un grupo
+INCLUIR
+Empieza por la F: Accion de hacer que algo sea mas accesible o sencillo
+FACILITAR
+Empieza por la A: Accion de hacer que algo sea comprensible
+ACLARAR
+Empieza por la D: Accion de permitir que algo ocurra
+DEJAR
+Empieza por la R: Accion de distribuir algo entre varias personas
+REPARTIR
+Empieza por la V: Accion de tomar o adquirir algo por su valor
+VALORAR
+Empieza por la R: Accion de cambiar de direccion o enfoque
+REDIRECCIONAR
+Empieza por la R: Accion de corregir o reparar algo dañado
+RESTABLECER
+Empieza por la I: Accion de formar parte de algo
+INTEGRAR
+Empieza por la I: Accion de crear o desarrollar una nueva idea
+INNOVAR
+Empieza por la D: Accion de hacer una declaracion o afirmacion
+DECLARAR
+Empieza por la A: Accion de aprender o entender algo por experiencia
+APRECIAR
+Empieza por la D: Accion de alterar el curso o destino de algo
+DESVIAR
+Empieza por la A: Accion de hacer algo con rapidez o urgencia
+ACELERAR
+Empieza por la E: Accion de aumentar el tamaño o cantidad de algo
+EXPANDIR
+Empieza por la R: Accion de dejar algo en su estado original
+RESTAURAR
+Empieza por la A: Accion de capturar la atencion o interes de alguien
+ATRAPAR
+Empieza por la S: Accion de sentir o experimentar una emocion
+SENTIR
+Empieza por la A: Accion de reducir la intensidad de algo
+AMORTIGUAR
+Empieza por la E: Accion de hacer que algo sea mas interesante
+ENTRETENER
+Empieza por la E: Accion de aprender de manera profunda y detenida
+ESTUDIAR
+Empieza por la P: Accion de preparar algo para un fin especifico
+PREPARAR
+Empieza por la R: Accion de restablecer el orden o la paz
+RECONCILIAR
+Empieza por la V: Accion de viajar por aire de manera regular
+VOLAR
+Empieza por la H: Accion de hacer algo de forma habitual o regular
+HABITUAR
+Empieza por la I: Accion de crear una imagen visual o mental de algo
+IMAGINAR
+Empieza por la M: Accion de cambiar el aspecto o forma de algo
+MODIFICAR
+Empieza por la D: Accion de descansar o reposar de manera profunda
+DORMIR
+Empieza por la M: Accion de expresar un sentimiento o estado emocional de forma clara
+MANIFESTAR

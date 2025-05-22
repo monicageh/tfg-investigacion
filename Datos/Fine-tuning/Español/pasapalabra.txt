@@ -1,0 +1,300 @@
+user: Empieza por la A: Edificio o local donde se guardan géneros de cualquier clase, generalmente mercancías.
+assistant: ALMACEN
+-
+user: Empieza por la B: Utensilio para la lactancia artificial que consiste en una botella pequeña con una tetina de goma.
+assistant: BIBERON
+-
+user: Empieza por la C: Boina grande, típica del País Vasco.
+assistant: CHAPELA
+-
+user: Empieza por la D: Señal que queda en la parte por donde se ha doblado algo.
+assistant: DOBLEZ
+-
+user: Empieza por la E: Ciudad de Francia que, en el siglo 11, se convirtió en capital de la familia de los señores de Ventadour.
+assistant: EGLETONS
+-
+user: Empieza por la F: Coloquialmente, enriquecerse, hacerse rico.
+assistant: FORRARSE
+-
+user: Empieza por la G: En la antigua Roma, persona que luchaba en el circo contra otra persona o contra una fiera.
+assistant: GLADIADOR
+-
+user: Empieza por la H: Cada una de las cuerdas que sostienen la hamaca.
+assistant: HICO
+-
+user: Empieza por la I: Intranquilidad producida por algo que molesta o que no acaba de llegar.
+assistant: IMPACIENCIA
+-
+user: Empieza por la J: Veteado o salpicado de pintas como el jaspe.
+assistant: JASPEADO
+-
+user: Empieza por la L: Pez marino comestible, de cuerpo ovalado y casi plano, con los dos ojos situados en el mismo lado del cuerpo.
+assistant: LENGUADO
+-
+user: Empieza por la M: Carta que se envía a alguien.
+assistant: MISIVA
+-
+user: Empieza por la N: Líquido inflamable y explosivo, que se emplea para fabricar dinamita.
+assistant: NITROGLICERINA
+-
+user: Contiene la Ñ: Parte instrumental o vocal de una composición que sirve de soporte armónico a la parte melódica principal..
+assistant: ACOMPAÑAMIENTO
+-
+user: Empieza por la O: Poliedro de ocho caras o planos.
+assistant: OCTAEDRO
+-
+user: Empieza por la P: Se dice del animal invertebrado que vive en las profundidades marinas y carece de boca y tubo digestivo.
+assistant: POGONOFORO
+-
+user: Contiene la Q: Asiento de tres o cuatro pies y sin respaldo.
+assistant: BANQUETA
+-
+user: Empieza por la R: Acto solemne en el que desfilan ante el jefe del Estado u otra autoridad los representantes de cuerpos o clase.
+assistant: RECEPCION
+-
+user: Empieza por la S: Voz inglesa que designa el establecimiento de tratamientos y sistemas de relajación con agua como base.
+assistant: SPA
+-
+user: Empieza por la T: Someter algo a un control o prueba.
+assistant: TESTAR
+-
+user: Empieza por la U: Se dice de la radiación que se encuentra entre el extremo violeta del espectro visible y los rayos X.
+assistant: ULTRAVIOLETA
+-
+user: Empieza por la V: Quinto día de la semana.
+assistant: VIERNES
+-
+user: Contiene la X: Conjunto de elementos dedicados a una industria o granjería.
+assistant: EXPLOTACION
+-
+user: Contiene la Y: Apellido del activista que sucedió a Luther King como presidente de la Conferencia Sur de Liderazgo Cristiano.
+assistant: ABERNATHY
+-
+user: Empieza por la Z: Dividir un terreno en zonas.
+assistant: ZONIFICAR
+-
+user: Empieza por la A: Edificio o local donde se guardan géneros de cualquier clase, generalmente mercancías.
+assistant: ALMACEN
+-
+user: Empieza por la B: Utensilio para la lactancia artificial que consiste en una botella pequeña con una tetina de goma.
+assistant: BIBERON
+-
+user: Empieza por la C: Boina grande, típica del País Vasco.
+assistant: CHAPELA
+-
+user: Empieza por la D: Señal que queda en la parte por donde se ha doblado algo.
+assistant: DOBLEZ
+-
+user: Empieza por la E: Ciudad de Francia que, en el siglo 11, se convirtió en capital de la familia de los señores de Ventadour.
+assistant: EGLETONS
+-
+user: Empieza por la F: Coloquialmente, enriquecerse, hacerse rico.
+assistant: FORRARSE
+-
+user: Empieza por la G: En la antigua Roma, persona que luchaba en el circo contra otra persona o contra una fiera.
+assistant: GLADIADOR
+-
+user: Empieza por la H: Cada una de las cuerdas que sostienen la hamaca.
+assistant: HICO
+-
+user: Empieza por la I: Intranquilidad producida por algo que molesta o que no acaba de llegar.
+assistant: IMPACIENCIA
+-
+user: Empieza por la J: Veteado o salpicado de pintas como el jaspe.
+assistant: JASPEADO
+-
+user: Empieza por la L: Pez marino comestible, de cuerpo ovalado y casi plano, con los dos ojos situados en el mismo lado del cuerpo.
+assistant: LENGUADO
+-
+user: Empieza por la M: Carta que se envía a alguien.
+assistant: MISIVA
+-
+user: Empieza por la N: Líquido inflamable y explosivo, que se emplea para fabricar dinamita.
+assistant: NITROGLICERINA
+-
+user: Contiene la Ñ: Parte instrumental o vocal de una composición que sirve de soporte armónico a la parte melódica principal..
+assistant: ACOMPAÑAMIENTO
+-
+user: Empieza por la O: Poliedro de ocho caras o planos.
+assistant: OCTAEDRO
+-
+user: Empieza por la P: Se dice del animal invertebrado que vive en las profundidades marinas y carece de boca y tubo digestivo.
+assistant: POGONOFORO
+-
+user: Contiene la Q: Asiento de tres o cuatro pies y sin respaldo.
+assistant: BANQUETA
+-
+user: Empieza por la R: Acto solemne en el que desfilan ante el jefe del Estado u otra autoridad los representantes de cuerpos o clase.
+assistant: RECEPCION
+-
+user: Empieza por la S: Voz inglesa que designa el establecimiento de tratamientos y sistemas de relajación con agua como base.
+assistant: SPA
+-
+user: Empieza por la T: Someter algo a un control o prueba.
+assistant: TESTAR
+-
+user: Empieza por la U: Se dice de la radiación que se encuentra entre el extremo violeta del espectro visible y los rayos X.
+assistant: ULTRAVIOLETA
+-
+user: Empieza por la V: Quinto día de la semana.
+assistant: VIERNES
+-
+user: Contiene la X: Conjunto de elementos dedicados a una industria o granjería.
+assistant: EXPLOTACION
+-
+user: Contiene la Y: Apellido del activista que sucedió a Luther King como presidente de la Conferencia Sur de Liderazgo Cristiano.
+assistant: ABERNATHY
+-
+user: Empieza por la Z: Dividir un terreno en zonas.
+assistant: ZONIFICAR
+-
+user: Empieza por A. Estado de Estados Unidos en el que se encuentra el Gran Canon del Colorado.
+assistant: ARIZONA
+-
+user: Empieza por B. Sistema de escritura para ciegos que consiste en signos dibujados en relieve para poder leer con los dedos.
+assistant: BRAILE
+-
+user: Empieza por C. Empleo y ejercicio del profesor que tiene la categoria mas alta en ensenanza media o universitaria.
+assistant: CATEDRA
+-
+user: Empieza por D. Gozar, sentir placer.
+assistant: DISFRUTAR
+-
+user: Empieza por E. Desgaste de la superficie terrestre por agentes externos, como el agua o el viento.
+assistant: EROSION
+-
+user: Empieza por F. Conjunto de los organismos publicos que se ocupan de la recaudacion de impuestos.
+assistant: FISCO
+-
+user: Empieza por G. Carrera en que los participantes deben superar una serie de pruebas a lo largo del recorrido.
+assistant: GINCANA
+-
+user: Empieza por H. En lenguaje poetico, ninfa de los prados.
+assistant: HENIDE
+-
+user: Empieza por I. Se dice de la habitacion o vivienda que no tiene vistas a la calle.
+assistant: INTERIOR
+-
+user: Empieza por J. Variedad de chile, de color verde oscuro, mas bien pequeno y muy picante, que suele tomarse encurtido.
+assistant: JALAPENO
+-
+user: Empieza por L. Persona o animal que guia a un ciego.
+assistant: LAZARILLO
+-
+user: Empieza por M. Apellido del medico y rabino que, en 1534, fue nombrado medico papal por el pontifice Pablo 3o.
+assistant: MANTINO
+-
+user: Empieza por N. Hidrocarburo solido y blanco que se vende en forma de bolas para preservar la ropa de la polilla.
+assistant: NAFTALINA
+-
+user: Contiene la N. Monte rocoso.
+assistant: PENON
+-
+user: Empieza por O. Amor propio, autoestima.
+assistant: ORGULLO
+-
+user: Empieza por P. Abogado que trabaja como auxiliar de otro para adquirir experiencia en la profesion.
+assistant: PASANTE
+-
+user: Contiene la Q. En el juego del poker, combinacion de cuatro cartas iguales mas un comodin.
+assistant: REPOQUER
+-
+user: Empieza por R. Corriente de agua continua y mas o menos caudalosa que va a desembocar en otra, en un lago o en el mar.
+assistant: RIO
+-
+user: Empieza por S. Nombre de la dinastia de la India fundada por Pusyamitra alrededor del ano 185 antes de Cristo.
+assistant: SUNGA
+-
+user: Empieza por T. Recipiente de paredes aislantes y cierre hermetico, que conserva la temperatura de las sustancias introducidas.
+assistant: TERMO
+-
+user: Empieza por U. Que tiene una sola dimension.
+assistant: UNIDIMENSIONAL
+-
+user: Empieza por V. Tallo nuevo que brota de una planta.
+assistant: VASTAGO
+-
+user: Contiene la X. En medicina, dislocar un hueso.
+assistant: LUXAR
+-
+user: Contiene la Y. Mata silvestre, con frutos en forma de bolitas rojas, en cuyas raices vive una cochinilla que da color rojo.
+assistant: GAYUBA
+-
+user: Empieza por Z. Globo dirigible rigido.
+assistant: ZEPELIN
+-
+user: Empieza por A: Ruido producido por gente que grita, se rie o habla estridentemente.
+assistant: ALBOROTO
+-
+user: Empieza por B: Rizo de pelo de forma de helice.
+assistant: BUCLE
+-
+user: Empieza por C: Banda o sujecion pendiente del cuello o del hombro para inmovilizar un brazo lesionado.
+assistant: CABESTRILLO
+-
+user: Empieza por D: Argumentar en favor de ciertas cosas, ideas o personas que son combatidas por otros.
+assistant: DEFENDER
+-
+user: Empieza por E: En algunos juegos, especialmente de naipes, apuesta que se hace en una jugada.
+assistant: ENVITE
+-
+user: Empieza por F: Introduccion ilegal de mercancias en un pais, transportadas en un furgon.
+assistant: FURGONAZO
+-
+user: Empieza por G: Mal caracter, temperamento dificil.
+assistant: GENIO
+-
+user: Empieza por H: Cuerpo redondeado que producen las hembras de las aves y otros animales, y que contiene el germen del embrion.
+assistant: HUEVO
+-
+user: Empieza por I: Seguidor de una corriente que, en el siglo 8, negaba el culto a las imagenes sagradas.
+assistant: ICONOCLASTA
+-
+user: Empieza por J: Vino blanco y fino que se cria y elabora en la provincia de Cadiz.
+assistant: JEREZ
+-
+user: Empieza por L: Aquello que se deja o transmite a los sucesores, sea cosa material o inmaterial.
+assistant: LEGADO
+-
+user: Empieza por M: Carrillo carnoso y abultado.
+assistant: MOFLETE
+-
+user: Empieza por N: Adivinacion mediante la invocacion a los muertos.
+assistant: NIGROMANCIA
+-
+user: Contiene la N: Arte de construir edificios u obras en que se empleen ladrillos, piedra, yeso, cemento o materiales semejantes.
+assistant: ALBANILERIA
+-
+user: Empieza por O: Municipio de los Paises Bajos en el que se encuentra el Castillo de Eerde.
+assistant: OMMEN
+-
+user: Empieza por P: Que se realiza o celebra en la vivienda de alguien, en el seno de la familia o con asistencia limitada de poca.
+assistant: PRIVADO
+-
+user: Contiene la Q: Vehiculo sin motor, destinado a ser arrastrado por otro.
+assistant: REMOLQUE
+-
+user: Empieza por R: Conjunto de uvas sostenidas en un mismo tallo.
+assistant: RACIMO
+-
+user: Empieza por S: Mariquita, insecto coleoptero de alas rojas con puntos negros.
+assistant: SANANICA
+-
+user: Empieza por T: Persona habilitada para graduar el precio de un bien.
+assistant: TASADOR
+-
+user: Empieza por U: Accion y efecto de utilizar.
+assistant: UTILIZACION
+-
+user: Empieza por V: Sacar a la playa y poner en seco una embarcacion, para resguardarla de la resaca o de los golpes de mar.
+assistant: VARAR
+-
+user: Contiene la X: Jugo lechoso que circula por los vasos de algunas plantas, del que se obtienen materiales como caucho y goma.
+assistant: LATEX
+-
+user: Contiene la Y: Apellido del cantante que publico el album When the Angels Make Contact.
+assistant: MAYS
+-
+user: Empieza por Z: Hueso del pie que forma el talon.
+assistant: ZANCAJO
+-
